@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T09:58:53.795+01:00</Created>
+        <LastChange>2022-03-14T12:13:22.295+01:00</LastChange>
+        <TranskribusMetadata docId="781035" pageId="35404717" pageNr="1" tsid="78352860" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=LSWJZPKOVRFHFXPLAJYZJYFN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PQMAEDOMXGVMHDWZUMFHATDJ" imageId="28485305">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="303"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="Der Taler"/>
+            <Property key="Lage" value="28"/>
+            <Property key="Corpusnummerierung" value="lxxxv; 85"/>
+            <Property key="Lagenposition" value="4"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_taler00.jpg" imageWidth="1278" imageHeight="1887">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537358733" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646038759424_438"/>
+                <RegionRefIndexed index="1" regionRef="region_1646038761745_441"/>
+                <RegionRefIndexed index="2" regionRef="region_1646038763070_444"/>
+                <RegionRefIndexed index="3" regionRef="region_1646038765037_447"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646038759424_438" custom="readingOrder {index:0;}">
+            <Coords points="490,20 635,20 635,72 490,72"/>
+            <TextLine id="line_1646038770489_450" custom="readingOrder {index:0;} r-Abbreviatur {offset:0; length:2;Aufloesung:Der;}">
+                <Coords points="499,26 628,26 628,67 499,67"/>
+                <TextEquiv>
+                    <Unicode>D̾ taler ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>D̾ taler ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038761745_441" custom="readingOrder {index:1;}">
+            <Coords points="503,72 668,72 668,129 503,129"/>
+            <TextLine id="line_1646038773110_453" custom="readingOrder {index:0;}">
+                <Coords points="510,80 662,80 662,120 510,120"/>
+                <TextEquiv>
+                    <Unicode>Der TaleR ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der TaleR ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038763070_444" custom="readingOrder {index:2;}">
+            <Coords points="791,55 905,55 905,114 791,114"/>
+            <TextLine id="line_1646038776319_456" custom="readingOrder {index:0;}">
+                <Coords points="798,62 896,62 896,104 798,104"/>
+                <TextEquiv>
+                    <Unicode>‧ Lxxxv ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ Lxxxv ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038765037_447" custom="readingOrder {index:3;}">
+            <Coords points="1167,57 1206,57 1206,90 1167,90"/>
+            <TextLine id="line_1646038778993_459" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1167,62 1204,62 1204,86 1167,86"/>
+                <TextEquiv>
+                    <Unicode>303</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>303</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
