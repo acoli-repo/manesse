@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T10:26:38.937+01:00</Created>
+        <LastChange>2022-03-14T14:15:37.437+01:00</LastChange>
+        <TranskribusMetadata docId="819686" pageId="35410199" pageNr="1" tsid="78356156" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=NZKSHZAQWATLWKVEHIRCDJZI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZHRWXKENPQSKZHPNMZMTNUDS" imageId="28489661">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="320v"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="her Geltar"/>
+            <Property key="Lage" value="29"/>
+            <Property key="Corpusnummerierung" value="lxxxxv; 95"/>
+            <Property key="Lagenposition" value="8"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_Geltar0.jpg" imageWidth="1282" imageHeight="1886">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537410697" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646040426491_873"/>
+                <RegionRefIndexed index="1" regionRef="region_1646040427995_876"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646040426491_873" custom="readingOrder {index:0;}">
+            <Coords points="518,39 733,39 733,120 518,120"/>
+            <TextLine id="line_1646040432105_879" custom="readingOrder {index:0;} Autornennung {offset:0; length:10;}">
+                <Coords points="527,48 706,48 706,111 527,111"/>
+                <TextEquiv>
+                    <Unicode>her Geltar ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>her Geltar ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646040427995_876" custom="readingOrder {index:1;}">
+            <Coords points="792,36 937,36 937,100 792,100"/>
+            <TextLine id="line_1646040434348_882" custom="readingOrder {index:0;}">
+                <Coords points="797,43 925,43 925,87 797,87"/>
+                <TextEquiv>
+                    <Unicode>‧ Lxxxv ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ Lxxxv ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
