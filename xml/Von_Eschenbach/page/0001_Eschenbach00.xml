@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T09:39:33.756+01:00</Created>
+        <LastChange>2022-03-14T07:40:37.670+01:00</LastChange>
+        <TranskribusMetadata docId="669416" pageId="35401645" pageNr="1" tsid="78343985" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=JBTQSFRARAXQHGKLDQGQBXFU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=INDESPOFWHQJYQEYJOMHUHYD" imageId="28482234">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="149v"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="her wolfran von Eschilbach"/>
+            <Property key="Lage" value="14"/>
+            <Property key="Corpusnummerierung" value="xliiii; 44"/>
+            <Property key="Lagenposition" value="2"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_Eschenbach00.jpg" imageWidth="1258" imageHeight="1874">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537340952" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646037593771_101"/>
+                <RegionRefIndexed index="1" regionRef="region_1646037595960_104"/>
+                <RegionRefIndexed index="2" regionRef="region_1646037597448_107"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646037593771_101" custom="readingOrder {index:0;}">
+            <Coords points="638,50 766,50 766,1 638,1"/>
+            <TextLine id="line_1646037602357_110" custom="readingOrder {index:0;}">
+                <Coords points="654,43 749,43 749,10 654,10"/>
+                <TextEquiv>
+                    <Unicode>‧ Eſchelbach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ Eſchelbach</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646037595960_104" custom="readingOrder {index:1;}">
+            <Coords points="468,56 910,56 910,141 468,141"/>
+            <TextLine id="line_1646037604878_113" custom="readingOrder {index:0;}">
+                <Coords points="487,65 893,65 893,122 487,122"/>
+                <TextEquiv>
+                    <Unicode>Her ‧ wolfran von Eſchılbach ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Her ‧ wolfran von Eſchılbach ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646037597448_107" custom="readingOrder {index:2;}">
+            <Coords points="963,68 1080,68 1080,127 963,127"/>
+            <TextLine id="line_1646037607115_116" custom="readingOrder {index:0;}">
+                <Coords points="970,72 1065,72 1065,116 970,116"/>
+                <TextEquiv>
+                    <Unicode>‧ xlıııı ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ xlıııı ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

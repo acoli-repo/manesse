@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-17T16:16:14.366+01:00</Created>
+        <LastChange>2023-01-11T09:21:12.347+01:00</LastChange>
+        <TranskribusMetadata docId="893859" pageId="34222355" pageNr="1" tsid="108893767" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=QIYQGQONDCZLYPPFHSYAQXBJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LWONUXFMVCXJBLOORQYXEOWX" imageId="27433785">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="160v"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="Wachsmuͦt von Künzingen"/>
+            <Property key="Lage" value="15"/>
+            <Property key="Corpusnummerierung" value="xlvii; 47"/>
+            <Property key="Lagenposition" value="2"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_wachsmut00.jpg" imageWidth="1276" imageHeight="1885">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537337658" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1642434045444_21"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1642433927030_8"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1642433927029_7"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1642434045444_21" custom="readingOrder {index:0;}">
+            <Coords points="627,40 826,40 826,9 627,9"/>
+            <TextLine id="line_1642434049948_24" custom="readingOrder {index:0;} Nasalstrich {offset:11; length:2;Aufloesung:on;} Nasalstrich {offset:22; length:2;Aufloesung:en;}">
+                <Coords points="635,34 818,34 818,13 635,13"/>
+                <TextEquiv>
+                    <Unicode>Wachſmuͦt vō kunzıngē ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wachſmuͦt vō kunzıngē ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1642433927030_8" custom="readingOrder {index:1;}">
+            <Coords points="449,51 957,51 957,153 449,153"/>
+            <TextLine id="line_1642433931854_11" custom="readingOrder {index:0;}">
+                <Coords points="505,61 932,61 932,132 505,132"/>
+                <TextEquiv>
+                    <Unicode>Wachſmuͦt von kunzıngen ‧ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wachſmuͦt von kunzıngen ‧ </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1642433927029_7" custom="readingOrder {index:2;}">
+            <Coords points="957,51 1135,51 1135,153 957,153"/>
+            <TextLine id="line_1642433934236_14" custom="readingOrder {index:0;}">
+                <Coords points="991,77 1073,77 1073,121 991,121"/>
+                <TextEquiv>
+                    <Unicode>clvıı ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>clvıı ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
