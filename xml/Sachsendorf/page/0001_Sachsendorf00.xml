@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T10:33:14.375+01:00</Created>
+        <LastChange>2022-03-15T09:18:00.139+01:00</LastChange>
+        <TranskribusMetadata docId="846568" pageId="35412334" pageNr="1" tsid="78392702" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=SUVKFWICXQNJFMJHNDBEMAVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AUDLYJCWIYZNZQEKOQRVRVDV" imageId="28490677">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="158"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="Der von Sachsendorf"/>
+            <Property key="Lage" value="15"/>
+            <Property key="Corpusnummerierung" value="xlvi; 46"/>
+            <Property key="Lagenposition" value="1"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_Sachsendorf00.jpg" imageWidth="1235" imageHeight="1875">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537379660" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646040811452_972"/>
+                <RegionRefIndexed index="1" regionRef="region_1646040813536_975"/>
+                <RegionRefIndexed index="2" regionRef="region_1646040814623_978"/>
+                <RegionRefIndexed index="3" regionRef="region_1646040816157_981"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646040811452_972" custom="readingOrder {index:0;}">
+            <Coords points="495,41 633,41 633,5 495,5"/>
+            <TextLine id="line_1646040834390_984" custom="readingOrder {index:0;}">
+                <Coords points="505,12 601,12 601,38 505,38"/>
+                <TextEquiv>
+                    <Unicode>Sachſendoꝛf ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sachſendoꝛf ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646040813536_975" custom="readingOrder {index:1;}">
+            <Coords points="369,79 702,79 702,144 369,144"/>
+            <TextLine id="line_1646040836349_987" custom="readingOrder {index:0;}">
+                <Coords points="375,86 678,86 678,133 375,133"/>
+                <TextEquiv>
+                    <Unicode>Der von Sachſendoꝛf ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der von Sachſendoꝛf ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646040814623_978" custom="readingOrder {index:2;}">
+            <Coords points="827,66 934,66 934,115 827,115"/>
+            <TextLine id="line_1646040838037_990" custom="readingOrder {index:0;}">
+                <Coords points="838,78 912,78 912,105 838,105"/>
+                <TextEquiv>
+                    <Unicode>‧ xlvı ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ xlvı ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646040816157_981" custom="readingOrder {index:3;}">
+            <Coords points="1124,39 1181,39 1181,93 1124,93"/>
+            <TextLine id="line_1646040840058_993" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1132,46 1173,46 1173,82 1132,82"/>
+                <TextEquiv>
+                    <Unicode>158</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>158</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
