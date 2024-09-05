@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-03-14T09:17:36.642+01:00</Created>
+        <LastChange>2022-03-14T09:27:42.796+01:00</LastChange>
+        <TranskribusMetadata docId="789956" pageId="36602407" pageNr="5" tsid="78346200" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=SKQSOTYWHXPWDGILLKYCZDKI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LEJVTNGECLNJXQRWSUDLRYVV" imageId="29544651">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="nein"/>
+            <Property key="Seitennummerierung" value="294v"/>
+            <Property key="Linierung" value="ja"/>
+            <Property key="Autornennung" value="Der Schuͦlmeister von Esselingen"/>
+            <Property key="Lage" value="27"/>
+            <Property key="Corpusnummerierung" value="lxxxiii;83"/>
+            <Property key="Lagenposition" value="2"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0005_schulmeister04.jpg" imageWidth="1261" imageHeight="1883">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537377569" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1647246327863_5041"/>
+                <RegionRefIndexed index="1" regionRef="region_1647246331052_5044"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1647246327863_5041" custom="readingOrder {index:0;} structure {type:Spalte;}">
+            <Coords points="229,162 698,162 698,1505 229,1505"/>
+            <TextLine id="line_1647246397703_5236" custom="readingOrder {index:0;} structure {type:Leerzeile;}">
+                <Coords points="243,176 676,176 676,204 243,204"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246397703_5235" custom="readingOrder {index:1;} structure {type:Leerzeile;}">
+                <Coords points="243,204 676,204 676,233 243,233"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246396917_5231" custom="readingOrder {index:2;} structure {type:Leerzeile;}">
+                <Coords points="243,233 676,233 676,257 243,257"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246396284_5227" custom="readingOrder {index:3;} structure {type:Leerzeile;}">
+                <Coords points="243,257 676,257 676,286 243,286"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246395683_5223" custom="readingOrder {index:4;} structure {type:Leerzeile;}">
+                <Coords points="243,286 676,286 676,311 243,311"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246395066_5219" custom="readingOrder {index:5;} structure {type:Leerzeile;}">
+                <Coords points="243,311 676,311 676,338 243,338"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246394049_5215" custom="readingOrder {index:6;} structure {type:Leerzeile;}">
+                <Coords points="243,338 676,338 676,365 243,365"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246393279_5211" custom="readingOrder {index:7;} structure {type:Leerzeile;}">
+                <Coords points="243,365 676,365 676,390 243,390"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246392477_5207" custom="readingOrder {index:8;} structure {type:Leerzeile;}">
+                <Coords points="243,390 676,390 676,416 243,416"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246391559_5203" custom="readingOrder {index:9;} structure {type:Leerzeile;}">
+                <Coords points="243,416 676,416 676,448 243,448"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246390958_5199" custom="readingOrder {index:10;} structure {type:Leerzeile;}">
+                <Coords points="243,448 676,448 676,473 243,473"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246390441_5195" custom="readingOrder {index:11;} structure {type:Leerzeile;}">
+                <Coords points="243,473 676,473 676,496 243,496"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246389886_5191" custom="readingOrder {index:12;} structure {type:Leerzeile;}">
+                <Coords points="243,496 676,496 676,524 243,524"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246389101_5187" custom="readingOrder {index:13;} structure {type:Leerzeile;}">
+                <Coords points="243,524 676,524 676,557 243,557"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246388321_5183" custom="readingOrder {index:14;} structure {type:Leerzeile;}">
+                <Coords points="243,557 676,557 676,581 243,581"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246387666_5179" custom="readingOrder {index:15;} structure {type:Leerzeile;}">
+                <Coords points="243,581 676,581 676,611 243,611"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246387118_5175" custom="readingOrder {index:16;} structure {type:Leerzeile;}">
+                <Coords points="243,611 676,611 676,638 243,638"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246383895_5171" custom="readingOrder {index:17;} structure {type:Leerzeile;}">
+                <Coords points="243,638 676,638 676,669 243,669"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246383009_5167" custom="readingOrder {index:18;} structure {type:Leerzeile;}">
+                <Coords points="243,669 676,669 676,699 243,699"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246381992_5163" custom="readingOrder {index:19;} structure {type:Leerzeile;}">
+                <Coords points="243,699 676,699 676,724 243,724"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246381369_5159" custom="readingOrder {index:20;} structure {type:Leerzeile;}">
+                <Coords points="243,724 676,724 676,753 243,753"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246379919_5155" custom="readingOrder {index:21;} structure {type:Leerzeile;}">
+                <Coords points="243,753 676,753 676,775 243,775"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246378801_5151" custom="readingOrder {index:22;} structure {type:Leerzeile;}">
+                <Coords points="243,775 676,775 676,797 243,797"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246376812_5147" custom="readingOrder {index:23;} structure {type:Leerzeile;}">
+                <Coords points="243,797 676,797 676,829 243,829"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246376311_5143" custom="readingOrder {index:24;} structure {type:Leerzeile;}">
+                <Coords points="243,829 676,829 676,865 243,865"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246375656_5139" custom="readingOrder {index:25;} structure {type:Leerzeile;}">
+                <Coords points="243,865 676,865 676,890 243,890"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246375055_5135" custom="readingOrder {index:26;} structure {type:Leerzeile;}">
+                <Coords points="243,890 676,890 676,921 243,921"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246374422_5131" custom="readingOrder {index:27;} structure {type:Leerzeile;}">
+                <Coords points="243,921 676,921 676,952 243,952"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246373752_5127" custom="readingOrder {index:28;} structure {type:Leerzeile;}">
+                <Coords points="243,952 676,952 676,981 243,981"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246373073_5123" custom="readingOrder {index:29;} structure {type:Leerzeile;}">
+                <Coords points="243,981 676,981 676,1014 243,1014"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246372371_5119" custom="readingOrder {index:30;} structure {type:Leerzeile;}">
+                <Coords points="243,1014 676,1014 676,1036 243,1036"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246371764_5115" custom="readingOrder {index:31;} structure {type:Leerzeile;}">
+                <Coords points="243,1036 676,1036 676,1065 243,1065"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246371170_5111" custom="readingOrder {index:32;} structure {type:Leerzeile;}">
+                <Coords points="243,1065 676,1065 676,1097 243,1097"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246370531_5107" custom="readingOrder {index:33;} structure {type:Leerzeile;}">
+                <Coords points="243,1097 676,1097 676,1123 243,1123"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246369867_5103" custom="readingOrder {index:34;} structure {type:Leerzeile;}">
+                <Coords points="243,1123 676,1123 676,1147 243,1147"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246369359_5099" custom="readingOrder {index:35;} structure {type:Leerzeile;}">
+                <Coords points="243,1147 676,1147 676,1177 243,1177"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246368464_5095" custom="readingOrder {index:36;} structure {type:Leerzeile;}">
+                <Coords points="243,1177 676,1177 676,1203 243,1203"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246367662_5091" custom="readingOrder {index:37;} structure {type:Leerzeile;}">
+                <Coords points="243,1203 676,1203 676,1230 243,1230"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246367077_5087" custom="readingOrder {index:38;} structure {type:Leerzeile;}">
+                <Coords points="243,1230 676,1230 676,1259 243,1259"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246366122_5083" custom="readingOrder {index:39;} structure {type:Leerzeile;}">
+                <Coords points="243,1259 676,1259 676,1293 243,1293"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246365589_5079" custom="readingOrder {index:40;} structure {type:Leerzeile;}">
+                <Coords points="243,1293 676,1293 676,1311 243,1311"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246365035_5075" custom="readingOrder {index:41;} structure {type:Leerzeile;}">
+                <Coords points="243,1311 676,1311 676,1343 243,1343"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246364534_5071" custom="readingOrder {index:42;} structure {type:Leerzeile;}">
+                <Coords points="243,1343 676,1343 676,1369 243,1369"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246363985_5067" custom="readingOrder {index:43;} structure {type:Leerzeile;}">
+                <Coords points="243,1369 676,1369 676,1401 243,1401"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246363284_5063" custom="readingOrder {index:44;} structure {type:Leerzeile;}">
+                <Coords points="243,1401 676,1401 676,1431 243,1431"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246362398_5059" custom="readingOrder {index:45;} structure {type:Leerzeile;}">
+                <Coords points="243,1431 676,1431 676,1462 243,1462"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246361649_5055" custom="readingOrder {index:46;} structure {type:Leerzeile;}">
+                <Coords points="243,1462 676,1462 676,1491 243,1491"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1647246331052_5044" custom="readingOrder {index:1;} structure {type:Spalte;}">
+            <Coords points="698,1505 1153,1505 1153,160 698,160"/>
+            <TextLine id="line_1647246438256_5421" custom="readingOrder {index:0;} structure {type:Leerzeile;}">
+                <Coords points="720,172 1137,172 1137,192 720,192"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246438256_5420" custom="readingOrder {index:1;} structure {type:Leerzeile;}">
+                <Coords points="720,192 1137,192 1137,224 720,224"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246437607_5416" custom="readingOrder {index:2;} structure {type:Leerzeile;}">
+                <Coords points="720,224 1137,224 1137,253 720,253"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246436536_5412" custom="readingOrder {index:3;} structure {type:Leerzeile;}">
+                <Coords points="720,253 1137,253 1137,276 720,276"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246435851_5408" custom="readingOrder {index:4;} structure {type:Leerzeile;}">
+                <Coords points="720,276 1137,276 1137,312 720,312"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246435165_5404" custom="readingOrder {index:5;} structure {type:Leerzeile;}">
+                <Coords points="720,312 1137,312 1137,331 720,331"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246434479_5400" custom="readingOrder {index:6;} structure {type:Leerzeile;}">
+                <Coords points="720,331 1137,331 1137,360 720,360"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246433862_5396" custom="readingOrder {index:7;} structure {type:Leerzeile;}">
+                <Coords points="720,360 1137,360 1137,378 720,378"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246433245_5392" custom="readingOrder {index:8;} structure {type:Leerzeile;}">
+                <Coords points="720,378 1137,378 1137,409 720,409"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246432597_5388" custom="readingOrder {index:9;} structure {type:Leerzeile;}">
+                <Coords points="720,409 1137,409 1137,438 720,438"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246431959_5384" custom="readingOrder {index:10;} structure {type:Leerzeile;}">
+                <Coords points="720,438 1137,438 1137,470 720,470"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246430007_5380" custom="readingOrder {index:11;} structure {type:Leerzeile;}">
+                <Coords points="720,470 1137,470 1137,496 720,496"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246429422_5376" custom="readingOrder {index:12;} structure {type:Leerzeile;}">
+                <Coords points="720,496 1137,496 1137,522 720,522"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246428720_5372" custom="readingOrder {index:13;} structure {type:Leerzeile;}">
+                <Coords points="720,522 1137,522 1137,542 720,542"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246428150_5368" custom="readingOrder {index:14;} structure {type:Leerzeile;}">
+                <Coords points="720,542 1137,542 1137,575 720,575"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246427533_5364" custom="readingOrder {index:15;} structure {type:Leerzeile;}">
+                <Coords points="720,575 1137,575 1137,608 720,608"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246426847_5360" custom="readingOrder {index:16;} structure {type:Leerzeile;}">
+                <Coords points="720,608 1137,608 1137,636 720,636"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246426330_5356" custom="readingOrder {index:17;} structure {type:Leerzeile;}">
+                <Coords points="720,636 1137,636 1137,659 720,659"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246425813_5352" custom="readingOrder {index:18;} structure {type:Leerzeile;}">
+                <Coords points="720,659 1137,659 1137,687 720,687"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246425343_5348" custom="readingOrder {index:19;} structure {type:Leerzeile;}">
+                <Coords points="720,687 1137,687 1137,717 720,717"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246424811_5344" custom="readingOrder {index:20;} structure {type:Leerzeile;}">
+                <Coords points="720,717 1137,717 1137,743 720,743"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246424241_5340" custom="readingOrder {index:21;} structure {type:Leerzeile;}">
+                <Coords points="720,743 1137,743 1137,771 720,771"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246423778_5336" custom="readingOrder {index:22;} structure {type:Leerzeile;}">
+                <Coords points="720,771 1137,771 1137,797 720,797"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246423254_5332" custom="readingOrder {index:23;} structure {type:Leerzeile;}">
+                <Coords points="720,797 1137,797 1137,822 720,822"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246422775_5328" custom="readingOrder {index:24;} structure {type:Leerzeile;}">
+                <Coords points="720,822 1137,822 1137,854 720,854"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246422105_5324" custom="readingOrder {index:25;} structure {type:Leerzeile;}">
+                <Coords points="720,854 1137,854 1137,890 720,890"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246419931_5320" custom="readingOrder {index:26;} structure {type:Leerzeile;}">
+                <Coords points="720,890 1137,890 1137,919 720,919"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246419346_5316" custom="readingOrder {index:27;} structure {type:Leerzeile;}">
+                <Coords points="720,919 1137,919 1137,947 720,947"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246418782_5312" custom="readingOrder {index:28;} structure {type:Leerzeile;}">
+                <Coords points="720,947 1137,947 1137,973 720,973"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246418212_5308" custom="readingOrder {index:29;} structure {type:Leerzeile;}">
+                <Coords points="720,973 1137,973 1137,1008 720,1008"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246417595_5304" custom="readingOrder {index:30;} structure {type:Leerzeile;}">
+                <Coords points="720,1008 1137,1008 1137,1038 720,1038"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246417009_5300" custom="readingOrder {index:31;} structure {type:Leerzeile;}">
+                <Coords points="720,1038 1137,1038 1137,1064 720,1064"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246416462_5296" custom="readingOrder {index:32;} structure {type:Leerzeile;}">
+                <Coords points="720,1064 1137,1064 1137,1091 720,1091"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246415660_5292" custom="readingOrder {index:33;} structure {type:Leerzeile;}">
+                <Coords points="720,1091 1137,1091 1137,1120 720,1120"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246415137_5288" custom="readingOrder {index:34;} structure {type:Leerzeile;}">
+                <Coords points="720,1120 1137,1120 1137,1143 720,1143"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246414558_5284" custom="readingOrder {index:35;} structure {type:Leerzeile;}">
+                <Coords points="720,1143 1137,1143 1137,1172 720,1172"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246413903_5280" custom="readingOrder {index:36;} structure {type:Leerzeile;}">
+                <Coords points="720,1172 1137,1172 1137,1200 720,1200"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246413270_5276" custom="readingOrder {index:37;} structure {type:Leerzeile;}">
+                <Coords points="720,1200 1137,1200 1137,1229 720,1229"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246412669_5272" custom="readingOrder {index:38;} structure {type:Leerzeile;}">
+                <Coords points="720,1229 1137,1229 1137,1256 720,1256"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246412031_5268" custom="readingOrder {index:39;} structure {type:Leerzeile;}">
+                <Coords points="720,1256 1137,1256 1137,1283 720,1283"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246411251_5264" custom="readingOrder {index:40;} structure {type:Leerzeile;}">
+                <Coords points="720,1283 1137,1283 1137,1312 720,1312"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246410697_5260" custom="readingOrder {index:41;} structure {type:Leerzeile;}">
+                <Coords points="720,1312 1137,1312 1137,1339 720,1339"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246410111_5256" custom="readingOrder {index:42;} structure {type:Leerzeile;}">
+                <Coords points="720,1339 1137,1339 1137,1370 720,1370"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246409447_5252" custom="readingOrder {index:43;} structure {type:Leerzeile;}">
+                <Coords points="720,1370 1137,1370 1137,1394 720,1394"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246408877_5248" custom="readingOrder {index:44;} structure {type:Leerzeile;}">
+                <Coords points="720,1394 1137,1394 1137,1428 720,1428"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246408291_5244" custom="readingOrder {index:45;} structure {type:Leerzeile;}">
+                <Coords points="720,1428 1137,1428 1137,1458 720,1458"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1647246407622_5240" custom="readingOrder {index:46;} structure {type:Leerzeile;}">
+                <Coords points="720,1458 1137,1458 1137,1487 720,1487"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
