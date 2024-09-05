@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T09:50:20.435+01:00</Created>
+        <LastChange>2022-03-14T09:02:43.632+01:00</LastChange>
+        <TranskribusMetadata docId="728269" pageId="35403375" pageNr="1" tsid="78345590" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=DTOBKSYBWRLGWYBOTLOAYQDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ISOZWROJROCTZWXRNYBISHND" imageId="28483964">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="290"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="Der hardegger"/>
+            <Property key="Lage" value="27"/>
+            <Property key="Corpusnummerierung" value="lxxxii; 82"/>
+            <Property key="Lagenposition" value="1"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_hardegger00.jpg" imageWidth="1268" imageHeight="1890">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537404875" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646038250487_292"/>
+                <RegionRefIndexed index="1" regionRef="region_1646038252260_295"/>
+                <RegionRefIndexed index="2" regionRef="region_1646038253879_298"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646038250487_292" custom="readingOrder {index:0;}">
+            <Coords points="412,85 678,85 678,20 412,20"/>
+            <TextLine id="line_1646038258389_301" custom="readingOrder {index:0;}">
+                <Coords points="430,24 665,24 665,80 430,80"/>
+                <TextEquiv>
+                    <Unicode>Der hardegger ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der hardegger ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038252260_295" custom="readingOrder {index:1;}">
+            <Coords points="813,28 945,28 945,87 813,87"/>
+            <TextLine id="line_1646038260494_304" custom="readingOrder {index:0;}">
+                <Coords points="821,37 932,37 932,79 821,79"/>
+                <TextEquiv>
+                    <Unicode>‧ lxxxıı ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ lxxxıı ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038253879_298" custom="readingOrder {index:2;}">
+            <Coords points="1128,38 1196,38 1196,87 1128,87"/>
+            <TextLine id="line_1646038262598_307" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1139,47 1185,47 1185,74 1139,74"/>
+                <TextEquiv>
+                    <Unicode>290</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>290</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
