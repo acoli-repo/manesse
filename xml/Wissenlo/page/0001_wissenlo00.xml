@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T09:51:46.131+01:00</Created>
+        <LastChange>2022-03-14T11:42:44.484+01:00</LastChange>
+        <TranskribusMetadata docId="741960" pageId="35403623" pageNr="1" tsid="78352333" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=MEOGWSPLCSSJOWBCJEPKUCUI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SFXWAECIJEPACNAHNGXADHER" imageId="28484212">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="299"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="Von Wissenlo"/>
+            <Property key="Lage" value="28"/>
+            <Property key="Corpusnummerierung" value="lxxxiii; 83"/>
+            <Property key="Lagenposition" value="1"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_wissenlo00.jpg" imageWidth="1275" imageHeight="1891">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537329719" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646038333051_325"/>
+                <RegionRefIndexed index="1" regionRef="region_1646038334918_328"/>
+                <RegionRefIndexed index="2" regionRef="region_1646038336544_331"/>
+                <RegionRefIndexed index="3" regionRef="region_1646038337994_334"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646038333051_325" custom="readingOrder {index:0;}">
+            <Coords points="459,34 624,34 624,70 459,70"/>
+            <TextLine id="line_1646038366944_337" custom="readingOrder {index:0;} Nasalstrich {offset:1; length:2;Aufloesung:on;}">
+                <Coords points="473,38 607,38 607,66 473,66"/>
+                <TextEquiv>
+                    <Unicode>Vō Wıſſenlô</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vō Wıſſenlô</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038334918_328" custom="readingOrder {index:1;}">
+            <Coords points="624,70 351,70 351,109 624,109"/>
+            <TextLine id="line_1646038369403_340" custom="readingOrder {index:0;}">
+                <Coords points="358,72 560,72 560,104 358,104"/>
+                <TextEquiv>
+                    <Unicode>Von Wíſſenlo ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von Wíſſenlo ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038336544_331" custom="readingOrder {index:2;}">
+            <Coords points="866,59 999,59 999,114 866,114"/>
+            <TextLine id="line_1646038371672_343" custom="readingOrder {index:0;}">
+                <Coords points="874,65 991,65 991,105 874,105"/>
+                <TextEquiv>
+                    <Unicode>‧ Lxxxııı ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ Lxxxııı ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038337994_334" custom="readingOrder {index:3;}">
+            <Coords points="1136,48 1208,48 1208,88 1136,88"/>
+            <TextLine id="line_1646038373830_346" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1142,55 1195,55 1195,82 1142,82"/>
+                <TextEquiv>
+                    <Unicode>299</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>299</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
