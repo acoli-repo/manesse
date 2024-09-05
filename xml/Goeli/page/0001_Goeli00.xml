@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T09:41:21.890+01:00</Created>
+        <LastChange>2022-03-14T07:46:35.886+01:00</LastChange>
+        <TranskribusMetadata docId="675205" pageId="35401955" pageNr="1" tsid="78344003" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=GXREBYYCRCGCDGSULMIUDEMM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VPNFQTXPJGTBVFFKWJIGWISU" imageId="28482544">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="262v"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="her Goͤli"/>
+            <Property key="Lage" value="24"/>
+            <Property key="Corpusnummerierung" value="xliiii; 44"/>
+            <Property key="Lagenposition" value="2"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_Goeli00.jpg" imageWidth="1261" imageHeight="1893">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537409319" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646037705590_134"/>
+                <RegionRefIndexed index="1" regionRef="region_1646037708429_137"/>
+                <RegionRefIndexed index="2" regionRef="region_1646037710433_140"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646037705590_134" custom="readingOrder {index:0;}">
+            <Coords points="629,50 722,50 722,23 629,23"/>
+            <TextLine id="line_1646037715558_143" custom="readingOrder {index:0;} r-Abbreviatur {offset:0; length:2;Aufloesung:her;}">
+                <Coords points="634,26 715,26 715,48 634,48"/>
+                <TextEquiv>
+                    <Unicode>h̾ Goͤlı</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>h̾ Goͤlı</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646037708429_137" custom="readingOrder {index:1;}">
+            <Coords points="560,51 712,51 712,109 560,109"/>
+            <TextLine id="line_1646037718179_146" custom="readingOrder {index:0;}">
+                <Coords points="573,54 710,54 710,97 573,97"/>
+                <TextEquiv>
+                    <Unicode>her Goͤlı ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>her Goͤlı ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646037710433_140" custom="readingOrder {index:2;}">
+            <Coords points="818,54 958,54 958,112 818,112"/>
+            <TextLine id="line_1646037720551_149" custom="readingOrder {index:0;}">
+                <Coords points="828,57 944,57 944,102 828,102"/>
+                <TextEquiv>
+                    <Unicode>‧ lxxvııı ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ lxxvııı ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
