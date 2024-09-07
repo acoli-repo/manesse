@@ -29,4 +29,7 @@ The content will be released under an open (Creative Commons) license, but this 
 
 ## Acknowledgments
 
-tba.
+- **Image sources tba**
+- Transliteration and annotation provided by @bleuleran, **details tba**
+- Build script by @chiarcos
+- For the TEI export, we rely on the original [Transkribus converter](https://github.com/dariok/page2tei) created by @tboenig, @peterstadler, @tillgrallert, partially supported by German BMBF, project ID 16TOA015A.
