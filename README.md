@@ -11,7 +11,7 @@ The content will be released under an open (Creative Commons) license, but this 
 - For technical reasons, HTML files are not properly rendered in GitHub, and [common solutions](https://htmlpreview.github.io/) do not apply to private repositories. For looking into these files, please download the entire repo as a ZIP file, decopress on your computer and open locally.
 - For downloading the entire repository, click on "Code" on the main page, and "Download ZIP" as in the screenshot below:
 
-	![](scripts/download.jpg?raw=true)
+	![](scripts/download.png)
 
 ## Content
 
