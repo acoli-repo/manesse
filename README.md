@@ -8,11 +8,17 @@ The content will be released under an open (Creative Commons) license, but this 
 
 ## Content
 
-- [`pdf/`](pdf) transcription data, PDF export. (This is for human consultation.)
-- [`xml/`](xml) transcription data, Transkribus Page XML format ("Page XML"), also includes source images. (This is for subsequent processing/technically interested colleagues.)
-- [`tei/`](tei) generated from `xml/` using `make tei`
-	- Note: The Transkribus TEI export contains XML-valid image information, bounding boxes, transliteration and annotations -- but it does not provide TEI compliant data structures for project-specific annotations. The post-processing of these annotations is addressed in the next project phase.
-	- Note: Transkribus TEI provides visual information first (under `/TEI/facsimile`), then followed by text and annotations (under `/TEI/text`), connected by XPointers. For manually inspecting the validity of annotations and transliteration, please **scroll down** to the first `<text>` element.
+- **FOR PHILOLOGICAL PURPOSES**
+	- [`html/`](html) **partial** transcription data, HTML export, for human consultation
+		- each page provides a scan of the page, followed by the transcription
+		- **warning**: does not contain annotations
+		- **warning**: for technical reasons, images were compressed
+		- uncompressed images can be found under [`xml/`](img)/*/*.jpg, e.g., under [`xml/Spervogel`](xml/Spervogel) for Spervogel, usw..
+- **FOR DH PURPOSES**
+	- [`tei/`](tei) **full** transcription data, Transcribus TEI/XML export
+		- **warning**: The Transkribus TEI export contains XML-valid image information, bounding boxes, transliteration and annotations -- but it does not provide TEI compliant data structures for project-specific annotations. The post-processing of these annotations is addressed in the next project phase.
+		- **note**: Transkribus TEI provides visual information first (under `/TEI/facsimile`), then followed by text and annotations (under `/TEI/text`), connected by XPointers. For manually inspecting the validity of annotations and transliteration, please **scroll down** to the first `<text>` element.
+	- [`xml/`](xml) **full** transcription data, Transkribus Page XML format ("Page XML"), also includes source images. (This is for subsequent processing/technically interested colleagues.)
 
 ## How to (re)build  `tei/` from scratch (for developers)
 
@@ -26,6 +32,14 @@ The content will be released under an open (Creative Commons) license, but this 
 	- to build all from scratch, delete the `tei/` folder and run `make tei` (or `make update_tei`)
 - if all goes well, find your output in [`tei/`](tei)
 - if not, check the logs ;)
+
+## How to (re)build `html/` from scratch (for developers)
+
+- requirements
+	- Unix-style command-line with `bash`, `make` (tested under Ubuntu 22.04L)
+	- `pdftohtml`
+- deposit your PDF export in [`pdf/`](pdf)
+- run `make html`
 
 ## Acknowledgments
 
