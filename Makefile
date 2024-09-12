@@ -8,7 +8,7 @@ pandoc:
 		echo did not find pandoc, install from https://pandoc.org/ and make sure to add it to the path 1>&2; \
 		exit 1;\
 	fi;
-
+	
 html: pdf
 	@if [ ! -e html ]; then \
 		mkdir html;\
