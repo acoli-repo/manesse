@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-01-17T16:16:29.922+01:00</Created>
+        <LastChange>2023-01-11T09:19:51.666+01:00</LastChange>
+        <TranskribusMetadata docId="893860" pageId="34222366" pageNr="1" tsid="108893664" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=OVHZYPGVFABDTGWNOIYHZFHK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HQNFXPKVOYBIFJICLOLUDOYM" imageId="27433796">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="LAge"/>
+            <Property key="Seitennummerierung" value="162v"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="her Willeheln von Heinzenburg"/>
+            <Property key="Lage" value="15"/>
+            <Property key="Corpusnummerierung" value="xlviii; 48"/>
+            <Property key="Lagenposition" value="3"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_heinzenburg00.jpg" imageWidth="1274" imageHeight="1893">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537401365" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1643194661533_271"/>
+                <RegionRefIndexed index="1" regionRef="region_1643194663708_274"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1643194661533_271" custom="readingOrder {index:0;}">
+            <Coords points="143,51 397,51 397,145 143,145"/>
+            <TextLine id="line_1643194672877_277" custom="readingOrder {index:0;}">
+                <Coords points="205,63 355,63 355,112 205,112"/>
+                <TextEquiv>
+                    <Unicode>xlvııı</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>xlvııı</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1643194663708_274" custom="readingOrder {index:1;}">
+            <Coords points="478,63 1043,63 1043,148 478,148"/>
+            <TextLine id="line_1643194674998_280" custom="readingOrder {index:0;}">
+                <Coords points="512,74 1002,74 1002,134 512,134"/>
+                <TextEquiv>
+                    <Unicode>her willeheln von heınzenburg .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>her willeheln von heınzenburg .</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

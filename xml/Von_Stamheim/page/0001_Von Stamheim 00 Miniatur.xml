@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T09:31:34.147+01:00</Created>
+        <LastChange>2022-04-05T12:36:23.628+02:00</LastChange>
+        <TranskribusMetadata docId="663125" pageId="35400417" pageNr="1" tsid="80017848" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=KNJSDKLUPQXBHNKJLJDIBSSC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KGREUCTVMCDYAQOLLTAIIJRG" imageId="28481006">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="261"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="Von Stamheim"/>
+            <Property key="Lage" value="XXIV; 24"/>
+            <Property key="Corpusnummerierung" value="lxxvii; 77"/>
+            <Property key="Lagenposition" value="1"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_Von Stamheim 00 Miniatur.jpg" imageWidth="1275" imageHeight="1887">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537339735" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646037326781_60"/>
+                <RegionRefIndexed index="1" regionRef="region_1646037329016_63"/>
+                <RegionRefIndexed index="2" regionRef="region_1646037336969_66"/>
+                <RegionRefIndexed index="3" regionRef="region_1646037339321_69"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646037326781_60" custom="readingOrder {index:0;}">
+            <Coords points="495,41 639,41 639,9 495,9"/>
+            <TextLine id="line_1646037344685_72" custom="readingOrder {index:0;} Nasalstrich {offset:1; length:2;Aufloesung:on;}">
+                <Coords points="501,34 629,34 629,17 501,17"/>
+                <TextEquiv>
+                    <Unicode>vō Stamheım</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vō Stamheım</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646037329016_63" custom="readingOrder {index:1;}">
+            <Coords points="441,48 723,48 723,109 441,109"/>
+            <TextLine id="line_1646037347254_75" custom="readingOrder {index:0;}">
+                <Coords points="458,57 698,57 698,101 458,101"/>
+                <TextEquiv>
+                    <Unicode>Von Stamheín</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von Stamheín</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646037336969_66" custom="readingOrder {index:2;}">
+            <Coords points="844,100 1007,100 1007,51 844,51"/>
+            <TextLine id="line_1646037350467_78" custom="readingOrder {index:0;}">
+                <Coords points="859,54 963,54 963,96 859,96"/>
+                <TextEquiv>
+                    <Unicode>‧ lxxvıı ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ lxxvıı ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646037339321_69" custom="readingOrder {index:3;}">
+            <Coords points="1159,36 1218,36 1218,74 1159,74"/>
+            <TextLine id="line_1646037352835_81" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1167,42 1207,42 1207,65 1167,65"/>
+                <TextEquiv>
+                    <Unicode>261</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>261</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

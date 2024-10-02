@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">Heinzenburg</title></titleStmt>
+         <seriesStmt><title>Projekt Codex Manesse</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">Heinzenburg</title><idno type="Transkribus">893860</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1274" lry="1893" xml:id="facs_1">
+         <graphic url="0001_heinzenburg00.jpg" width="1274px" height="1893px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OVHZYPGVFABDTGWNOIYHZFHK&amp;fileType=view" width="1274px" height="1893px"/>
+         <zone points="143,51 397,51 397,145 143,145" rendition="TextRegion" xml:id="facs_1_region_1643194661533_271">
+            <zone points="205,63 355,63 355,112 205,112" rendition="Line" xml:id="facs_1_line_1643194672877_277"/>
+         </zone>
+         <zone points="478,63 1043,63 1043,148 478,148" rendition="TextRegion" xml:id="facs_1_region_1643194663708_274">
+            <zone points="512,74 1002,74 1002,134 512,134" rendition="Line" xml:id="facs_1_line_1643194674998_280"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1225" lry="1881" xml:id="facs_2">
+         <graphic url="0002_heinzenburg01.jpg" width="1225px" height="1881px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UKQYRVTVQKEZJYBBVUGSYNPP&amp;fileType=view" width="1225px" height="1881px"/>
+         <zone points="24,1302 48,1302 48,1333 24,1333" rendition="TextRegion" xml:id="facs_2_region_1643194749061_300" subtype="Metatext">
+            <zone points="21,1309 41,1309 41,1324 21,1324" rendition="Line" xml:id="facs_2_line_1643194754917_303"/>
+         </zone>
+         <zone points="301,8 428,8 428,59 301,59" rendition="TextRegion" xml:id="facs_2_region_1643194731852_288" subtype="Metatext">
+            <zone points="311,14 424,14 424,47 311,47" rendition="Line" xml:id="facs_2_line_1643194769933_315"/>
+         </zone>
+         <zone points="24,92 522,92 522,1503 24,1503" rendition="TextRegion" xml:id="facs_2_region_1643194787500_318" subtype="Spalte">
+            <zone points="453,146 472,146 472,172 453,172" rendition="Line" xml:id="facs_2_line_1643194805957_324" subtype="Strophenzahl"/>
+            <zone points="34,180 185,180 185,297 34,297" rendition="Line" xml:id="facs_2_line_1643194824077_333"/>
+            <zone points="188,181 488,181 488,207 188,207" rendition="Line" xml:id="facs_2_line_1643194836829_349"/>
+            <zone points="188,207 488,207 488,235 188,235" rendition="Line" xml:id="facs_2_line_1643194836829_348"/>
+            <zone points="188,235 488,235 488,261 188,261" rendition="Line" xml:id="facs_2_line_1643194836046_344"/>
+            <zone points="188,261 488,261 488,289 188,289" rendition="Line" xml:id="facs_2_line_1643194835391_340"/>
+            <zone points="68,297 490,297 490,322 68,322" rendition="Line" xml:id="facs_2_line_1643194850438_361"/>
+            <zone points="68,322 490,322 490,350 68,350" rendition="Line" xml:id="facs_2_line_1643194850438_360"/>
+            <zone points="68,350 490,350 490,376 68,376" rendition="Line" xml:id="facs_2_line_1643194849606_356"/>
+            <zone points="78,379 312,379 312,401 78,401" rendition="Line" xml:id="facs_2_line_1643194856798_364"/>
+            <zone points="436,375 471,375 471,397 436,397" rendition="Line" xml:id="facs_2_line_1643194809277_327" subtype="Strophenzahl"/>
+            <zone points="41,373 82,373 82,471 41,471" rendition="Line" xml:id="facs_2_line_1643194860133_367"/>
+            <zone points="79,406 491,406 491,435 79,435" rendition="Line" xml:id="facs_2_line_1643194863718_370"/>
+            <zone points="82,435 491,435 491,464 82,464" rendition="Line" xml:id="facs_2_line_1643194866727_373"/>
+            <zone points="68,462 478,462 478,488 68,488" rendition="Line" xml:id="facs_2_line_1643194881173_389"/>
+            <zone points="68,488 478,488 478,512 68,512" rendition="Line" xml:id="facs_2_line_1643194881173_388"/>
+            <zone points="68,512 478,512 478,542 68,542" rendition="Line" xml:id="facs_2_line_1643194880287_384"/>
+            <zone points="68,542 478,542 478,567 68,567" rendition="Line" xml:id="facs_2_line_1643194879168_380"/>
+            <zone points="71,570 406,570 406,598 71,598" rendition="Line" xml:id="facs_2_line_1643194889037_392"/>
+            <zone points="445,565 473,565 473,592 445,592" rendition="Line" xml:id="facs_2_line_1643194812581_330" subtype="Strophenzahl"/>
+            <zone points="54,600 117,600 117,659 54,659" rendition="Line" xml:id="facs_2_line_1643194893717_395"/>
+            <zone points="118,599 487,599 487,620 118,620" rendition="Line" xml:id="facs_2_line_1643194896596_398"/>
+            <zone points="116,620 487,620 487,655 116,655" rendition="Line" xml:id="facs_2_line_1643194899068_401"/>
+            <zone points="73,655 490,655 490,681 73,681" rendition="Line" xml:id="facs_2_line_1643194906622_417"/>
+            <zone points="73,681 490,681 490,708 73,708" rendition="Line" xml:id="facs_2_line_1643194906621_416"/>
+            <zone points="73,708 490,708 490,737 73,737" rendition="Line" xml:id="facs_2_line_1643194905710_412"/>
+            <zone points="73,737 490,737 490,760 73,760" rendition="Line" xml:id="facs_2_line_1643194905112_408"/>
+            <zone points="75,765 368,765 368,793 75,793" rendition="Line" xml:id="facs_2_line_1643194912820_420"/>
+            <zone points="457,766 478,766 478,782 457,782" rendition="Line" xml:id="facs_2_line_1643194915141_423" subtype="Strophenzahl"/>
+            <zone points="66,794 122,794 122,844 66,844" rendition="Line" xml:id="facs_2_line_1643194918428_426"/>
+            <zone points="126,793 506,793 506,815 126,815" rendition="Line" xml:id="facs_2_line_1643194921405_429"/>
+            <zone points="125,815 506,815 506,849 125,849" rendition="Line" xml:id="facs_2_line_1643194924118_432"/>
+            <zone points="78,847 492,847 492,869 78,869" rendition="Line" xml:id="facs_2_line_1643194927012_435"/>
+            <zone points="78,869 492,869 492,906 78,906" rendition="Line" xml:id="facs_2_line_1643194929877_438"/>
+            <zone points="78,906 494,906 494,927 78,927" rendition="Line" xml:id="facs_2_line_1643194933252_441"/>
+            <zone points="75,930 291,930 291,957 75,957" rendition="Line" xml:id="facs_2_line_1643194937893_444"/>
+            <zone points="458,931 477,931 477,949 458,949" rendition="Line" xml:id="facs_2_line_1643194940717_447" subtype="Strophenzahl"/>
+            <zone points="65,956 121,956 121,1018 65,1018" rendition="Line" xml:id="facs_2_line_1643194945261_450"/>
+            <zone points="124,957 500,957 500,983 124,983" rendition="Line" xml:id="facs_2_line_1643194948365_453"/>
+            <zone points="124,983 500,983 500,1013 124,1013" rendition="Line" xml:id="facs_2_line_1643194950436_456"/>
+            <zone points="80,1016 490,1016 490,1042 80,1042" rendition="Line" xml:id="facs_2_line_1643194962549_472"/>
+            <zone points="80,1042 490,1042 490,1067 80,1067" rendition="Line" xml:id="facs_2_line_1643194962549_471"/>
+            <zone points="80,1067 490,1067 490,1100 80,1100" rendition="Line" xml:id="facs_2_line_1643194961526_467"/>
+            <zone points="80,1100 490,1100 490,1124 80,1124" rendition="Line" xml:id="facs_2_line_1643194960501_463"/>
+            <zone points="488,1113 508,1113 508,1140 488,1140" rendition="Line" xml:id="facs_2_line_1643194969245_475" subtype="Strophenzahl"/>
+            <zone points="63,1126 132,1126 132,1184 63,1184" rendition="Line" xml:id="facs_2_line_1643194972724_478"/>
+            <zone points="133,1124 485,1124 485,1152 133,1152" rendition="Line" xml:id="facs_2_line_1643194975652_481"/>
+            <zone points="131,1149 513,1149 513,1185 131,1185" rendition="Line" xml:id="facs_2_line_1643194978412_484"/>
+            <zone points="84,1183 516,1183 516,1207 84,1207" rendition="Line" xml:id="facs_2_line_1643194981556_487"/>
+            <zone points="80,1207 516,1207 516,1239 80,1239" rendition="Line" xml:id="facs_2_line_1643194984020_490"/>
+            <zone points="80,1239 507,1239 507,1262 80,1262" rendition="Line" xml:id="facs_2_line_1643194986724_493"/>
+            <zone points="77,1269 328,1269 328,1293 77,1293" rendition="Line" xml:id="facs_2_line_1643194989748_496"/>
+            <zone points="472,1264 504,1264 504,1291 472,1291" rendition="Line" xml:id="facs_2_line_1643194992492_499" subtype="Strophenzahl"/>
+            <zone points="72,1292 133,1292 133,1347 72,1347" rendition="Line" xml:id="facs_2_line_1643194997451_502"/>
+            <zone points="135,1297 514,1297 514,1317 135,1317" rendition="Line" xml:id="facs_2_line_1643195000236_505"/>
+            <zone points="129,1317 514,1317 514,1343 129,1343" rendition="Line" xml:id="facs_2_line_1643195002517_508"/>
+            <zone points="88,1344 515,1344 515,1372 88,1372" rendition="Line" xml:id="facs_2_line_1643195012197_524"/>
+            <zone points="88,1372 515,1372 515,1401 88,1401" rendition="Line" xml:id="facs_2_line_1643195012197_523"/>
+            <zone points="88,1401 515,1401 515,1430 88,1430" rendition="Line" xml:id="facs_2_line_1643195011213_519"/>
+            <zone points="88,1430 515,1430 515,1461 88,1461" rendition="Line" xml:id="facs_2_line_1643195010061_515"/>
+         </zone>
+         <zone points="522,97 1032,97 1032,1503 522,1503" rendition="TextRegion" xml:id="facs_2_region_1643194796701_321" subtype="Spalte">
+            <zone points="542,165 989,165 989,207 542,207" rendition="Line" xml:id="facs_2_line_1643195023724_527"/>
+            <zone points="539,206 661,206 661,234 539,234" rendition="Line" xml:id="facs_2_line_1643195026828_530"/>
+            <zone points="936,209 957,209 957,230 936,230" rendition="Line" xml:id="facs_2_line_1643195886340_838" subtype="Strophenzahl"/>
+            <zone points="532,234 587,234 587,296 532,296" rendition="Line" xml:id="facs_2_line_1643195030171_533"/>
+            <zone points="585,234 987,234 987,259 585,259" rendition="Line" xml:id="facs_2_line_1643195033340_536"/>
+            <zone points="581,259 987,259 987,290 581,290" rendition="Line" xml:id="facs_2_line_1643195035252_539"/>
+            <zone points="536,292 978,292 978,314 536,314" rendition="Line" xml:id="facs_2_line_1643195043855_555"/>
+            <zone points="536,314 978,314 978,342 536,342" rendition="Line" xml:id="facs_2_line_1643195043854_554"/>
+            <zone points="536,342 978,342 978,375 536,375" rendition="Line" xml:id="facs_2_line_1643195042556_550"/>
+            <zone points="536,375 978,375 978,396 536,396" rendition="Line" xml:id="facs_2_line_1643195041660_546"/>
+            <zone points="539,403 812,403 812,428 539,428" rendition="Line" xml:id="facs_2_line_1643195049419_558"/>
+            <zone points="935,402 952,402 952,426 935,426" rendition="Line" xml:id="facs_2_line_1643195051620_561" subtype="Strophenzahl"/>
+            <zone points="525,425 589,425 589,488 525,488" rendition="Line" xml:id="facs_2_line_1643195063788_569"/>
+            <zone points="587,431 982,431 982,454 587,454" rendition="Line" xml:id="facs_2_line_1643195066916_572"/>
+            <zone points="580,454 982,454 982,486 580,486" rendition="Line" xml:id="facs_2_line_1643195069156_575"/>
+            <zone points="539,486 971,486 971,509 539,509" rendition="Line" xml:id="facs_2_line_1643195076517_587"/>
+            <zone points="539,509 971,509 971,538 539,538" rendition="Line" xml:id="facs_2_line_1643195076517_586"/>
+            <zone points="539,538 971,538 971,561 539,561" rendition="Line" xml:id="facs_2_line_1643195075694_582"/>
+            <zone points="548,565 779,565 779,592 548,592" rendition="Line" xml:id="facs_2_line_1643195080548_590"/>
+            <zone points="937,565 975,565 975,589 937,589" rendition="Line" xml:id="facs_2_line_1643195082228_593" subtype="Strophenzahl"/>
+            <zone points="524,594 587,594 587,651 524,651" rendition="Line" xml:id="facs_2_line_1643195092099_596"/>
+            <zone points="588,598 985,598 985,619 588,619" rendition="Line" xml:id="facs_2_line_1643195094932_599"/>
+            <zone points="588,619 985,619 985,649 588,649" rendition="Line" xml:id="facs_2_line_1643195097300_602"/>
+            <zone points="548,655 984,655 984,672 548,672" rendition="Line" xml:id="facs_2_line_1643195099863_605"/>
+            <zone points="544,672 983,672 983,701 544,701" rendition="Line" xml:id="facs_2_line_1643195102357_608"/>
+            <zone points="544,702 974,702 974,724 544,724" rendition="Line" xml:id="facs_2_line_1643195104766_611"/>
+            <zone points="540,730 807,730 807,755 540,755" rendition="Line" xml:id="facs_2_line_1643195107125_614"/>
+            <zone points="935,733 955,733 955,752 935,752" rendition="Line" xml:id="facs_2_line_1643195109052_617" subtype="Strophenzahl"/>
+            <zone points="531,755 591,755 591,818 531,818" rendition="Line" xml:id="facs_2_line_1643195113476_620"/>
+            <zone points="591,759 982,759 982,779 591,779" rendition="Line" xml:id="facs_2_line_1643195116213_623"/>
+            <zone points="589,779 982,779 982,813 589,813" rendition="Line" xml:id="facs_2_line_1643195118732_626"/>
+            <zone points="545,818 976,818 976,836 545,836" rendition="Line" xml:id="facs_2_line_1643195121051_629"/>
+            <zone points="552,836 976,836 976,871 552,871" rendition="Line" xml:id="facs_2_line_1643195123972_632"/>
+            <zone points="552,871 977,871 977,896 552,896" rendition="Line" xml:id="facs_2_line_1643195126508_635"/>
+            <zone points="553,899 690,899 690,925 553,925" rendition="Line" xml:id="facs_2_line_1643195129876_638"/>
+            <zone points="933,900 963,900 963,921 933,921" rendition="Line" xml:id="facs_2_line_1643195131932_641" subtype="Strophenzahl"/>
+            <zone points="518,924 597,924 597,981 518,981" rendition="Line" xml:id="facs_2_line_1643195134860_644"/>
+            <zone points="597,924 999,924 999,945 597,945" rendition="Line" xml:id="facs_2_line_1643195137483_647"/>
+            <zone points="594,945 999,945 999,979 594,979" rendition="Line" xml:id="facs_2_line_1643195139636_650"/>
+            <zone points="550,984 1001,984 1001,1011 550,1011" rendition="Line" xml:id="facs_2_line_1643195146897_662"/>
+            <zone points="550,1011 1001,1011 1001,1040 550,1040" rendition="Line" xml:id="facs_2_line_1643195146897_661"/>
+            <zone points="550,1040 1001,1040 1001,1060 550,1060" rendition="Line" xml:id="facs_2_line_1643195145973_657"/>
+            <zone points="558,1069 998,1069 998,1088 558,1088" rendition="Line" xml:id="facs_2_line_1643195154220_665"/>
+            <zone points="994,1085 1018,1085 1018,1107 994,1107" rendition="Line" xml:id="facs_2_line_1643195164380_674" subtype="Strophenzahl"/>
+            <zone points="521,1091 592,1091 592,1153 521,1153" rendition="Line" xml:id="facs_2_line_1643195158867_668"/>
+            <zone points="594,1095 988,1095 988,1119 594,1119" rendition="Line" xml:id="facs_2_line_1643195162357_671"/>
+            <zone points="592,1121 996,1121 996,1148 592,1148" rendition="Line" xml:id="facs_2_line_1643195167908_677"/>
+            <zone points="552,1152 984,1152 984,1177 552,1177" rendition="Line" xml:id="facs_2_line_1643195176621_689"/>
+            <zone points="552,1177 984,1177 984,1209 552,1209" rendition="Line" xml:id="facs_2_line_1643195176621_688"/>
+            <zone points="552,1209 984,1209 984,1233 552,1233" rendition="Line" xml:id="facs_2_line_1643195175789_684"/>
+            <zone points="559,1234 903,1234 903,1258 559,1258" rendition="Line" xml:id="facs_2_line_1643195180997_692"/>
+            <zone points="961,1235 993,1235 993,1251 961,1251" rendition="Line" xml:id="facs_2_line_1643195182956_695" subtype="Strophenzahl"/>
+            <zone points="525,1234 564,1234 564,1322 525,1322" rendition="Line" xml:id="facs_2_line_1643195185877_698"/>
+            <zone points="567,1261 999,1261 999,1287 567,1287" rendition="Line" xml:id="facs_2_line_1643195188004_701"/>
+            <zone points="563,1287 999,1287 999,1315 563,1315" rendition="Line" xml:id="facs_2_line_1643195190531_704"/>
+            <zone points="556,1317 996,1317 996,1346 556,1346" rendition="Line" xml:id="facs_2_line_1643195192804_707"/>
+            <zone points="560,1346 996,1346 996,1370 560,1370" rendition="Line" xml:id="facs_2_line_1643195196076_710"/>
+            <zone points="560,1370 996,1370 996,1395 560,1395" rendition="Line" xml:id="facs_2_line_1643195199812_713"/>
+            <zone points="609,1397 759,1397 759,1424 609,1424" rendition="Line" xml:id="facs_2_line_1643195202316_716"/>
+            <zone points="960,1396 979,1396 979,1420 960,1420" rendition="Line" xml:id="facs_2_line_1643195204028_719" subtype="Strophenzahl"/>
+            <zone points="535,1397 611,1397 611,1461 535,1461" rendition="Line" xml:id="facs_2_line_1643195206844_722"/>
+            <zone points="607,1428 993,1428 993,1458 607,1458" rendition="Line" xml:id="facs_2_line_1643195209499_725"/>
+         </zone>
+         <zone points="1111,26 1173,26 1173,74 1111,74" rendition="TextRegion" xml:id="facs_2_region_1643194734365_291" subtype="Metatext">
+            <zone points="1118,34 1168,34 1168,75 1118,75" rendition="Line" xml:id="facs_2_line_1643194765565_312"/>
+         </zone>
+         <zone points="1113,427 1172,427 1172,498 1113,498" rendition="TextRegion" xml:id="facs_2_region_1643194736221_294" subtype="Metatext">
+            <zone points="1120,431 1165,431 1165,486 1120,486" rendition="Line" xml:id="facs_2_line_1643194762575_309"/>
+         </zone>
+         <zone points="1133,918 1210,918 1210,997 1133,997" rendition="TextRegion" xml:id="facs_2_region_1643194741661_297" subtype="Metatext">
+            <zone points="1149,931 1202,931 1202,981 1149,981" rendition="Line" xml:id="facs_2_line_1643194758989_306"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1261" lry="1884" xml:id="facs_3">
+         <graphic url="0003_heinzenburg02.jpg" width="1261px" height="1884px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GHPBAOPKPTCUZEFMWGVPRFMQ&amp;fileType=view" width="1261px" height="1884px"/>
+         <zone points="233,163 710,163 710,1487 233,1487" rendition="TextRegion" xml:id="facs_3_region_1643195225276_731" subtype="Spalte">
+            <zone points="247,182 689,182 689,209 247,209" rendition="Line" xml:id="facs_3_line_1643195236437_751"/>
+            <zone points="247,209 689,209 689,233 247,233" rendition="Line" xml:id="facs_3_line_1643195236436_750"/>
+            <zone points="247,233 689,233 689,265 247,265" rendition="Line" xml:id="facs_3_line_1643195235852_746"/>
+            <zone points="247,265 689,265 689,295 247,295" rendition="Line" xml:id="facs_3_line_1643195235141_742"/>
+            <zone points="247,295 689,295 689,326 247,326" rendition="Line" xml:id="facs_3_line_1643195234446_738"/>
+            <zone points="258,325 681,325 681,347 258,347" rendition="Line" xml:id="facs_3_line_1647336343187_4709" subtype="Leerzeile"/>
+            <zone points="258,347 681,347 681,373 258,373" rendition="Line" xml:id="facs_3_line_1647336343187_4708" subtype="Leerzeile"/>
+            <zone points="258,373 681,373 681,404 258,404" rendition="Line" xml:id="facs_3_line_1647336342370_4704" subtype="Leerzeile"/>
+            <zone points="258,404 681,404 681,436 258,436" rendition="Line" xml:id="facs_3_line_1647336341399_4700" subtype="Leerzeile"/>
+            <zone points="258,436 681,436 681,452 258,452" rendition="Line" xml:id="facs_3_line_1647336340582_4696" subtype="Leerzeile"/>
+            <zone points="258,452 681,452 681,484 258,484" rendition="Line" xml:id="facs_3_line_1647336339865_4692" subtype="Leerzeile"/>
+            <zone points="258,484 681,484 681,512 258,512" rendition="Line" xml:id="facs_3_line_1647336338841_4688" subtype="Leerzeile"/>
+            <zone points="258,512 681,512 681,538 258,538" rendition="Line" xml:id="facs_3_line_1647336337823_4684" subtype="Leerzeile"/>
+            <zone points="258,538 681,538 681,567 258,567" rendition="Line" xml:id="facs_3_line_1647336336820_4680" subtype="Leerzeile"/>
+            <zone points="258,567 681,567 681,591 258,591" rendition="Line" xml:id="facs_3_line_1647336336045_4676" subtype="Leerzeile"/>
+            <zone points="258,591 681,591 681,622 258,622" rendition="Line" xml:id="facs_3_line_1647336335281_4672" subtype="Leerzeile"/>
+            <zone points="258,622 681,622 681,649 258,649" rendition="Line" xml:id="facs_3_line_1647336334442_4668" subtype="Leerzeile"/>
+            <zone points="258,649 681,649 681,682 258,682" rendition="Line" xml:id="facs_3_line_1647336333725_4664" subtype="Leerzeile"/>
+            <zone points="258,682 681,682 681,707 258,707" rendition="Line" xml:id="facs_3_line_1647336332775_4660" subtype="Leerzeile"/>
+            <zone points="258,707 681,707 681,735 258,735" rendition="Line" xml:id="facs_3_line_1647336331705_4656" subtype="Leerzeile"/>
+            <zone points="258,735 681,735 681,767 258,767" rendition="Line" xml:id="facs_3_line_1647336330803_4652" subtype="Leerzeile"/>
+            <zone points="258,767 681,767 681,790 258,790" rendition="Line" xml:id="facs_3_line_1647336329617_4648" subtype="Leerzeile"/>
+            <zone points="258,790 681,790 681,815 258,815" rendition="Line" xml:id="facs_3_line_1647336328731_4644" subtype="Leerzeile"/>
+            <zone points="258,815 681,815 681,834 258,834" rendition="Line" xml:id="facs_3_line_1647336328145_4640" subtype="Leerzeile"/>
+            <zone points="258,834 681,834 681,870 258,870" rendition="Line" xml:id="facs_3_line_1647336327460_4636" subtype="Leerzeile"/>
+            <zone points="258,870 681,870 681,896 258,896" rendition="Line" xml:id="facs_3_line_1647336326828_4632" subtype="Leerzeile"/>
+            <zone points="258,896 681,896 681,923 258,923" rendition="Line" xml:id="facs_3_line_1647336316810_4622" subtype="Leerzeile"/>
+            <zone points="258,923 681,923 681,949 258,949" rendition="Line" xml:id="facs_3_line_1647336315608_4618" subtype="Leerzeile"/>
+            <zone points="258,949 681,949 681,982 258,982" rendition="Line" xml:id="facs_3_line_1647336315060_4614" subtype="Leerzeile"/>
+            <zone points="258,982 681,982 681,1009 258,1009" rendition="Line" xml:id="facs_3_line_1647336314459_4610" subtype="Leerzeile"/>
+            <zone points="258,1009 681,1009 681,1042 258,1042" rendition="Line" xml:id="facs_3_line_1647336313736_4606" subtype="Leerzeile"/>
+            <zone points="258,1042 681,1042 681,1066 258,1066" rendition="Line" xml:id="facs_3_line_1647336313042_4602" subtype="Leerzeile"/>
+            <zone points="258,1066 681,1066 681,1092 258,1092" rendition="Line" xml:id="facs_3_line_1647336312119_4598" subtype="Leerzeile"/>
+            <zone points="258,1092 681,1092 681,1122 258,1122" rendition="Line" xml:id="facs_3_line_1647336311239_4594" subtype="Leerzeile"/>
+            <zone points="258,1122 681,1122 681,1155 258,1155" rendition="Line" xml:id="facs_3_line_1647336310415_4590" subtype="Leerzeile"/>
+            <zone points="258,1155 681,1155 681,1182 258,1182" rendition="Line" xml:id="facs_3_line_1647336309716_4586" subtype="Leerzeile"/>
+            <zone points="258,1182 681,1182 681,1208 258,1208" rendition="Line" xml:id="facs_3_line_1647336308864_4582" subtype="Leerzeile"/>
+            <zone points="258,1208 681,1208 681,1232 258,1232" rendition="Line" xml:id="facs_3_line_1647336308009_4578" subtype="Leerzeile"/>
+            <zone points="258,1232 681,1232 681,1266 258,1266" rendition="Line" xml:id="facs_3_line_1647336307293_4574" subtype="Leerzeile"/>
+            <zone points="258,1266 681,1266 681,1294 258,1294" rendition="Line" xml:id="facs_3_line_1647336306444_4570" subtype="Leerzeile"/>
+            <zone points="258,1294 681,1294 681,1320 258,1320" rendition="Line" xml:id="facs_3_line_1647336305705_4566" subtype="Leerzeile"/>
+            <zone points="258,1320 681,1320 681,1347 258,1347" rendition="Line" xml:id="facs_3_line_1647336305004_4562" subtype="Leerzeile"/>
+            <zone points="258,1347 681,1347 681,1375 258,1375" rendition="Line" xml:id="facs_3_line_1647336304186_4558" subtype="Leerzeile"/>
+            <zone points="258,1375 681,1375 681,1402 258,1402" rendition="Line" xml:id="facs_3_line_1647336303523_4554" subtype="Leerzeile"/>
+            <zone points="258,1402 681,1402 681,1431 258,1431" rendition="Line" xml:id="facs_3_line_1647336302721_4550" subtype="Leerzeile"/>
+            <zone points="258,1431 681,1431 681,1462 258,1462" rendition="Line" xml:id="facs_3_line_1647336300750_4546" subtype="Leerzeile"/>
+         </zone>
+         <zone points="721,159 1155,159 1155,1488 721,1488" rendition="TextRegion" xml:id="facs_3_region_1647336261099_4535" subtype="Spalte">
+            <zone points="738,174 1119,174 1119,200 738,200" rendition="Line" xml:id="facs_3_line_1647336396930_4896" subtype="Leerzeile"/>
+            <zone points="738,200 1119,200 1119,229 738,229" rendition="Line" xml:id="facs_3_line_1647336396930_4895" subtype="Leerzeile"/>
+            <zone points="738,229 1119,229 1119,258 738,258" rendition="Line" xml:id="facs_3_line_1647336396197_4891" subtype="Leerzeile"/>
+            <zone points="738,258 1119,258 1119,289 738,289" rendition="Line" xml:id="facs_3_line_1647336395442_4887" subtype="Leerzeile"/>
+            <zone points="738,289 1119,289 1119,315 738,315" rendition="Line" xml:id="facs_3_line_1647336394525_4883" subtype="Leerzeile"/>
+            <zone points="738,315 1119,315 1119,345 738,345" rendition="Line" xml:id="facs_3_line_1647336393692_4879" subtype="Leerzeile"/>
+            <zone points="738,345 1119,345 1119,371 738,371" rendition="Line" xml:id="facs_3_line_1647336392589_4875" subtype="Leerzeile"/>
+            <zone points="738,371 1119,371 1119,402 738,402" rendition="Line" xml:id="facs_3_line_1647336391749_4871" subtype="Leerzeile"/>
+            <zone points="738,402 1119,402 1119,426 738,426" rendition="Line" xml:id="facs_3_line_1647336390947_4867" subtype="Leerzeile"/>
+            <zone points="738,426 1119,426 1119,452 738,452" rendition="Line" xml:id="facs_3_line_1647336390215_4863" subtype="Leerzeile"/>
+            <zone points="738,452 1119,452 1119,481 738,481" rendition="Line" xml:id="facs_3_line_1647336389498_4859" subtype="Leerzeile"/>
+            <zone points="738,481 1119,481 1119,505 738,505" rendition="Line" xml:id="facs_3_line_1647336385239_4855" subtype="Leerzeile"/>
+            <zone points="738,505 1119,505 1119,538 738,538" rendition="Line" xml:id="facs_3_line_1647336384020_4851" subtype="Leerzeile"/>
+            <zone points="738,538 1119,538 1119,563 738,563" rendition="Line" xml:id="facs_3_line_1647336383256_4847" subtype="Leerzeile"/>
+            <zone points="738,563 1119,563 1119,594 738,594" rendition="Line" xml:id="facs_3_line_1647336382470_4843" subtype="Leerzeile"/>
+            <zone points="738,594 1119,594 1119,622 738,622" rendition="Line" xml:id="facs_3_line_1647336381816_4839" subtype="Leerzeile"/>
+            <zone points="738,622 1119,622 1119,647 738,647" rendition="Line" xml:id="facs_3_line_1647336380898_4835" subtype="Leerzeile"/>
+            <zone points="738,647 1119,647 1119,678 738,678" rendition="Line" xml:id="facs_3_line_1647336379595_4831" subtype="Leerzeile"/>
+            <zone points="738,678 1119,678 1119,706 738,706" rendition="Line" xml:id="facs_3_line_1647336378544_4827" subtype="Leerzeile"/>
+            <zone points="738,706 1119,706 1119,731 738,731" rendition="Line" xml:id="facs_3_line_1647336377458_4823" subtype="Leerzeile"/>
+            <zone points="738,731 1119,731 1119,752 738,752" rendition="Line" xml:id="facs_3_line_1647336375918_4819" subtype="Leerzeile"/>
+            <zone points="738,752 1119,752 1119,788 738,788" rendition="Line" xml:id="facs_3_line_1647336374130_4815" subtype="Leerzeile"/>
+            <zone points="738,788 1119,788 1119,810 738,810" rendition="Line" xml:id="facs_3_line_1647336373166_4811" subtype="Leerzeile"/>
+            <zone points="738,810 1119,810 1119,841 738,841" rendition="Line" xml:id="facs_3_line_1647336372279_4807" subtype="Leerzeile"/>
+            <zone points="738,841 1119,841 1119,869 738,869" rendition="Line" xml:id="facs_3_line_1647336371508_4803" subtype="Leerzeile"/>
+            <zone points="738,869 1119,869 1119,894 738,894" rendition="Line" xml:id="facs_3_line_1647336370644_4799" subtype="Leerzeile"/>
+            <zone points="738,894 1119,894 1119,922 738,922" rendition="Line" xml:id="facs_3_line_1647336369041_4795" subtype="Leerzeile"/>
+            <zone points="738,922 1119,922 1119,947 738,947" rendition="Line" xml:id="facs_3_line_1647336368172_4791" subtype="Leerzeile"/>
+            <zone points="738,947 1119,947 1119,975 738,975" rendition="Line" xml:id="facs_3_line_1647336367470_4787" subtype="Leerzeile"/>
+            <zone points="738,975 1119,975 1119,1008 738,1008" rendition="Line" xml:id="facs_3_line_1647336366553_4783" subtype="Leerzeile"/>
+            <zone points="738,1008 1119,1008 1119,1037 738,1037" rendition="Line" xml:id="facs_3_line_1647336365698_4779" subtype="Leerzeile"/>
+            <zone points="738,1037 1119,1037 1119,1064 738,1064" rendition="Line" xml:id="facs_3_line_1647336364796_4775" subtype="Leerzeile"/>
+            <zone points="738,1064 1119,1064 1119,1095 738,1095" rendition="Line" xml:id="facs_3_line_1647336364010_4771" subtype="Leerzeile"/>
+            <zone points="738,1095 1119,1095 1119,1122 738,1122" rendition="Line" xml:id="facs_3_line_1647336363261_4767" subtype="Leerzeile"/>
+            <zone points="738,1122 1119,1122 1119,1146 738,1146" rendition="Line" xml:id="facs_3_line_1647336362344_4763" subtype="Leerzeile"/>
+            <zone points="738,1146 1119,1146 1119,1169 738,1169" rendition="Line" xml:id="facs_3_line_1647336361373_4759" subtype="Leerzeile"/>
+            <zone points="738,1169 1119,1169 1119,1198 738,1198" rendition="Line" xml:id="facs_3_line_1647336360472_4755" subtype="Leerzeile"/>
+            <zone points="738,1198 1119,1198 1119,1227 738,1227" rendition="Line" xml:id="facs_3_line_1647336359724_4751" subtype="Leerzeile"/>
+            <zone points="738,1227 1119,1227 1119,1260 738,1260" rendition="Line" xml:id="facs_3_line_1647336358923_4747" subtype="Leerzeile"/>
+            <zone points="738,1260 1119,1260 1119,1285 738,1285" rendition="Line" xml:id="facs_3_line_1647336358268_4743" subtype="Leerzeile"/>
+            <zone points="738,1285 1119,1285 1119,1311 738,1311" rendition="Line" xml:id="facs_3_line_1647336357550_4739" subtype="Leerzeile"/>
+            <zone points="738,1311 1119,1311 1119,1340 738,1340" rendition="Line" xml:id="facs_3_line_1647336356664_4735" subtype="Leerzeile"/>
+            <zone points="738,1340 1119,1340 1119,1364 738,1364" rendition="Line" xml:id="facs_3_line_1647336355800_4731" subtype="Leerzeile"/>
+            <zone points="738,1364 1119,1364 1119,1400 738,1400" rendition="Line" xml:id="facs_3_line_1647336348761_4721" subtype="Leerzeile"/>
+            <zone points="738,1400 1119,1400 1119,1428 738,1428" rendition="Line" xml:id="facs_3_line_1647336348177_4717" subtype="Leerzeile"/>
+            <zone points="738,1428 1119,1428 1119,1460 738,1460" rendition="Line" xml:id="facs_3_line_1647336347514_4713" subtype="Leerzeile"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1225" lry="1884" xml:id="facs_4">
+         <graphic url="0004_heinzenburg03.jpg" width="1225px" height="1884px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IGLUFJBHEYOBCCYOFXFEGMCQ&amp;fileType=view" width="1225px" height="1884px"/>
+         <zone points="69,178 537,178 537,1509 69,1509" rendition="TextRegion" xml:id="facs_4_region_1647336472795_4915" subtype="Spalte">
+            <zone points="83,188 521,188 521,216 83,216" rendition="Line" xml:id="facs_4_line_1647336538825_5106" subtype="Leerzeile"/>
+            <zone points="83,216 521,216 521,241 83,241" rendition="Line" xml:id="facs_4_line_1647336538825_5105" subtype="Leerzeile"/>
+            <zone points="83,241 521,241 521,270 83,270" rendition="Line" xml:id="facs_4_line_1647336537891_5101" subtype="Leerzeile"/>
+            <zone points="83,270 521,270 521,297 83,297" rendition="Line" xml:id="facs_4_line_1647336537174_5097" subtype="Leerzeile"/>
+            <zone points="83,297 521,297 521,322 83,322" rendition="Line" xml:id="facs_4_line_1647336536520_5093" subtype="Leerzeile"/>
+            <zone points="83,322 521,322 521,351 83,351" rendition="Line" xml:id="facs_4_line_1647336535603_5089" subtype="Leerzeile"/>
+            <zone points="83,351 521,351 521,376 83,376" rendition="Line" xml:id="facs_4_line_1647336534385_5085" subtype="Leerzeile"/>
+            <zone points="83,376 521,376 521,398 83,398" rendition="Line" xml:id="facs_4_line_1647336533399_5081" subtype="Leerzeile"/>
+            <zone points="83,398 521,398 521,428 83,428" rendition="Line" xml:id="facs_4_line_1647336532450_5077" subtype="Leerzeile"/>
+            <zone points="83,428 521,428 521,457 83,457" rendition="Line" xml:id="facs_4_line_1647336531533_5073" subtype="Leerzeile"/>
+            <zone points="83,457 521,457 521,488 83,488" rendition="Line" xml:id="facs_4_line_1647336530630_5069" subtype="Leerzeile"/>
+            <zone points="83,488 521,488 521,511 83,511" rendition="Line" xml:id="facs_4_line_1647336529607_5065" subtype="Leerzeile"/>
+            <zone points="83,511 521,511 521,538 83,538" rendition="Line" xml:id="facs_4_line_1647336528089_5061" subtype="Leerzeile"/>
+            <zone points="83,538 521,538 521,569 83,569" rendition="Line" xml:id="facs_4_line_1647336527272_5057" subtype="Leerzeile"/>
+            <zone points="83,569 521,569 521,594 83,594" rendition="Line" xml:id="facs_4_line_1647336526639_5053" subtype="Leerzeile"/>
+            <zone points="83,594 521,594 521,618 83,618" rendition="Line" xml:id="facs_4_line_1647336525738_5049" subtype="Leerzeile"/>
+            <zone points="83,618 521,618 521,654 83,654" rendition="Line" xml:id="facs_4_line_1647336525014_5045" subtype="Leerzeile"/>
+            <zone points="83,654 521,654 521,679 83,679" rendition="Line" xml:id="facs_4_line_1647336524149_5041" subtype="Leerzeile"/>
+            <zone points="83,679 521,679 521,710 83,710" rendition="Line" xml:id="facs_4_line_1647336523231_5037" subtype="Leerzeile"/>
+            <zone points="83,710 521,710 521,737 83,737" rendition="Line" xml:id="facs_4_line_1647336521360_5033" subtype="Leerzeile"/>
+            <zone points="83,737 521,737 521,764 83,764" rendition="Line" xml:id="facs_4_line_1647336519758_5029" subtype="Leerzeile"/>
+            <zone points="83,764 521,764 521,789 83,789" rendition="Line" xml:id="facs_4_line_1647336518409_5025" subtype="Leerzeile"/>
+            <zone points="83,789 521,789 521,811 83,811" rendition="Line" xml:id="facs_4_line_1647336517307_5021" subtype="Leerzeile"/>
+            <zone points="83,811 521,811 521,843 83,843" rendition="Line" xml:id="facs_4_line_1647336516606_5017" subtype="Leerzeile"/>
+            <zone points="83,843 521,843 521,865 83,865" rendition="Line" xml:id="facs_4_line_1647336515620_5013" subtype="Leerzeile"/>
+            <zone points="83,865 521,865 521,899 83,899" rendition="Line" xml:id="facs_4_line_1647336513932_5009" subtype="Leerzeile"/>
+            <zone points="83,899 521,899 521,930 83,930" rendition="Line" xml:id="facs_4_line_1647336511597_5005" subtype="Leerzeile"/>
+            <zone points="83,930 521,930 521,959 83,959" rendition="Line" xml:id="facs_4_line_1647336510796_5001" subtype="Leerzeile"/>
+            <zone points="83,959 521,959 521,982 83,982" rendition="Line" xml:id="facs_4_line_1647336509857_4997" subtype="Leerzeile"/>
+            <zone points="83,982 521,982 521,1014 83,1014" rendition="Line" xml:id="facs_4_line_1647336508993_4993" subtype="Leerzeile"/>
+            <zone points="83,1014 521,1014 521,1045 83,1045" rendition="Line" xml:id="facs_4_line_1647336508325_4989" subtype="Leerzeile"/>
+            <zone points="83,1045 521,1045 521,1074 83,1074" rendition="Line" xml:id="facs_4_line_1647336507367_4985" subtype="Leerzeile"/>
+            <zone points="83,1074 521,1074 521,1099 83,1099" rendition="Line" xml:id="facs_4_line_1647336506681_4981" subtype="Leerzeile"/>
+            <zone points="83,1099 521,1099 521,1124 83,1124" rendition="Line" xml:id="facs_4_line_1647336505779_4977" subtype="Leerzeile"/>
+            <zone points="83,1124 521,1124 521,1157 83,1157" rendition="Line" xml:id="facs_4_line_1647336505084_4973" subtype="Leerzeile"/>
+            <zone points="83,1157 521,1157 521,1180 83,1180" rendition="Line" xml:id="facs_4_line_1647336504415_4969" subtype="Leerzeile"/>
+            <zone points="83,1180 521,1180 521,1213 83,1213" rendition="Line" xml:id="facs_4_line_1647336503644_4965" subtype="Leerzeile"/>
+            <zone points="83,1213 521,1213 521,1238 83,1238" rendition="Line" xml:id="facs_4_line_1647336502858_4961" subtype="Leerzeile"/>
+            <zone points="83,1238 521,1238 521,1265 83,1265" rendition="Line" xml:id="facs_4_line_1647336501824_4957" subtype="Leerzeile"/>
+            <zone points="83,1265 521,1265 521,1298 83,1298" rendition="Line" xml:id="facs_4_line_1647336500838_4953" subtype="Leerzeile"/>
+            <zone points="83,1298 521,1298 521,1323 83,1323" rendition="Line" xml:id="facs_4_line_1647336500274_4949" subtype="Leerzeile"/>
+            <zone points="83,1323 521,1323 521,1348 83,1348" rendition="Line" xml:id="facs_4_line_1647336499487_4945" subtype="Leerzeile"/>
+            <zone points="83,1348 521,1348 521,1382 83,1382" rendition="Line" xml:id="facs_4_line_1647336498570_4941" subtype="Leerzeile"/>
+            <zone points="83,1382 521,1382 521,1408 83,1408" rendition="Line" xml:id="facs_4_line_1647336497730_4937" subtype="Leerzeile"/>
+            <zone points="83,1408 521,1408 521,1438 83,1438" rendition="Line" xml:id="facs_4_line_1647336496666_4933" subtype="Leerzeile"/>
+            <zone points="83,1438 521,1438 521,1471 83,1471" rendition="Line" xml:id="facs_4_line_1647336495879_4929" subtype="Leerzeile"/>
+         </zone>
+         <zone points="537,161 979,161 979,1509 537,1509" rendition="TextRegion" xml:id="facs_4_region_1647336475163_4918" subtype="Spalte">
+            <zone points="563,185 967,185 967,212 563,212" rendition="Line" xml:id="facs_4_line_1647336596207_5293" subtype="Leerzeile"/>
+            <zone points="563,212 967,212 967,241 563,241" rendition="Line" xml:id="facs_4_line_1647336596207_5292" subtype="Leerzeile"/>
+            <zone points="563,241 967,241 967,266 563,266" rendition="Line" xml:id="facs_4_line_1647336595452_5288" subtype="Leerzeile"/>
+            <zone points="563,266 967,266 967,295 563,295" rendition="Line" xml:id="facs_4_line_1647336594350_5284" subtype="Leerzeile"/>
+            <zone points="563,295 967,295 967,320 563,320" rendition="Line" xml:id="facs_4_line_1647336593686_5280" subtype="Leerzeile"/>
+            <zone points="563,320 967,320 967,345 563,345" rendition="Line" xml:id="facs_4_line_1647336592985_5276" subtype="Leerzeile"/>
+            <zone points="563,345 967,345 967,372 563,372" rendition="Line" xml:id="facs_4_line_1647336592230_5272" subtype="Leerzeile"/>
+            <zone points="563,372 967,372 967,405 563,405" rendition="Line" xml:id="facs_4_line_1647336591498_5268" subtype="Leerzeile"/>
+            <zone points="563,405 967,405 967,432 563,432" rendition="Line" xml:id="facs_4_line_1647336590464_5264" subtype="Leerzeile"/>
+            <zone points="563,432 967,432 967,454 563,454" rendition="Line" xml:id="facs_4_line_1647336589445_5260" subtype="Leerzeile"/>
+            <zone points="563,454 967,454 967,482 563,482" rendition="Line" xml:id="facs_4_line_1647336588490_5256" subtype="Leerzeile"/>
+            <zone points="563,482 967,482 967,511 563,511" rendition="Line" xml:id="facs_4_line_1647336587942_5252" subtype="Leerzeile"/>
+            <zone points="563,511 967,511 967,537 563,537" rendition="Line" xml:id="facs_4_line_1647336587272_5248" subtype="Leerzeile"/>
+            <zone points="563,537 967,537 967,564 563,564" rendition="Line" xml:id="facs_4_line_1647336585584_5244" subtype="Leerzeile"/>
+            <zone points="563,564 967,564 967,596 563,596" rendition="Line" xml:id="facs_4_line_1647336584434_5240" subtype="Leerzeile"/>
+            <zone points="563,596 967,596 967,621 563,621" rendition="Line" xml:id="facs_4_line_1647336582530_5236" subtype="Leerzeile"/>
+            <zone points="563,621 967,621 967,650 563,650" rendition="Line" xml:id="facs_4_line_1647336581891_5232" subtype="Leerzeile"/>
+            <zone points="563,650 967,650 967,675 563,675" rendition="Line" xml:id="facs_4_line_1647336581220_5228" subtype="Leerzeile"/>
+            <zone points="563,675 967,675 967,704 563,704" rendition="Line" xml:id="facs_4_line_1647336580673_5224" subtype="Leerzeile"/>
+            <zone points="563,704 967,704 967,737 563,737" rendition="Line" xml:id="facs_4_line_1647336580140_5220" subtype="Leerzeile"/>
+            <zone points="563,737 967,737 967,757 563,757" rendition="Line" xml:id="facs_4_line_1647336579602_5216" subtype="Leerzeile"/>
+            <zone points="563,757 967,757 967,785 563,785" rendition="Line" xml:id="facs_4_line_1647336579000_5212" subtype="Leerzeile"/>
+            <zone points="563,785 967,785 967,816 563,816" rendition="Line" xml:id="facs_4_line_1647336578421_5208" subtype="Leerzeile"/>
+            <zone points="563,816 967,816 967,843 563,843" rendition="Line" xml:id="facs_4_line_1647336577367_5204" subtype="Leerzeile"/>
+            <zone points="563,843 967,843 967,870 563,870" rendition="Line" xml:id="facs_4_line_1647336576481_5200" subtype="Leerzeile"/>
+            <zone points="563,870 967,870 967,901 563,901" rendition="Line" xml:id="facs_4_line_1647336575416_5196" subtype="Leerzeile"/>
+            <zone points="563,901 967,901 967,924 563,924" rendition="Line" xml:id="facs_4_line_1647336574130_5192" subtype="Leerzeile"/>
+            <zone points="563,924 967,924 967,955 563,955" rendition="Line" xml:id="facs_4_line_1647336573075_5188" subtype="Leerzeile"/>
+            <zone points="563,955 967,955 967,978 563,978" rendition="Line" xml:id="facs_4_line_1647336571458_5184" subtype="Leerzeile"/>
+            <zone points="563,978 967,978 967,1011 563,1011" rendition="Line" xml:id="facs_4_line_1647336570510_5180" subtype="Leerzeile"/>
+            <zone points="563,1011 967,1011 967,1043 563,1043" rendition="Line" xml:id="facs_4_line_1647336569570_5176" subtype="Leerzeile"/>
+            <zone points="563,1043 967,1043 967,1070 563,1070" rendition="Line" xml:id="facs_4_line_1647336568699_5172" subtype="Leerzeile"/>
+            <zone points="563,1070 967,1070 967,1101 563,1101" rendition="Line" xml:id="facs_4_line_1647336567698_5168" subtype="Leerzeile"/>
+            <zone points="563,1101 967,1101 967,1128 563,1128" rendition="Line" xml:id="facs_4_line_1647336566902_5164" subtype="Leerzeile"/>
+            <zone points="563,1128 967,1128 967,1153 563,1153" rendition="Line" xml:id="facs_4_line_1647336565931_5160" subtype="Leerzeile"/>
+            <zone points="563,1153 967,1153 967,1182 563,1182" rendition="Line" xml:id="facs_4_line_1647336560811_5156" subtype="Leerzeile"/>
+            <zone points="563,1182 967,1182 967,1213 563,1213" rendition="Line" xml:id="facs_4_line_1647336559980_5152" subtype="Leerzeile"/>
+            <zone points="563,1213 967,1213 967,1236 563,1236" rendition="Line" xml:id="facs_4_line_1647336558938_5148" subtype="Leerzeile"/>
+            <zone points="563,1236 967,1236 967,1262 563,1262" rendition="Line" xml:id="facs_4_line_1647336557666_5144" subtype="Leerzeile"/>
+            <zone points="563,1262 967,1262 967,1296 563,1296" rendition="Line" xml:id="facs_4_line_1647336556864_5140" subtype="Leerzeile"/>
+            <zone points="563,1296 967,1296 967,1319 563,1319" rendition="Line" xml:id="facs_4_line_1647336555961_5136" subtype="Leerzeile"/>
+            <zone points="563,1319 967,1319 967,1348 563,1348" rendition="Line" xml:id="facs_4_line_1647336555282_5132" subtype="Leerzeile"/>
+            <zone points="563,1348 967,1348 967,1372 563,1372" rendition="Line" xml:id="facs_4_line_1647336554311_5128" subtype="Leerzeile"/>
+            <zone points="563,1372 967,1372 967,1408 563,1408" rendition="Line" xml:id="facs_4_line_1647336545193_5118" subtype="Leerzeile"/>
+            <zone points="563,1408 967,1408 967,1436 563,1436" rendition="Line" xml:id="facs_4_line_1647336544554_5114" subtype="Leerzeile"/>
+            <zone points="563,1436 967,1436 967,1467 563,1467" rendition="Line" xml:id="facs_4_line_1647336543837_5110" subtype="Leerzeile"/>
+         </zone>
+         <zone points="1131,38 1191,38 1191,98 1131,98" rendition="TextRegion" xml:id="facs_4_region_1647336432115_4907" subtype="Metatext">
+            <zone points="1137,44 1182,44 1182,84 1137,84" rendition="Line" xml:id="facs_4_line_1647336435523_4910"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_region_1643194661533_271" type="">
+               <lb facs="#facs_1_line_1643194672877_277" n="N001"/>xlvııı
+            </ab>
+            <ab facs="#facs_1_region_1643194663708_274" type="">
+               <lb facs="#facs_1_line_1643194674998_280" n="N001"/>her willeheln von heınzenburg .
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_region_1643194749061_300" type="Metatext">
+               <lb facs="#facs_2_line_1643194754917_303" n="N001"/><Nota>NOTA</Nota>
+            </ab>
+            <ab facs="#facs_2_region_1643194731852_288" type="Metatext">
+               <lb facs="#facs_2_line_1643194769933_315" n="N001"/><Autornennung>Vō heınzınb ̾g .</Autornennung>
+            </ab>
+            <ab facs="#facs_2_region_1643194787500_318" type="Spalte">
+               <lb facs="#facs_2_line_1643194805957_324" n="N001"/><Strophennummerierung>1</Strophennummerierung>
+               <lb facs="#facs_2_line_1643194824077_333" n="N002"/><Initiale Farbe="rot" Hoehe="4"><Liedbeginn><Strophenbeginn><Versbeginn/></Strophenbeginn>h</Liedbeginn></Initiale>¬
+               <lb facs="#facs_2_line_1643194836829_349" n="N003"/>erre wenne ſol ıch ſı ſeh<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> 
+               <lb facs="#facs_2_line_1643194836829_348" n="N004"/>mır d<Nasalstrich Aufloesung="en">ē</Nasalstrich> lıp betwung<Nasalstrich Aufloesung="en">ē</Nasalstrich> hat · <Versbeginn/>íne 
+               <lb facs="#facs_2_line_1643194836046_344" n="N005"/>getars voꝛ gotte nıht <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>ıehen · 
+               <lb facs="#facs_2_line_1643194835391_340" n="N006"/><Versbeginn/>alſe kvm<r-Abbreviatur Aufloesung="ber">b̾</r-Abbreviatur>lıch <und-Abbreviatur Aufloesung="und">vn̄</und-Abbreviatur> es mır ſtat ·
+               <lb facs="#facs_2_line_1643194850438_361" n="N007"/><Versbeginn/>Jch habtes <r-Abbreviatur Aufloesung="ger">g̾</r-Abbreviatur>ne gv̊t<Nasalstrich Aufloesung="en">ē</Nasalstrich> rat · <Versbeginn/>wıe ıch zer ſcho<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643194850438_360" n="N008"/>n<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſolte kom<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> mır dıe ſınne hat be<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643194849606_356" n="N009"/>nom<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ır mvnt ıſt rot · <Versbeginn/>íne geruͦwe ır an 
+               <lb facs="#facs_2_line_1643194856798_364" n="N010"/>ır arme ſo bín ıch tot ·
+               <lb facs="#facs_2_line_1643194809277_327" n="N011"/><Strophennummerierung>2</Strophennummerierung>
+               <lb facs="#facs_2_line_1643194860133_367" n="N012"/><Lombarde Farbe="rot" Hoehe="3"><Strophenbeginn><Versbeginn/></Strophenbeginn>I</Lombarde>¬
+               <lb facs="#facs_2_line_1643194863718_370" n="N013"/>o froͤwe ıch mıch <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> lıeb<Nasalstrich Aufloesung="en">ē</Nasalstrich> zıt · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> vnſ da 
+               <lb facs="#facs_2_line_1643194866727_373" n="N014"/>nahet zall<Nasalstrich Aufloesung="en">ē</Nasalstrich> tag<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>dıe vogel ſíng<Nasalstrich Aufloesung="en">ē</Nasalstrich>t enwı<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643194881173_389" n="N015"/>der ſtrıt · <Versbeginn/>ſı hant <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>lazen gar ır klag<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ıch 
+               <lb facs="#facs_2_line_1643194881173_388" n="N016"/>wıl ıv guͤt<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> <r-Abbreviatur Aufloesung="mer">m̾</r-Abbreviatur>e ſag<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ıch hoꝛte dıe nahte<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643194880287_384" n="N017"/>gal wol ſíng<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>m<Nasalstrich Aufloesung="in">ī</Nasalstrich> <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>ze mv̊ſ nach froͤıden 
+               <lb facs="#facs_2_line_1643194879168_380" n="N018"/>rıng<Nasalstrich Aufloesung="en">ē</Nasalstrich> · ſı ıſt ſo gv̊t · <Versbeginn/>M<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne dv maht mıch 
+               <lb facs="#facs_2_line_1643194889037_392" n="N019"/>bas betwíng<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>d<Nasalstrich Aufloesung="an">ā</Nasalstrich>ne ıem<Nasalstrich Aufloesung="an">ā</Nasalstrich> tůt ·
+               <lb facs="#facs_2_line_1643194812581_330" n="N020"/><Strophennummerierung>3</Strophennummerierung>
+               <lb facs="#facs_2_line_1643194893717_395" n="N021"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>D</Lombarde>¬
+               <lb facs="#facs_2_line_1643194896596_398" n="N022"/>es dıenſtes duhte mıch vıl kleın<Nasalstrich Aufloesung="en">ē</Nasalstrich> · 
+               <lb facs="#facs_2_line_1643194899068_401" n="N023"/><Versbeginn/>d<Nasalstrich Aufloesung="en">ē</Nasalstrich> ıch <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> ſchon<Nasalstrich Aufloesung="en">ē</Nasalstrich> han getan · <und-Abbreviatur Aufloesung="unde"><Versbeginn/>vn̄</und-Abbreviatur> wolte 
+               <lb facs="#facs_2_line_1643194906622_417" n="N024"/>ſıs mıt tr<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>w<Nasalstrich Aufloesung="en">ē</Nasalstrich> meın<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſo wêr ıch eín ſe<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643194906621_416" n="N025"/>lıg man · <Versbeginn/>ſı mag mıch wol zetode ſlan · 
+               <lb facs="#facs_2_line_1643194905710_412" n="N026"/><und-Abbreviatur Aufloesung="unde"><Versbeginn/>vn̄</und-Abbreviatur> doch da bı vıl ſchone vf hald<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>mín <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643194905112_408" n="N027"/>ze mv̊s <Nasalstrich Aufloesung="in">ī</Nasalstrich> froͤıd<Nasalstrich Aufloesung="en">ē</Nasalstrich> ald<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſı ıſt ſo gv̊t · <Versbeginn/>M<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne 
+               <lb facs="#facs_2_line_1643194912820_420" n="N028"/>dv maht mıch b<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> betw<Nasalstrich Aufloesung="in">ī</Nasalstrich>gen ·
+               <lb facs="#facs_2_line_1643194915141_423" n="N029"/>4
+               <lb facs="#facs_2_line_1643194918428_426" n="N030"/><Liedbeginn><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>S</Lombarde></Liedbeginn>¬
+               <lb facs="#facs_2_line_1643194921405_429" n="N031"/>ı ſol mır des getruw<Nasalstrich Aufloesung="en">ē</Nasalstrich> wol · <Versbeginn/>ſolt ıch 
+               <lb facs="#facs_2_line_1643194924118_432" n="N032"/>d<Nasalstrich Aufloesung="en">ē</Nasalstrich> kvm<r-Abbreviatur Aufloesung="ber">b̾</r-Abbreviatur> lange lıd<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <und-Abbreviatur Aufloesung="unde"><Versbeginn/>vn̄</und-Abbreviatur> dıe ſ<r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>e dıe 
+               <lb facs="#facs_2_line_1643194927012_435" n="N033"/>ıch dol · <Versbeginn/>ſo mvͤſte ıch froͤıde míd<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ıch ſv̊<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643194929877_438" n="N034"/>che nv lange troſt · <und-Abbreviatur Aufloesung="unde"><Versbeginn/>vn̄</und-Abbreviatur> vínde n<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>w<Nasalstrich Aufloesung="an">ā</Nasalstrich> leıt 
+               <lb facs="#facs_2_line_1643194933252_441" n="N035"/><und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>zeſere · <Versbeginn/>ſpꝛıch edel<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> frowe hêre · <Versbeginn/>w<Nasalstrich Aufloesung="en">ē</Nasalstrich>¬
+               <lb facs="#facs_2_line_1643194937893_444" n="N036"/>ne wırde ıch erloſt ·
+               <lb facs="#facs_2_line_1643194940717_447" n="N037"/><Strophennummerierung>5</Strophennummerierung>
+               <lb facs="#facs_2_line_1643194945261_450" n="N038"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>S</Lombarde>¬
+               <lb facs="#facs_2_line_1643194948365_453" n="N039"/>wer ſıch alſo vn<r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur>wíndet · <Versbeginn/>mv̊teſ <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> 
+               <lb facs="#facs_2_line_1643194950436_456" n="N040"/>dıenſteſ nah m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne · <Versbeginn/>ſo d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> er genade v<Nasalstrich Aufloesung="in">ī</Nasalstrich><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643194962549_472" n="N041"/>det · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> heız ıch gv̊te ſínne · <r-Abbreviatur Aufloesung="der"><Versbeginn/>d̾</r-Abbreviatur> ſ<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne mír 
+               <lb facs="#facs_2_line_1643194962549_471" n="N042"/>gebꝛaſt · <Versbeginn/>do ıch mıch mích an ſı wande · <Versbeginn/>ſı 
+               <lb facs="#facs_2_line_1643194961526_467" n="N043"/>w<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> ſchonſte v<Nasalstrich Aufloesung="on">ō</Nasalstrich> d<Nasalstrich Aufloesung="en">ē</Nasalstrich> lande · <Versbeginn/>oͮch w<Nasalstrich Aufloesung="en">ē</Nasalstrich>ne ıh 
+               <lb facs="#facs_2_line_1643194960501_463" n="N044"/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ſı gvͤte erkande · <Versbeginn/>leı<r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> ıſt ır e<Nasalstrich Aufloesung="in">ī</Nasalstrich> gaſt ·
+               <lb facs="#facs_2_line_1643194969245_475" n="N045"/><Strophennummerierung>6</Strophennummerierung>
+               <lb facs="#facs_2_line_1643194972724_478" n="N046"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>O</Lombarde>¬
+               <lb facs="#facs_2_line_1643194975652_481" n="N047"/>we w<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> wırdet mín · <und-Abbreviatur Aufloesung="unde"><Versbeginn/>vn̄</und-Abbreviatur> wıe ſol ıch 
+               <lb facs="#facs_2_line_1643194978412_484" n="N048"/>gebar<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſol ıch ane froͤıde ſín · <Nasalstrich Aufloesung="in"><Versbeginn/>ī</Nasalstrich> mín<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_2_line_1643194981556_487" n="N049"/>beſten ıar<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſo wırd ıch ıe<r-Abbreviatur Aufloesung="mer">m̾</r-Abbreviatur>lıch<Nasalstrich Aufloesung="en">ē</Nasalstrich> alt · <Versbeginn/>m<Nasalstrich Aufloesung="in">ī</Nasalstrich> 
+               <lb facs="#facs_2_line_1643194984020_490" n="N050"/>ſtete tv̊t mır d<Nasalstrich Aufloesung="en">ē</Nasalstrich> pín · <Versbeginn/>deſ wolte ıch ane ſîn · 
+               <lb facs="#facs_2_line_1643194986724_493" n="N051"/><Versbeginn/>es ıſt <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> meıſte kvm<r-Abbreviatur Aufloesung="ber">b̾</r-Abbreviatur> mín · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch deſ engıl¬
+               <lb facs="#facs_2_line_1643194989748_496" n="N052"/>te des nîe man engalt ·
+               <lb facs="#facs_2_line_1643194992492_499" n="N053"/><Strophennummerierung>7</Strophennummerierung>
+               <lb facs="#facs_2_line_1643194997451_502" n="N054"/><Liedbeginn><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>S</Lombarde></Liedbeginn>¬
+               <lb facs="#facs_2_line_1643195000236_505" n="N055"/>tête w<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıe <Korrektur Art="durchgestrichen\u0020und\u0020mit\u0020Punkten\u0020markiert"><hi style="text-decoration: line-through;">ıe</hi></Korrektur> eín tvgent · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> hoͤhſte <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> 
+               <lb facs="#facs_2_line_1643195002517_508" n="N056"/>ıe man pflag · <Versbeginn/>beıde ín al<r-Abbreviatur Aufloesung="ter">t̾</r-Abbreviatur> <und-Abbreviatur Aufloesung="und">vn̄</und-Abbreviatur> oͮch ín 
+               <lb facs="#facs_2_line_1643195012197_524" n="N057"/>ıvgent · <Versbeginn/>nv ſchadet ſı mır m<Nasalstrich Aufloesung="an">ā</Nasalstrich>gen tag · <Versbeginn/>ſche<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195012197_523" n="N058"/>delıche geg<Nasalstrich Aufloesung="en">ē</Nasalstrich> eın<Nasalstrich Aufloesung="en">ē</Nasalstrich> wıbe · <Versbeginn/>wıe ſol ıch dar 
+               <lb facs="#facs_2_line_1643195011213_519" n="N059"/>vmbe werb<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>mv̊z ıch v<Nasalstrich Aufloesung="on">ō</Nasalstrich> míner ſtete <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195010061_515" n="N060"/>derb<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>han ıch d<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſchad<Nasalstrich Aufloesung="en">ē</Nasalstrich> <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> ıſt doh lobe<r-Abbreviatur Aufloesung="ber">b̾</r-Abbreviatur>e · 
+            </ab>
+            <ab facs="#facs_2_region_1643194796701_321" type="Spalte">
+               <lb facs="#facs_2_line_1643195023724_527" n="N001"/><Versbeginn/>bedenke frowe dıſe ſwere · <Versbeginn/>ſo d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch bı froͤı<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195026828_530" n="N002"/>den belıbe ·
+               <lb facs="#facs_2_line_1643195886340_838" n="N003"/><Strophennummerierung>8</Strophennummerierung>
+               <lb facs="#facs_2_line_1643195030171_533" n="N004"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>S</Lombarde>¬
+               <lb facs="#facs_2_line_1643195033340_536" n="N005"/>ı ſagent d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> nıht <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>ter ſı · <Versbeginn/>vn<r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> all<Nasalstrich Aufloesung="en">ē</Nasalstrich> dín<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195035252_539" n="N006"/>gen d<Nasalstrich Aufloesung="an">ā</Nasalstrich>ne eín adamant · <Versbeginn/>ſo ſpꝛıche a<r-Abbreviatur Aufloesung="ber">b̾</r-Abbreviatur> 
+               <lb facs="#facs_2_line_1643195043855_555" n="N007"/>ıch da bı · <Versbeginn/>wer ın míner frow<Nasalstrich Aufloesung="en">ē</Nasalstrich> mv̊t bek<Nasalstrich Aufloesung="an">ā</Nasalstrich>t · 
+               <lb facs="#facs_2_line_1643195043854_554" n="N008"/><Versbeginn/>d<Nasalstrich Aufloesung="em">ē</Nasalstrich> ıehen ſı <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>te vur ín · <Versbeginn/>ſw<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch ıe getete · 
+               <lb facs="#facs_2_line_1643195042556_550" n="N009"/><Versbeginn/>mín dıenſt <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> mın bette · <Versbeginn/>ſo w<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ſı <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>te 
+               <lb facs="#facs_2_line_1643195041660_546" n="N010"/>nach ır ſıtte · <Versbeginn/>nv rat<Nasalstrich Aufloesung="en">ē</Nasalstrich>t ob ıch ſı lange bıt<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195049419_558" n="N011"/>te · <Versbeginn/>mın<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> ıar ſínt da hín ·
+               <lb facs="#facs_2_line_1643195051620_561" n="N012"/><Strophennummerierung>9</Strophennummerierung>
+               <lb facs="#facs_2_line_1643195063788_569" n="N013"/><Liedbeginn><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>E</Lombarde></Liedbeginn>¬
+               <lb facs="#facs_2_line_1643195066916_572" n="N014"/>ín kuſlıch mvnt zweı roſevarwe w<Nasalstrich Aufloesung="an">ā</Nasalstrich><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195069156_575" n="N015"/>ge · <Versbeginn/>hant mín oͮge erſehen · <Versbeginn/>des dıene 
+               <lb facs="#facs_2_line_1643195076517_587" n="N016"/>ıch ır mít mın<Nasalstrich Aufloesung="em">ē</Nasalstrich> n<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>w<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſange · <Versbeginn/>dar zv̊ ſo 
+               <lb facs="#facs_2_line_1643195076517_586" n="N017"/>mv̊z ıch ıehen · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch bín ır eıg<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>wıl d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> 
+               <lb facs="#facs_2_line_1643195075694_582" n="N018"/>lıebe gv̊te <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>zelıebe an mır erzeıg<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſoſt 
+               <lb facs="#facs_2_line_1643195080548_590" n="N019"/>mır wol geſchehen ·
+               <lb facs="#facs_2_line_1643195082228_593" n="N020"/><Strophennummerierung>10</Strophennummerierung>
+               <lb facs="#facs_2_line_1643195092099_596" n="N021"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>V</Lombarde>¬
+               <lb facs="#facs_2_line_1643195094932_599" n="N022"/>ıl ſchone wıb nv dvs durh dín ere · <Versbeginn/>la 
+               <lb facs="#facs_2_line_1643195097300_602" n="N023"/>mıch nıht langer gern · <und-Abbreviatur Aufloesung="unde"><Versbeginn/>vn̄</und-Abbreviatur> kvnde ıch 
+               <lb facs="#facs_2_line_1643195099863_605" n="N024"/>vıl ſo ſpꝛêche ıch doh níht mere · <Versbeginn/>w<Nasalstrich Aufloesung="an">ā</Nasalstrich> dv 
+               <lb facs="#facs_2_line_1643195102357_608" n="N025"/>ſolt mıch gewern · <Versbeginn/>des ıch geg<Nasalstrich Aufloesung="en">ē</Nasalstrich> dır ſınne · 
+               <lb facs="#facs_2_line_1643195104766_611" n="N026"/><Versbeginn/>ıch bín ſo vꝛo wırt mır dın hohgeloptív 
+               <lb facs="#facs_2_line_1643195107125_614" n="N027"/>m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> kan froͤıde <r-Abbreviatur Aufloesung="ber">b̾</r-Abbreviatur>n ·
+               <lb facs="#facs_2_line_1643195109052_617" n="N028"/><Strophennummerierung>11</Strophennummerierung>
+               <lb facs="#facs_2_line_1643195113476_620" n="N029"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>V</Lombarde>¬
+               <lb facs="#facs_2_line_1643195116213_623" n="N030"/>ıl gůtes wıb la mıch nıht ſo <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>derben · 
+               <lb facs="#facs_2_line_1643195118732_626" n="N031"/><Versbeginn/>wand ıch dır heıles gan · <Versbeginn/>m<Nasalstrich Aufloesung="in">ī</Nasalstrich> <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>ze mv̊z 
+               <lb facs="#facs_2_line_1643195121051_629" n="N032"/>nah dín<Nasalstrich Aufloesung="en">ē</Nasalstrich> m<Nasalstrich Aufloesung="in">ī</Nasalstrich>n<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſterb<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> bꝛınge ıch níe<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195123972_632" n="N033"/>mer dan · <Versbeginn/>es en welle da belıb<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ıch dıen 
+               <lb facs="#facs_2_line_1643195126508_635" n="N034"/>dır <Nasalstrich Aufloesung="in">ī</Nasalstrich> dem <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>zen m<Nasalstrich Aufloesung="in">ī</Nasalstrich> voꝛ all<Nasalstrich Aufloesung="en">ē</Nasalstrich> wıb<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſw<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch 
+               <lb facs="#facs_2_line_1643195129876_638" n="N035"/>dıenen kan ·
+               <lb facs="#facs_2_line_1643195131932_641" n="N036"/><Strophennummerierung>12</Strophennummerierung>
+               <lb facs="#facs_2_line_1643195134860_644" n="N037"/><Liedbeginn><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn/>L</Lombarde></Liedbeginn>¬
+               <lb facs="#facs_2_line_1643195137483_647" n="N038"/>ob ıch nv deſ meıen gvͤte · <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> vns maní<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195139636_650" n="N039"/>ge froͤıde gıt w<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> troͤſte d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> · ob ıch ín 
+               <lb facs="#facs_2_line_1643195146897_662" n="N040"/>dıen roſen wuͤte · an d<Nasalstrich Aufloesung="en">ē</Nasalstrich> gurtel m<Nasalstrich Aufloesung="in">ī</Nasalstrich> dıe toͮ<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195146897_661" n="N041"/>wes weren nas · ſoſt m<Nasalstrich Aufloesung="in">ī</Nasalstrich> mv̊t · doch zefroͤı<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195145973_657" n="N042"/>den kleíne · mıch entroͤſte eín wıb alleı<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195154220_665" n="N043"/>ne · ſoſt m<Nasalstrich Aufloesung="in">ī</Nasalstrich> troſt zelıbe noh zeleb<Nasalstrich Aufloesung="en">ē</Nasalstrich>ne gv̊t ·
+               <lb facs="#facs_2_line_1643195164380_674" n="N044"/><Strophennummerierung>13</Strophennummerierung>
+               <lb facs="#facs_2_line_1643195158867_668" n="N045"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>L</Lombarde>¬
+               <lb facs="#facs_2_line_1643195162357_671" n="N046"/>ıeb voꝛ all<Nasalstrich Aufloesung="en">ē</Nasalstrich> lıebe eín w<Nasalstrich Aufloesung="un">ū</Nasalstrich>ne · <Versbeginn/>lıebe mır 
+               <lb facs="#facs_2_line_1643195167908_677" n="N047"/>dıe <r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>lt <und-Abbreviatur Aufloesung="und">vn̄</und-Abbreviatur> oͮch m<Nasalstrich Aufloesung="in">ī</Nasalstrich> ſelbes leb<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſchoͮwe 
+               <lb facs="#facs_2_line_1643195176621_689" n="N048"/>ob ıch ıht gelt<Nasalstrich Aufloesung="en">ē</Nasalstrich> kvnne · <Versbeginn/>ıch wıl al <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> <r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>lte 
+               <lb facs="#facs_2_line_1643195176621_688" n="N049"/>froͤıde dur dıch geb<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>lıeb hat dıke leıdeſ 
+               <lb facs="#facs_2_line_1643195175789_684" n="N050"/>ende · <Versbeginn/>mıneſ <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>zen troſt nv w<Nasalstrich Aufloesung="en">ē</Nasalstrich>de · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> des 
+               <lb facs="#facs_2_line_1643195180997_692" n="N051"/>lıeb<Nasalstrich Aufloesung="en">ē</Nasalstrich> mır mít leıde ıht <r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>de rat ·
+               <lb facs="#facs_2_line_1643195182956_695" n="N052"/><Strophennummerierung>14</Strophennummerierung>
+               <lb facs="#facs_2_line_1643195185877_698" n="N053"/><Lombarde Farbe="rot" Hoehe="3"><Strophenbeginn><Versbeginn/></Strophenbeginn>I</Lombarde>¬
+               <lb facs="#facs_2_line_1643195188004_701" n="N054"/>ch wıl dır mít tr<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>w<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſíng<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>âne trıegen 
+               <lb facs="#facs_2_line_1643195190531_704" n="N055"/>míne beſt<Nasalstrich Aufloesung="en">ē</Nasalstrich> zıt · <Versbeginn/>frowe laze an dır gelıng<Nasalstrich Aufloesung="en">ē</Nasalstrich> · 
+               <lb facs="#facs_2_line_1643195192804_707" n="N056"/><Versbeginn/>mır ıſt anders troſt <und-Abbreviatur Aufloesung="und">vn̄</und-Abbreviatur> alle froͤıde lît · <Versbeginn/>gvͤ<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195196076_710" n="N057"/>t<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> wıb · <Versbeginn/>wunſch<Nasalstrich Aufloesung="en">ē</Nasalstrich>t al gemeíne · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> guͤ<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195199812_713" n="N058"/>te mır alleíne · <r-Abbreviatur Aufloesung="wer"><Versbeginn/>w̾</r-Abbreviatur>de ſo gefroͤwe ıch maní<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1643195202316_716" n="N059"/>ges <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>z<Nasalstrich Aufloesung="en">ē</Nasalstrich> lıb ·
+               <lb facs="#facs_2_line_1643195204028_719" n="N060"/><Strophennummerierung>15</Strophennummerierung>
+               <lb facs="#facs_2_line_1643195206844_722" n="N061"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>O</Lombarde>¬
+               <lb facs="#facs_2_line_1643195209499_725" n="N062"/>b ıch vngeſvng<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſwend<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>mın<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> ıar
+            </ab>
+            <ab facs="#facs_2_region_1643194734365_291" type="Metatext">
+               <lb facs="#facs_2_line_1643194765565_312" n="N001"/><Seitennummerierung>163</Seitennummerierung>
+            </ab>
+            <ab facs="#facs_2_region_1643194736221_294" type="Metatext">
+               <lb facs="#facs_2_line_1643194762575_309" n="N001"/><Nota>NOTA</Nota>
+            </ab>
+            <ab facs="#facs_2_region_1643194741661_297" type="Metatext">
+               <lb facs="#facs_2_line_1643194758989_306" n="N001"/><Nota>NOTA</Nota>
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <ab facs="#facs_3_region_1643195225276_731" type="Spalte">
+               <lb facs="#facs_3_line_1643195236437_751" n="N001"/>mít trur<Nasalstrich Aufloesung="en">ē</Nasalstrich> ane hoh<Nasalstrich Aufloesung="en">ē</Nasalstrich> můt · <Versbeginn/>w<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> mag ıch da 
+               <lb facs="#facs_3_line_1643195236436_750" n="N002"/>mıt <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>enden · <Versbeginn/>nıht wan d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> es den froͤıdelo<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1643195235852_746" n="N003"/>ſen ſanfte tůt · <Versbeginn/>ıch wıl ſín · <Versbeginn/>fro mıt vngere<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1643195235141_742" n="N004"/>te · <und-Abbreviatur Aufloesung="und"><Versbeginn/>vn̄</und-Abbreviatur> an eın<Nasalstrich Aufloesung="en">ē</Nasalstrich> wıbe ſtete · <Versbeginn/>ſwıe ſı wende 
+               <lb facs="#facs_3_line_1643195234446_738" n="N005"/><Korrektur Art="durchgestrichen"><hi style="text-decoration: line-through;">dı</hi></Korrektur> mır dıe beſten vꝛoͤıde mín · 
+               <lb facs="#facs_3_line_1647336343187_4709" n="N006"/>
+               <lb facs="#facs_3_line_1647336343187_4708" n="N007"/>
+               <lb facs="#facs_3_line_1647336342370_4704" n="N008"/>
+               <lb facs="#facs_3_line_1647336341399_4700" n="N009"/>
+               <lb facs="#facs_3_line_1647336340582_4696" n="N010"/>
+               <lb facs="#facs_3_line_1647336339865_4692" n="N011"/>
+               <lb facs="#facs_3_line_1647336338841_4688" n="N012"/>
+               <lb facs="#facs_3_line_1647336337823_4684" n="N013"/>
+               <lb facs="#facs_3_line_1647336336820_4680" n="N014"/>
+               <lb facs="#facs_3_line_1647336336045_4676" n="N015"/>
+               <lb facs="#facs_3_line_1647336335281_4672" n="N016"/>
+               <lb facs="#facs_3_line_1647336334442_4668" n="N017"/>
+               <lb facs="#facs_3_line_1647336333725_4664" n="N018"/>
+               <lb facs="#facs_3_line_1647336332775_4660" n="N019"/>
+               <lb facs="#facs_3_line_1647336331705_4656" n="N020"/>
+               <lb facs="#facs_3_line_1647336330803_4652" n="N021"/>
+               <lb facs="#facs_3_line_1647336329617_4648" n="N022"/>
+               <lb facs="#facs_3_line_1647336328731_4644" n="N023"/>
+               <lb facs="#facs_3_line_1647336328145_4640" n="N024"/>
+               <lb facs="#facs_3_line_1647336327460_4636" n="N025"/>
+               <lb facs="#facs_3_line_1647336326828_4632" n="N026"/>
+               <lb facs="#facs_3_line_1647336316810_4622" n="N027"/>
+               <lb facs="#facs_3_line_1647336315608_4618" n="N028"/>
+               <lb facs="#facs_3_line_1647336315060_4614" n="N029"/>
+               <lb facs="#facs_3_line_1647336314459_4610" n="N030"/>
+               <lb facs="#facs_3_line_1647336313736_4606" n="N031"/>
+               <lb facs="#facs_3_line_1647336313042_4602" n="N032"/>
+               <lb facs="#facs_3_line_1647336312119_4598" n="N033"/>
+               <lb facs="#facs_3_line_1647336311239_4594" n="N034"/>
+               <lb facs="#facs_3_line_1647336310415_4590" n="N035"/>
+               <lb facs="#facs_3_line_1647336309716_4586" n="N036"/>
+               <lb facs="#facs_3_line_1647336308864_4582" n="N037"/>
+               <lb facs="#facs_3_line_1647336308009_4578" n="N038"/>
+               <lb facs="#facs_3_line_1647336307293_4574" n="N039"/>
+               <lb facs="#facs_3_line_1647336306444_4570" n="N040"/>
+               <lb facs="#facs_3_line_1647336305705_4566" n="N041"/>
+               <lb facs="#facs_3_line_1647336305004_4562" n="N042"/>
+               <lb facs="#facs_3_line_1647336304186_4558" n="N043"/>
+               <lb facs="#facs_3_line_1647336303523_4554" n="N044"/>
+               <lb facs="#facs_3_line_1647336302721_4550" n="N045"/>
+               <lb facs="#facs_3_line_1647336300750_4546" n="N046"/>
+            </ab>
+            <ab facs="#facs_3_region_1647336261099_4535" type="Spalte">
+               <lb facs="#facs_3_line_1647336396930_4896" n="N001"/>
+               <lb facs="#facs_3_line_1647336396930_4895" n="N002"/>
+               <lb facs="#facs_3_line_1647336396197_4891" n="N003"/>
+               <lb facs="#facs_3_line_1647336395442_4887" n="N004"/>
+               <lb facs="#facs_3_line_1647336394525_4883" n="N005"/>
+               <lb facs="#facs_3_line_1647336393692_4879" n="N006"/>
+               <lb facs="#facs_3_line_1647336392589_4875" n="N007"/>
+               <lb facs="#facs_3_line_1647336391749_4871" n="N008"/>
+               <lb facs="#facs_3_line_1647336390947_4867" n="N009"/>
+               <lb facs="#facs_3_line_1647336390215_4863" n="N010"/>
+               <lb facs="#facs_3_line_1647336389498_4859" n="N011"/>
+               <lb facs="#facs_3_line_1647336385239_4855" n="N012"/>
+               <lb facs="#facs_3_line_1647336384020_4851" n="N013"/>
+               <lb facs="#facs_3_line_1647336383256_4847" n="N014"/>
+               <lb facs="#facs_3_line_1647336382470_4843" n="N015"/>
+               <lb facs="#facs_3_line_1647336381816_4839" n="N016"/>
+               <lb facs="#facs_3_line_1647336380898_4835" n="N017"/>
+               <lb facs="#facs_3_line_1647336379595_4831" n="N018"/>
+               <lb facs="#facs_3_line_1647336378544_4827" n="N019"/>
+               <lb facs="#facs_3_line_1647336377458_4823" n="N020"/>
+               <lb facs="#facs_3_line_1647336375918_4819" n="N021"/>
+               <lb facs="#facs_3_line_1647336374130_4815" n="N022"/>
+               <lb facs="#facs_3_line_1647336373166_4811" n="N023"/>
+               <lb facs="#facs_3_line_1647336372279_4807" n="N024"/>
+               <lb facs="#facs_3_line_1647336371508_4803" n="N025"/>
+               <lb facs="#facs_3_line_1647336370644_4799" n="N026"/>
+               <lb facs="#facs_3_line_1647336369041_4795" n="N027"/>
+               <lb facs="#facs_3_line_1647336368172_4791" n="N028"/>
+               <lb facs="#facs_3_line_1647336367470_4787" n="N029"/>
+               <lb facs="#facs_3_line_1647336366553_4783" n="N030"/>
+               <lb facs="#facs_3_line_1647336365698_4779" n="N031"/>
+               <lb facs="#facs_3_line_1647336364796_4775" n="N032"/>
+               <lb facs="#facs_3_line_1647336364010_4771" n="N033"/>
+               <lb facs="#facs_3_line_1647336363261_4767" n="N034"/>
+               <lb facs="#facs_3_line_1647336362344_4763" n="N035"/>
+               <lb facs="#facs_3_line_1647336361373_4759" n="N036"/>
+               <lb facs="#facs_3_line_1647336360472_4755" n="N037"/>
+               <lb facs="#facs_3_line_1647336359724_4751" n="N038"/>
+               <lb facs="#facs_3_line_1647336358923_4747" n="N039"/>
+               <lb facs="#facs_3_line_1647336358268_4743" n="N040"/>
+               <lb facs="#facs_3_line_1647336357550_4739" n="N041"/>
+               <lb facs="#facs_3_line_1647336356664_4735" n="N042"/>
+               <lb facs="#facs_3_line_1647336355800_4731" n="N043"/>
+               <lb facs="#facs_3_line_1647336348761_4721" n="N044"/>
+               <lb facs="#facs_3_line_1647336348177_4717" n="N045"/>
+               <lb facs="#facs_3_line_1647336347514_4713" n="N046"/>
+            </ab>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <ab facs="#facs_4_region_1647336472795_4915" type="Spalte">
+               <lb facs="#facs_4_line_1647336538825_5106" n="N001"/>
+               <lb facs="#facs_4_line_1647336538825_5105" n="N002"/>
+               <lb facs="#facs_4_line_1647336537891_5101" n="N003"/>
+               <lb facs="#facs_4_line_1647336537174_5097" n="N004"/>
+               <lb facs="#facs_4_line_1647336536520_5093" n="N005"/>
+               <lb facs="#facs_4_line_1647336535603_5089" n="N006"/>
+               <lb facs="#facs_4_line_1647336534385_5085" n="N007"/>
+               <lb facs="#facs_4_line_1647336533399_5081" n="N008"/>
+               <lb facs="#facs_4_line_1647336532450_5077" n="N009"/>
+               <lb facs="#facs_4_line_1647336531533_5073" n="N010"/>
+               <lb facs="#facs_4_line_1647336530630_5069" n="N011"/>
+               <lb facs="#facs_4_line_1647336529607_5065" n="N012"/>
+               <lb facs="#facs_4_line_1647336528089_5061" n="N013"/>
+               <lb facs="#facs_4_line_1647336527272_5057" n="N014"/>
+               <lb facs="#facs_4_line_1647336526639_5053" n="N015"/>
+               <lb facs="#facs_4_line_1647336525738_5049" n="N016"/>
+               <lb facs="#facs_4_line_1647336525014_5045" n="N017"/>
+               <lb facs="#facs_4_line_1647336524149_5041" n="N018"/>
+               <lb facs="#facs_4_line_1647336523231_5037" n="N019"/>
+               <lb facs="#facs_4_line_1647336521360_5033" n="N020"/>
+               <lb facs="#facs_4_line_1647336519758_5029" n="N021"/>
+               <lb facs="#facs_4_line_1647336518409_5025" n="N022"/>
+               <lb facs="#facs_4_line_1647336517307_5021" n="N023"/>
+               <lb facs="#facs_4_line_1647336516606_5017" n="N024"/>
+               <lb facs="#facs_4_line_1647336515620_5013" n="N025"/>
+               <lb facs="#facs_4_line_1647336513932_5009" n="N026"/>
+               <lb facs="#facs_4_line_1647336511597_5005" n="N027"/>
+               <lb facs="#facs_4_line_1647336510796_5001" n="N028"/>
+               <lb facs="#facs_4_line_1647336509857_4997" n="N029"/>
+               <lb facs="#facs_4_line_1647336508993_4993" n="N030"/>
+               <lb facs="#facs_4_line_1647336508325_4989" n="N031"/>
+               <lb facs="#facs_4_line_1647336507367_4985" n="N032"/>
+               <lb facs="#facs_4_line_1647336506681_4981" n="N033"/>
+               <lb facs="#facs_4_line_1647336505779_4977" n="N034"/>
+               <lb facs="#facs_4_line_1647336505084_4973" n="N035"/>
+               <lb facs="#facs_4_line_1647336504415_4969" n="N036"/>
+               <lb facs="#facs_4_line_1647336503644_4965" n="N037"/>
+               <lb facs="#facs_4_line_1647336502858_4961" n="N038"/>
+               <lb facs="#facs_4_line_1647336501824_4957" n="N039"/>
+               <lb facs="#facs_4_line_1647336500838_4953" n="N040"/>
+               <lb facs="#facs_4_line_1647336500274_4949" n="N041"/>
+               <lb facs="#facs_4_line_1647336499487_4945" n="N042"/>
+               <lb facs="#facs_4_line_1647336498570_4941" n="N043"/>
+               <lb facs="#facs_4_line_1647336497730_4937" n="N044"/>
+               <lb facs="#facs_4_line_1647336496666_4933" n="N045"/>
+               <lb facs="#facs_4_line_1647336495879_4929" n="N046"/>
+            </ab>
+            <ab facs="#facs_4_region_1647336475163_4918" type="Spalte">
+               <lb facs="#facs_4_line_1647336596207_5293" n="N001"/>
+               <lb facs="#facs_4_line_1647336596207_5292" n="N002"/>
+               <lb facs="#facs_4_line_1647336595452_5288" n="N003"/>
+               <lb facs="#facs_4_line_1647336594350_5284" n="N004"/>
+               <lb facs="#facs_4_line_1647336593686_5280" n="N005"/>
+               <lb facs="#facs_4_line_1647336592985_5276" n="N006"/>
+               <lb facs="#facs_4_line_1647336592230_5272" n="N007"/>
+               <lb facs="#facs_4_line_1647336591498_5268" n="N008"/>
+               <lb facs="#facs_4_line_1647336590464_5264" n="N009"/>
+               <lb facs="#facs_4_line_1647336589445_5260" n="N010"/>
+               <lb facs="#facs_4_line_1647336588490_5256" n="N011"/>
+               <lb facs="#facs_4_line_1647336587942_5252" n="N012"/>
+               <lb facs="#facs_4_line_1647336587272_5248" n="N013"/>
+               <lb facs="#facs_4_line_1647336585584_5244" n="N014"/>
+               <lb facs="#facs_4_line_1647336584434_5240" n="N015"/>
+               <lb facs="#facs_4_line_1647336582530_5236" n="N016"/>
+               <lb facs="#facs_4_line_1647336581891_5232" n="N017"/>
+               <lb facs="#facs_4_line_1647336581220_5228" n="N018"/>
+               <lb facs="#facs_4_line_1647336580673_5224" n="N019"/>
+               <lb facs="#facs_4_line_1647336580140_5220" n="N020"/>
+               <lb facs="#facs_4_line_1647336579602_5216" n="N021"/>
+               <lb facs="#facs_4_line_1647336579000_5212" n="N022"/>
+               <lb facs="#facs_4_line_1647336578421_5208" n="N023"/>
+               <lb facs="#facs_4_line_1647336577367_5204" n="N024"/>
+               <lb facs="#facs_4_line_1647336576481_5200" n="N025"/>
+               <lb facs="#facs_4_line_1647336575416_5196" n="N026"/>
+               <lb facs="#facs_4_line_1647336574130_5192" n="N027"/>
+               <lb facs="#facs_4_line_1647336573075_5188" n="N028"/>
+               <lb facs="#facs_4_line_1647336571458_5184" n="N029"/>
+               <lb facs="#facs_4_line_1647336570510_5180" n="N030"/>
+               <lb facs="#facs_4_line_1647336569570_5176" n="N031"/>
+               <lb facs="#facs_4_line_1647336568699_5172" n="N032"/>
+               <lb facs="#facs_4_line_1647336567698_5168" n="N033"/>
+               <lb facs="#facs_4_line_1647336566902_5164" n="N034"/>
+               <lb facs="#facs_4_line_1647336565931_5160" n="N035"/>
+               <lb facs="#facs_4_line_1647336560811_5156" n="N036"/>
+               <lb facs="#facs_4_line_1647336559980_5152" n="N037"/>
+               <lb facs="#facs_4_line_1647336558938_5148" n="N038"/>
+               <lb facs="#facs_4_line_1647336557666_5144" n="N039"/>
+               <lb facs="#facs_4_line_1647336556864_5140" n="N040"/>
+               <lb facs="#facs_4_line_1647336555961_5136" n="N041"/>
+               <lb facs="#facs_4_line_1647336555282_5132" n="N042"/>
+               <lb facs="#facs_4_line_1647336554311_5128" n="N043"/>
+               <lb facs="#facs_4_line_1647336545193_5118" n="N044"/>
+               <lb facs="#facs_4_line_1647336544554_5114" n="N045"/>
+               <lb facs="#facs_4_line_1647336543837_5110" n="N046"/>
+            </ab>
+            <ab facs="#facs_4_region_1647336432115_4907" type="Metatext">
+               <lb facs="#facs_4_line_1647336435523_4910" n="N001"/><Seitennummerierung>164</Seitennummerierung>
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

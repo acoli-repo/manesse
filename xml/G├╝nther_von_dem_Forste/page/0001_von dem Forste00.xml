@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T10:14:51.384+01:00</Created>
+        <LastChange>2022-03-14T13:53:26.673+01:00</LastChange>
+        <TranskribusMetadata docId="795321" pageId="35407318" pageNr="1" tsid="78355320" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=HROEJSAVJFEDWUSQWBDFGBOI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCZPXDXMYGPAWCRKMUGGDDAU" imageId="28487906">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="314v"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="her Günther von dem Vorste"/>
+            <Property key="Lage" value="29"/>
+            <Property key="Corpusnummerierung" value="lxxxxi; 91"/>
+            <Property key="Lagenposition" value="4"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_von dem Forste00.jpg" imageWidth="1269" imageHeight="1887">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537407260" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646039705430_718"/>
+                <RegionRefIndexed index="1" regionRef="region_1646039707419_721"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646039705430_718" custom="readingOrder {index:0;}">
+            <Coords points="162,57 312,57 312,97 162,97"/>
+            <TextLine id="line_1646039713334_724" custom="readingOrder {index:0;}">
+                <Coords points="175,61 288,61 288,90 175,90"/>
+                <TextEquiv>
+                    <Unicode>‧ Lxxxxı ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ Lxxxxı ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646039707419_721" custom="readingOrder {index:1;}">
+            <Coords points="429,51 860,51 860,103 429,103"/>
+            <TextLine id="line_1646039716641_727" custom="readingOrder {index:0;} Nasalstrich {offset:14; length:2;Aufloesung:on;}">
+                <Coords points="449,58 851,58 851,93 449,93"/>
+                <TextEquiv>
+                    <Unicode>her Gvnther vō dem Voꝛſte ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>her Gvnther vō dem Voꝛſte ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">Von Eschenbach</title></titleStmt>
+         <seriesStmt><title>Projekt Codex Manesse</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">Von Eschenbach</title><idno type="Transkribus">669416</idno></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1258" lry="1874" xml:id="facs_1">
+         <graphic url="0001_Eschenbach00.jpg" width="1258px" height="1874px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JBTQSFRARAXQHGKLDQGQBXFU&amp;fileType=view" width="1258px" height="1874px"/>
+         <zone points="638,1 766,1 766,50 638,50" rendition="TextRegion" xml:id="facs_1_region_1646037593771_101">
+            <zone points="654,10 749,10 749,43 654,43" rendition="Line" xml:id="facs_1_line_1646037602357_110"/>
+         </zone>
+         <zone points="468,56 910,56 910,141 468,141" rendition="TextRegion" xml:id="facs_1_region_1646037595960_104">
+            <zone points="487,65 893,65 893,122 487,122" rendition="Line" xml:id="facs_1_line_1646037604878_113"/>
+         </zone>
+         <zone points="963,68 1080,68 1080,127 963,127" rendition="TextRegion" xml:id="facs_1_region_1646037597448_107">
+            <zone points="970,72 1065,72 1065,116 970,116" rendition="Line" xml:id="facs_1_line_1646037607115_116"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1235" lry="1872" xml:id="facs_2">
+         <graphic url="0002_Eschenbach01.jpg" width="1235px" height="1872px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PZHVZZFORUALCVXQZSDRJLWF&amp;fileType=view" width="1235px" height="1872px"/>
+         <zone points="101,15 213,15 213,39 101,39" rendition="TextRegion" xml:id="facs_2_region_1620711303835_18" subtype="Metatext">
+            <zone points="104,18 210,18 210,35 104,35" rendition="Line" xml:id="facs_2_line_1620711373548_32"/>
+         </zone>
+         <zone points="51,139 530,139 530,1466 51,1466" rendition="TextRegion" xml:id="facs_2_region_1620711278484_12" subtype="Spalte">
+            <zone points="488,137 504,137 504,168 488,168" rendition="Line" xml:id="facs_2_line_1620735385223_160" subtype="Strophenzahl"/>
+            <zone points="55,143 217,143 217,285 55,285" rendition="Line" xml:id="facs_2_line_1620711383500_35"/>
+            <zone points="217,161 509,161 509,197 217,197" rendition="Line" xml:id="facs_2_line_1620735385223_161"/>
+            <zone points="215,197 525,197 525,222 215,222" rendition="Line" xml:id="facs_2_line_1620711395212_41"/>
+            <zone points="215,222 523,222 523,249 215,249" rendition="Line" xml:id="facs_2_line_1620711398916_44"/>
+            <zone points="215,249 523,249 523,273 215,273" rendition="Line" xml:id="facs_2_line_1620711405891_47"/>
+            <zone points="93,274 521,274 521,306 93,306" rendition="Line" xml:id="facs_2_line_1620711416211_50"/>
+            <zone points="87,308 472,308 472,333 87,333" rendition="Line" xml:id="facs_2_line_1620735354121_154"/>
+            <zone points="472,308 518,308 518,333 472,333" rendition="Line" xml:id="facs_2_line_1620735354121_153" subtype="Strophenzahl"/>
+            <zone points="77,333 142,333 142,395 77,395" rendition="Line" xml:id="facs_2_line_1620711441571_61"/>
+            <zone points="143,335 517,335 517,358 143,358" rendition="Line" xml:id="facs_2_line_1620711446964_64"/>
+            <zone points="140,358 517,358 517,386 140,386" rendition="Line" xml:id="facs_2_line_1620711452348_67"/>
+            <zone points="90,392 519,392 519,415 90,415" rendition="Line" xml:id="facs_2_line_1620711459563_70"/>
+            <zone points="90,415 519,415 519,447 90,447" rendition="Line" xml:id="facs_2_line_1620711462859_73"/>
+            <zone points="90,447 473,447 473,474 90,474" rendition="Line" xml:id="facs_2_line_1620735337312_147"/>
+            <zone points="473,447 517,447 517,474 473,474" rendition="Line" xml:id="facs_2_line_1620735337312_146" subtype="Strophenzahl"/>
+            <zone points="65,474 140,474 140,531 65,531" rendition="Line" xml:id="facs_2_line_1620711475619_79"/>
+            <zone points="136,475 516,475 516,499 136,499" rendition="Line" xml:id="facs_2_line_1620711500403_82"/>
+            <zone points="137,499 516,499 516,528 137,528" rendition="Line" xml:id="facs_2_line_1620711505107_85"/>
+            <zone points="94,530 516,530 516,553 94,553" rendition="Line" xml:id="facs_2_line_1620711510515_88"/>
+            <zone points="87,553 516,553 516,583 87,583" rendition="Line" xml:id="facs_2_line_1620711520804_91"/>
+            <zone points="87,583 480,583 480,608 87,608" rendition="Line" xml:id="facs_2_line_1620735320722_140"/>
+            <zone points="480,583 517,583 517,608 480,608" rendition="Line" xml:id="facs_2_line_1620735320722_139" subtype="Strophenzahl"/>
+            <zone points="62,609 141,609 141,668 62,668" rendition="Line" xml:id="facs_2_line_1620711528475_97"/>
+            <zone points="139,610 514,610 514,635 139,635" rendition="Line" xml:id="facs_2_line_1620711535491_100"/>
+            <zone points="140,635 514,635 514,669 140,669" rendition="Line" xml:id="facs_2_line_1620711539620_103"/>
+            <zone points="92,667 523,667 523,691 92,691" rendition="Line" xml:id="facs_2_line_1620711544668_106"/>
+            <zone points="92,691 523,691 523,720 92,720" rendition="Line" xml:id="facs_2_line_1620711549508_109"/>
+            <zone points="91,719 520,719 520,747 91,747" rendition="Line" xml:id="facs_2_line_1620711557404_112"/>
+            <zone points="92,747 485,747 485,774 92,774" rendition="Line" xml:id="facs_2_line_1620735096916_134"/>
+            <zone points="484,738 512,738 512,763 484,763" rendition="Line" xml:id="facs_2_line_1620735096916_133" subtype="Strophenzahl"/>
+            <zone points="81,774 133,774 133,828 81,828" rendition="Line" xml:id="facs_2_line_1620711568019_118"/>
+            <zone points="133,771 520,771 520,800 133,800" rendition="Line" xml:id="facs_2_line_1620711572067_121"/>
+            <zone points="130,799 521,799 521,828 130,828" rendition="Line" xml:id="facs_2_line_1620711578043_124"/>
+            <zone points="90,828 519,828 519,851 90,851" rendition="Line" xml:id="facs_2_line_1620711583155_127"/>
+            <zone points="88,851 519,851 519,884 88,884" rendition="Line" xml:id="facs_2_line_1620711588684_130"/>
+            <zone points="88,884 521,884 521,914 88,914" rendition="Line" xml:id="facs_2_line_1620711592387_133"/>
+            <zone points="91,914 492,914 492,943 91,943" rendition="Line" xml:id="facs_2_line_1620735059221_126"/>
+            <zone points="492,908 521,908 521,934 492,934" rendition="Line" xml:id="facs_2_line_1620735059221_125" subtype="Strophenzahl"/>
+            <zone points="82,943 139,943 139,1001 82,1001" rendition="Line" xml:id="facs_2_line_1620711601716_139"/>
+            <zone points="139,943 520,943 520,972 139,972" rendition="Line" xml:id="facs_2_line_1620711606500_142"/>
+            <zone points="137,972 520,972 520,995 137,995" rendition="Line" xml:id="facs_2_line_1620711612243_145"/>
+            <zone points="99,994 521,994 521,1021 99,1021" rendition="Line" xml:id="facs_2_line_1620711628931_153"/>
+            <zone points="93,1027 523,1027 523,1058 93,1058" rendition="Line" xml:id="facs_2_line_1620711634075_156"/>
+            <zone points="95,1058 523,1058 523,1087 95,1087" rendition="Line" xml:id="facs_2_line_1620711637748_159"/>
+            <zone points="95,1087 524,1087 524,1113 95,1113" rendition="Line" xml:id="facs_2_line_1620711641372_162"/>
+            <zone points="96,1113 487,1113 487,1142 96,1142" rendition="Line" xml:id="facs_2_line_1620735025511_117"/>
+            <zone points="487,1113 517,1113 517,1128 487,1128" rendition="Line" xml:id="facs_2_line_1620735025511_116" subtype="Strophenzahl"/>
+            <zone points="83,1142 146,1142 146,1205 83,1205" rendition="Line" xml:id="facs_2_line_1620711649019_168"/>
+            <zone points="147,1138 524,1138 524,1171 147,1171" rendition="Line" xml:id="facs_2_line_1620711657819_171"/>
+            <zone points="143,1164 526,1164 526,1198 143,1198" rendition="Line" xml:id="facs_2_line_1620711663043_174"/>
+            <zone points="102,1203 529,1203 529,1228 102,1228" rendition="Line" xml:id="facs_2_line_1620711667227_177"/>
+            <zone points="100,1228 529,1228 529,1259 100,1259" rendition="Line" xml:id="facs_2_line_1620711670364_180"/>
+            <zone points="100,1259 525,1259 525,1280 100,1280" rendition="Line" xml:id="facs_2_line_1620711674396_183"/>
+            <zone points="104,1280 525,1280 525,1315 104,1315" rendition="Line" xml:id="facs_2_line_1620711677948_186"/>
+            <zone points="104,1315 524,1315 524,1337 104,1337" rendition="Line" xml:id="facs_2_line_1620711681651_189"/>
+            <zone points="520,1342 542,1342 542,1365 520,1365" rendition="Line" xml:id="facs_2_line_1620734997142_108" subtype="Strophenzahl"/>
+            <zone points="81,1339 144,1339 144,1398 81,1398" rendition="Line" xml:id="facs_2_line_1620711692004_192"/>
+            <zone points="146,1342 520,1342 520,1364 146,1364" rendition="Line" xml:id="facs_2_line_1620734997142_109"/>
+            <zone points="139,1364 523,1364 523,1396 139,1396" rendition="Line" xml:id="facs_2_line_1620711700747_198"/>
+            <zone points="104,1399 527,1399 527,1420 104,1420" rendition="Line" xml:id="facs_2_line_1620711703563_201"/>
+            <zone points="103,1419 523,1419 523,1451 103,1451" rendition="Line" xml:id="facs_2_line_1620712443996_370"/>
+         </zone>
+         <zone points="530,137 1027,137 1027,1466 530,1466" rendition="TextRegion" xml:id="facs_2_region_1620711288715_15" subtype="Spalte">
+            <zone points="557,162 1016,162 1016,193 557,193" rendition="Line" xml:id="facs_2_line_1620712587428_376"/>
+            <zone points="551,195 1018,195 1018,216 551,216" rendition="Line" xml:id="facs_2_line_1620712592580_379"/>
+            <zone points="558,216 977,216 977,247 558,247" rendition="Line" xml:id="facs_2_line_1620712915306_554"/>
+            <zone points="1116,248 1151,248 1151,275 1116,275" rendition="Line" xml:id="facs_2_line_1620712625796_396"/>
+            <zone points="977,216 1018,216 1018,247 977,247" rendition="Line" xml:id="facs_2_line_1620712915306_553" subtype="Strophenzahl"/>
+            <zone points="545,246 610,246 610,304 545,304" rendition="Line" xml:id="facs_2_line_1620712600597_385"/>
+            <zone points="611,247 1015,247 1015,277 611,277" rendition="Line" xml:id="facs_2_line_1620712606653_388"/>
+            <zone points="609,278 1014,278 1014,302 609,302" rendition="Line" xml:id="facs_2_line_1620712635628_399"/>
+            <zone points="563,302 1014,302 1014,329 563,329" rendition="Line" xml:id="facs_2_line_1620712639932_402"/>
+            <zone points="563,329 1012,329 1012,353 563,353" rendition="Line" xml:id="facs_2_line_1620712643476_405"/>
+            <zone points="561,353 1012,353 1012,387 561,387" rendition="Line" xml:id="facs_2_line_1620712646637_408"/>
+            <zone points="561,387 960,387 960,412 561,412" rendition="Line" xml:id="facs_2_line_1620713149694_584"/>
+            <zone points="960,387 1012,387 1012,412 960,412" rendition="Line" xml:id="facs_2_line_1620713149694_583" subtype="Strophenzahl"/>
+            <zone points="534,410 607,410 607,471 534,471" rendition="Line" xml:id="facs_2_line_1620712658709_414"/>
+            <zone points="608,408 1013,408 1013,440 608,440" rendition="Line" xml:id="facs_2_line_1620712663412_417"/>
+            <zone points="603,432 1013,432 1013,464 603,464" rendition="Line" xml:id="facs_2_line_1620712669284_420"/>
+            <zone points="554,464 1016,464 1016,491 554,491" rendition="Line" xml:id="facs_2_line_1620712674764_423"/>
+            <zone points="563,491 1016,491 1016,520 563,520" rendition="Line" xml:id="facs_2_line_1620712680165_426"/>
+            <zone points="563,520 1017,520 1017,548 563,548" rendition="Line" xml:id="facs_2_line_1620712684660_429"/>
+            <zone points="571,548 958,548 958,570 571,570" rendition="Line" xml:id="facs_2_line_1620734931316_100"/>
+            <zone points="958,535 983,535 983,562 958,562" rendition="Line" xml:id="facs_2_line_1620734931316_99" subtype="Strophenzahl"/>
+            <zone points="540,571 608,571 608,636 540,636" rendition="Line" xml:id="facs_2_line_1620712693645_435"/>
+            <zone points="610,565 1018,565 1018,603 610,603" rendition="Line" xml:id="facs_2_line_1620712699180_438"/>
+            <zone points="608,595 1016,595 1016,632 608,632" rendition="Line" xml:id="facs_2_line_1620712702909_441"/>
+            <zone points="561,631 1016,631 1016,654 561,654" rendition="Line" xml:id="facs_2_line_1620712708197_444"/>
+            <zone points="567,654 1016,654 1016,685 567,685" rendition="Line" xml:id="facs_2_line_1620712711861_447"/>
+            <zone points="567,685 1016,685 1016,709 567,709" rendition="Line" xml:id="facs_2_line_1620712715796_450"/>
+            <zone points="568,709 959,709 959,741 568,741" rendition="Line" xml:id="facs_2_line_1620734910664_93"/>
+            <zone points="959,709 1016,709 1016,741 959,741" rendition="Line" xml:id="facs_2_line_1620734910664_92" subtype="Strophenzahl"/>
+            <zone points="549,739 610,739 610,798 549,798" rendition="Line" xml:id="facs_2_line_1620712726477_456"/>
+            <zone points="609,734 1017,734 1017,767 609,767" rendition="Line" xml:id="facs_2_line_1620712732564_459"/>
+            <zone points="605,758 1016,758 1016,796 605,796" rendition="Line" xml:id="facs_2_line_1620712737501_462"/>
+            <zone points="558,795 1019,795 1019,822 558,822" rendition="Line" xml:id="facs_2_line_1620712742708_465"/>
+            <zone points="563,816 1019,816 1019,851 563,851" rendition="Line" xml:id="facs_2_line_1620712746997_468"/>
+            <zone points="563,851 1020,851 1020,879 563,879" rendition="Line" xml:id="facs_2_line_1620712752069_471"/>
+            <zone points="564,879 977,879 977,910 564,910" rendition="Line" xml:id="facs_2_line_1620734887373_86"/>
+            <zone points="977,879 1020,879 1020,910 977,910" rendition="Line" xml:id="facs_2_line_1620734887373_85" subtype="Strophenzahl"/>
+            <zone points="544,907 617,907 617,965 544,965" rendition="Line" xml:id="facs_2_line_1620712757909_477"/>
+            <zone points="616,903 1020,903 1020,938 616,938" rendition="Line" xml:id="facs_2_line_1620712761612_480"/>
+            <zone points="613,926 1020,926 1020,964 613,964" rendition="Line" xml:id="facs_2_line_1620712766261_483"/>
+            <zone points="561,966 1017,966 1017,990 561,990" rendition="Line" xml:id="facs_2_line_1620712774493_486"/>
+            <zone points="567,990 1017,990 1017,1022 567,1022" rendition="Line" xml:id="facs_2_line_1620712778469_489"/>
+            <zone points="567,1022 1017,1022 1017,1050 567,1050" rendition="Line" xml:id="facs_2_line_1620712782308_492"/>
+            <zone points="562,1050 962,1050 962,1073 562,1073" rendition="Line" xml:id="facs_2_line_1620734868112_79"/>
+            <zone points="1129,1084 1167,1084 1167,1117 1129,1117" rendition="Line" xml:id="facs_2_line_1620712809020_509"/>
+            <zone points="962,1050 1017,1050 1017,1073 962,1073" rendition="Line" xml:id="facs_2_line_1620734868112_78" subtype="Strophenzahl"/>
+            <zone points="549,1076 615,1076 615,1136 549,1136" rendition="Line" xml:id="facs_2_line_1620712792429_498"/>
+            <zone points="618,1076 1018,1076 1018,1105 618,1105" rendition="Line" xml:id="facs_2_line_1620712797372_501"/>
+            <zone points="617,1106 1016,1106 1016,1131 617,1131" rendition="Line" xml:id="facs_2_line_1620712814757_512"/>
+            <zone points="568,1137 1020,1137 1020,1159 568,1159" rendition="Line" xml:id="facs_2_line_1620712820532_515"/>
+            <zone points="565,1159 1020,1159 1020,1193 565,1193" rendition="Line" xml:id="facs_2_line_1620712824021_518"/>
+            <zone points="565,1193 1021,1193 1021,1217 565,1217" rendition="Line" xml:id="facs_2_line_1620712828189_521"/>
+            <zone points="575,1217 1021,1217 1021,1248 575,1248" rendition="Line" xml:id="facs_2_line_1620712831765_524"/>
+            <zone points="575,1248 1020,1248 1020,1275 575,1275" rendition="Line" xml:id="facs_2_line_1620712835901_527"/>
+            <zone points="578,1275 1020,1275 1020,1301 578,1301" rendition="Line" xml:id="facs_2_line_1620712840093_530"/>
+            <zone points="569,1301 1019,1301 1019,1327 569,1327" rendition="Line" xml:id="facs_2_line_1620712846453_533"/>
+            <zone points="575,1327 966,1327 966,1360 575,1360" rendition="Line" xml:id="facs_2_line_1620734832995_73"/>
+            <zone points="966,1327 1019,1327 1019,1360 966,1360" rendition="Line" xml:id="facs_2_line_1620734832995_72" subtype="Strophenzahl"/>
+            <zone points="549,1359 625,1359 625,1416 549,1416" rendition="Line" xml:id="facs_2_line_1620712852757_539"/>
+            <zone points="625,1354 1019,1354 1019,1385 625,1385" rendition="Line" xml:id="facs_2_line_1620712857229_542"/>
+            <zone points="623,1374 1019,1374 1019,1412 623,1412" rendition="Line" xml:id="facs_2_line_1620712861909_545"/>
+            <zone points="564,1412 1018,1412 1018,1442 564,1442" rendition="Line" xml:id="facs_2_line_1620712866157_548"/>
+         </zone>
+         <zone points="1107,45 1163,45 1163,91 1107,91" rendition="TextRegion" xml:id="facs_2_region_1632900491769_162" subtype="Metatext">
+            <zone points="1115,50 1153,50 1153,87 1115,87" rendition="Line" xml:id="facs_2_line_1632900496142_165"/>
+         </zone>
+         <zone points="1106,238 1156,238 1156,285 1106,285" rendition="TextRegion" xml:id="facs_2_region_1620711315995_21" subtype="Metatext">
+         </zone>
+         <zone points="1126,1078 1171,1078 1171,1120 1126,1120" rendition="TextRegion" xml:id="facs_2_region_1620711327147_24" subtype="Metatext">
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1248" lry="1881" xml:id="facs_3">
+         <graphic url="0003_Eschenbach02.jpg" width="1248px" height="1881px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VBRYTBQAFJIHLBEDLQGGDDFA&amp;fileType=view" width="1248px" height="1881px"/>
+         <zone points="57,897 105,897 105,941 57,941" rendition="TextRegion" xml:id="facs_3_region_1620735510897_178" subtype="Metatext">
+         </zone>
+         <zone points="206,148 703,148 703,1463 206,1463" rendition="TextRegion" xml:id="facs_3_region_1620735496400_172" subtype="Spalte">
+            <zone points="234,157 699,157 699,196 234,196" rendition="Line" xml:id="facs_3_line_1620735540031_181"/>
+            <zone points="233,196 699,196 699,225 233,225" rendition="Line" xml:id="facs_3_line_1620735547029_184"/>
+            <zone points="233,225 699,225 699,252 233,252" rendition="Line" xml:id="facs_3_line_1620735554481_187"/>
+            <zone points="232,252 699,252 699,279 232,279" rendition="Line" xml:id="facs_3_line_1620735558542_190"/>
+            <zone points="232,279 698,279 698,306 232,306" rendition="Line" xml:id="facs_3_line_1620735562166_193"/>
+            <zone points="232,306 659,306 659,330 232,330" rendition="Line" xml:id="facs_3_line_1620735577881_201"/>
+            <zone points="670,303 695,303 695,331 670,331" rendition="Line" xml:id="facs_3_line_1620735582943_204" subtype="Strophenzahl"/>
+            <zone points="233,329 302,329 302,389 233,389" rendition="Line" xml:id="facs_3_line_1620735590628_207"/>
+            <zone points="303,331 694,331 694,361 303,361" rendition="Line" xml:id="facs_3_line_1620735595752_210"/>
+            <zone points="299,361 694,361 694,388 299,388" rendition="Line" xml:id="facs_3_line_1620735600282_213"/>
+            <zone points="248,388 674,388 674,416 248,416" rendition="Line" xml:id="facs_3_line_1620735604828_216"/>
+            <zone points="248,416 674,416 674,443 248,443" rendition="Line" xml:id="facs_3_line_1620735609155_219"/>
+            <zone points="247,442 676,442 676,469 247,469" rendition="Line" xml:id="facs_3_line_1620735628260_222"/>
+            <zone points="245,469 690,469 690,496 245,496" rendition="Line" xml:id="facs_3_line_1620735632837_225"/>
+            <zone points="245,496 684,496 684,522 245,522" rendition="Line" xml:id="facs_3_line_1620735637024_228"/>
+            <zone points="246,522 684,522 684,546 246,546" rendition="Line" xml:id="facs_3_line_1620735640773_231"/>
+            <zone points="246,546 684,546 684,575 246,575" rendition="Line" xml:id="facs_3_line_1620735646053_234"/>
+            <zone points="255,576 377,576 377,600 255,600" rendition="Line" xml:id="facs_3_line_1620735651317_237"/>
+            <zone points="640,576 676,576 676,602 640,602" rendition="Line" xml:id="facs_3_line_1620735655441_240" subtype="Strophenzahl"/>
+            <zone points="211,568 260,568 260,666 211,666" rendition="Line" xml:id="facs_3_line_1620735660924_243"/>
+            <zone points="258,599 684,599 684,630 258,630" rendition="Line" xml:id="facs_3_line_1620735667188_246"/>
+            <zone points="258,630 684,630 684,659 258,659" rendition="Line" xml:id="facs_3_line_1620735670500_249"/>
+            <zone points="239,660 683,660 683,689 239,689" rendition="Line" xml:id="facs_3_line_1620735675561_252"/>
+            <zone points="237,690 681,690 681,717 237,717" rendition="Line" xml:id="facs_3_line_1620735684591_255"/>
+            <zone points="239,717 681,717 681,744 239,744" rendition="Line" xml:id="facs_3_line_1620735692792_258"/>
+            <zone points="239,744 679,744 679,770 239,770" rendition="Line" xml:id="facs_3_line_1620735695838_261"/>
+            <zone points="241,770 679,770 679,794 241,794" rendition="Line" xml:id="facs_3_line_1620735701259_264"/>
+            <zone points="241,794 678,794 678,825 241,825" rendition="Line" xml:id="facs_3_line_1620735705929_267"/>
+            <zone points="238,824 636,824 636,850 238,850" rendition="Line" xml:id="facs_3_line_1620735713615_270"/>
+            <zone points="63,901 100,901 100,935 63,935" rendition="Line" xml:id="facs_3_line_1620736134300_416"/>
+            <zone points="647,826 675,826 675,857 647,857" rendition="Line" xml:id="facs_3_line_1620735716911_273" subtype="Strophenzahl"/>
+            <zone points="224,848 289,848 289,909 224,909" rendition="Line" xml:id="facs_3_line_1620735721270_276"/>
+            <zone points="293,855 682,855 682,878 293,878" rendition="Line" xml:id="facs_3_line_1620735727612_279"/>
+            <zone points="292,879 680,879 680,911 292,911" rendition="Line" xml:id="facs_3_line_1620735732767_282"/>
+            <zone points="246,910 677,910 677,940 246,940" rendition="Line" xml:id="facs_3_line_1620735738594_285"/>
+            <zone points="243,941 675,941 675,966 243,966" rendition="Line" xml:id="facs_3_line_1620735748045_288"/>
+            <zone points="241,966 675,966 675,994 241,994" rendition="Line" xml:id="facs_3_line_1620735750935_291"/>
+            <zone points="241,996 669,996 669,1024 241,1024" rendition="Line" xml:id="facs_3_line_1620735756215_294"/>
+            <zone points="238,1018 507,1018 507,1048 238,1048" rendition="Line" xml:id="facs_3_line_1620735779975_300"/>
+            <zone points="619,1024 652,1024 652,1056 619,1056" rendition="Line" xml:id="facs_3_line_1620735782771_303" subtype="Strophenzahl"/>
+            <zone points="206,1043 290,1043 290,1104 206,1104" rendition="Line" xml:id="facs_3_line_1620735786754_306"/>
+            <zone points="292,1051 682,1051 682,1077 292,1077" rendition="Line" xml:id="facs_3_line_1620735791816_309"/>
+            <zone points="289,1078 673,1078 673,1110 289,1110" rendition="Line" xml:id="facs_3_line_1620735796877_312"/>
+            <zone points="237,1107 669,1107 669,1136 237,1136" rendition="Line" xml:id="facs_3_line_1620735801595_315"/>
+            <zone points="237,1136 669,1136 669,1164 237,1164" rendition="Line" xml:id="facs_3_line_1620735804922_318"/>
+            <zone points="237,1164 669,1164 669,1195 237,1195" rendition="Line" xml:id="facs_3_line_1620735808562_321"/>
+            <zone points="235,1195 669,1195 669,1222 235,1222" rendition="Line" xml:id="facs_3_line_1620735813483_324"/>
+            <zone points="235,1223 430,1223 430,1247 235,1247" rendition="Line" xml:id="facs_3_line_1620735821418_327"/>
+            <zone points="602,1226 650,1226 650,1254 602,1254" rendition="Line" xml:id="facs_3_line_1620735824933_330" subtype="Strophenzahl"/>
+            <zone points="210,1241 279,1241 279,1305 210,1305" rendition="Line" xml:id="facs_3_line_1620735831603_333"/>
+            <zone points="279,1249 669,1249 669,1280 279,1280" rendition="Line" xml:id="facs_3_line_1620735840258_336"/>
+            <zone points="275,1280 669,1280 669,1303 275,1303" rendition="Line" xml:id="facs_3_line_1620735843163_339"/>
+            <zone points="223,1301 668,1301 668,1329 223,1329" rendition="Line" xml:id="facs_3_line_1620735848381_342"/>
+            <zone points="228,1329 668,1329 668,1356 228,1356" rendition="Line" xml:id="facs_3_line_1620735852567_345"/>
+            <zone points="228,1356 669,1356 669,1389 228,1389" rendition="Line" xml:id="facs_3_line_1620735855817_348"/>
+            <zone points="226,1390 668,1390 668,1415 226,1415" rendition="Line" xml:id="facs_3_line_1620735866064_351"/>
+            <zone points="226,1415 367,1415 367,1444 226,1444" rendition="Line" xml:id="facs_3_line_1620735870376_354"/>
+         </zone>
+         <zone points="703,148 1162,148 1162,1463 703,1463" rendition="TextRegion" xml:id="facs_3_region_1620735501774_175" subtype="Spalte">
+            <zone points="1040,148 1074,148 1074,163 1040,163" rendition="Line" xml:id="facs_3_line_1620736447507_491" subtype="Strophenzahl"/>
+            <zone points="702,155 737,155 737,236 702,236" rendition="Line" xml:id="facs_3_line_1620736454614_494"/>
+            <zone points="738,164 1150,164 1150,203 738,203" rendition="Line" xml:id="facs_3_line_1620736464220_497"/>
+            <zone points="738,203 1150,203 1150,227 738,227" rendition="Line" xml:id="facs_3_line_1620736470687_500"/>
+            <zone points="728,230 1148,230 1148,257 728,257" rendition="Line" xml:id="facs_3_line_1620736474655_503"/>
+            <zone points="725,255 1160,255 1160,288 725,288" rendition="Line" xml:id="facs_3_line_1620736479810_506"/>
+            <zone points="712,288 1160,288 1160,312 712,312" rendition="Line" xml:id="facs_3_line_1620736488933_509"/>
+            <zone points="712,312 1161,312 1161,340 712,340" rendition="Line" xml:id="facs_3_line_1620736493588_512"/>
+            <zone points="713,334 797,334 797,359 713,359" rendition="Line" xml:id="facs_3_line_1620736498150_515"/>
+            <zone points="1036,342 1076,342 1076,366 1036,366" rendition="Line" xml:id="facs_3_line_1620736502696_518" subtype="Strophenzahl"/>
+            <zone points="702,356 736,356 736,423 702,423" rendition="Line" xml:id="facs_3_line_1620736506663_521"/>
+            <zone points="737,357 1147,357 1147,393 737,393" rendition="Line" xml:id="facs_3_line_1620736513865_524"/>
+            <zone points="733,393 1146,393 1146,427 733,427" rendition="Line" xml:id="facs_3_line_1620736549357_534"/>
+            <zone points="724,418 1144,418 1144,449 724,449" rendition="Line" xml:id="facs_3_line_1620736559635_537"/>
+            <zone points="723,447 1142,447 1142,475 723,475" rendition="Line" xml:id="facs_3_line_1620736564619_540"/>
+            <zone points="725,477 1140,477 1140,506 725,506" rendition="Line" xml:id="facs_3_line_1620736571039_543"/>
+            <zone points="716,497 1142,497 1142,528 716,528" rendition="Line" xml:id="facs_3_line_1620736577678_546"/>
+            <zone points="1131,531 1160,531 1160,557 1131,557" rendition="Line" xml:id="facs_3_line_1620736591003_555" subtype="Strophenzahl"/>
+            <zone points="700,525 729,525 729,591 700,591" rendition="Line" xml:id="facs_3_line_1620736585785_549"/>
+            <zone points="733,528 1131,528 1131,557 733,557" rendition="Line" xml:id="facs_3_line_1620736588972_552"/>
+            <zone points="729,554 1159,554 1159,585 729,585" rendition="Line" xml:id="facs_3_line_1620736595580_558"/>
+            <zone points="725,584 1157,584 1157,615 725,615" rendition="Line" xml:id="facs_3_line_1620736598642_561"/>
+            <zone points="723,612 1154,612 1154,641 723,641" rendition="Line" xml:id="facs_3_line_1620736603453_564"/>
+            <zone points="720,638 1153,638 1153,672 720,672" rendition="Line" xml:id="facs_3_line_1620736607609_567"/>
+            <zone points="721,665 1114,665 1114,697 721,697" rendition="Line" xml:id="facs_3_line_1620736612076_570"/>
+            <zone points="683,714 714,714 714,746 683,746" rendition="Line" xml:id="facs_3_line_1620736630135_581" subtype="Metatext"/>
+            <zone points="1123,683 1160,683 1160,708 1123,708" rendition="Line" xml:id="facs_3_line_1620736614701_573" subtype="Strophenzahl"/>
+            <zone points="718,698 772,698 772,748 718,748" rendition="Line" xml:id="facs_3_line_1620736636852_584"/>
+            <zone points="774,699 1122,699 1122,725 774,725" rendition="Line" xml:id="facs_3_line_1620736643053_587"/>
+            <zone points="771,720 1125,720 1125,750 771,750" rendition="Line" xml:id="facs_3_line_1620736646849_590"/>
+            <zone points="719,748 1129,748 1129,781 719,781" rendition="Line" xml:id="facs_3_line_1620736651926_593"/>
+            <zone points="722,781 1129,781 1129,801 722,801" rendition="Line" xml:id="facs_3_line_1620736654441_596"/>
+            <zone points="722,798 1135,798 1135,837 722,837" rendition="Line" xml:id="facs_3_line_1620736660096_599"/>
+            <zone points="722,830 1128,830 1128,863 722,863" rendition="Line" xml:id="facs_3_line_1620736678201_605"/>
+            <zone points="720,859 1112,859 1112,892 720,892" rendition="Line" xml:id="facs_3_line_1620736682607_608"/>
+            <zone points="1120,872 1143,872 1143,890 1120,890" rendition="Line" xml:id="facs_3_line_1620736685231_611" subtype="Strophenzahl"/>
+            <zone points="708,887 767,887 767,944 708,944" rendition="Line" xml:id="facs_3_line_1620736691901_614"/>
+            <zone points="767,889 1141,889 1141,923 767,923" rendition="Line" xml:id="facs_3_line_1620736696541_617"/>
+            <zone points="764,923 1141,923 1141,947 764,947" rendition="Line" xml:id="facs_3_line_1620736699197_620"/>
+            <zone points="717,944 1140,944 1140,979 717,979" rendition="Line" xml:id="facs_3_line_1620736702586_623"/>
+            <zone points="719,979 1140,979 1140,1007 719,1007" rendition="Line" xml:id="facs_3_line_1620736705945_626"/>
+            <zone points="719,1007 1140,1007 1140,1035 719,1035" rendition="Line" xml:id="facs_3_line_1620736709085_629"/>
+            <zone points="719,1035 1140,1035 1140,1063 719,1063" rendition="Line" xml:id="facs_3_line_1620736712287_632"/>
+            <zone points="719,1063 1141,1063 1141,1092 719,1092" rendition="Line" xml:id="facs_3_line_1620736716036_635"/>
+            <zone points="717,1086 861,1086 861,1117 717,1117" rendition="Line" xml:id="facs_3_line_1620736726425_638"/>
+            <zone points="1071,1095 1114,1095 1114,1119 1071,1119" rendition="Line" xml:id="facs_3_line_1620736729392_641" subtype="Strophenzahl"/>
+            <zone points="703,1114 774,1114 774,1174 703,1174" rendition="Line" xml:id="facs_3_line_1620736735407_644"/>
+            <zone points="774,1118 1155,1118 1155,1146 774,1146" rendition="Line" xml:id="facs_3_line_1620736740656_647"/>
+            <zone points="771,1146 1155,1146 1155,1175 771,1175" rendition="Line" xml:id="facs_3_line_1620736743389_650"/>
+            <zone points="713,1173 1151,1173 1151,1203 713,1203" rendition="Line" xml:id="facs_3_line_1620736748357_653"/>
+            <zone points="714,1203 1151,1203 1151,1233 714,1233" rendition="Line" xml:id="facs_3_line_1620736752965_656"/>
+            <zone points="714,1233 1147,1233 1147,1267 714,1267" rendition="Line" xml:id="facs_3_line_1620736756136_659"/>
+            <zone points="714,1267 1147,1267 1147,1289 714,1289" rendition="Line" xml:id="facs_3_line_1620736760245_662"/>
+            <zone points="714,1289 1148,1289 1148,1320 714,1320" rendition="Line" xml:id="facs_3_line_1620736764056_665"/>
+            <zone points="714,1320 1148,1320 1148,1348 714,1348" rendition="Line" xml:id="facs_3_line_1620736767962_668"/>
+            <zone points="717,1350 1143,1350 1143,1374 717,1374" rendition="Line" xml:id="facs_3_line_1651489265515_1032" subtype="Leerzeile"/>
+            <zone points="715,1374 1143,1374 1143,1397 715,1397" rendition="Line" xml:id="facs_3_line_1651489267883_1035" subtype="Leerzeile"/>
+            <zone points="715,1397 1139,1397 1139,1427 715,1427" rendition="Line" xml:id="facs_3_line_1651489270563_1038" subtype="Leerzeile"/>
+            <zone points="719,1429 1139,1429 1139,1456 719,1456" rendition="Line" xml:id="facs_3_line_1651489274907_1041" subtype="Leerzeile"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_region_1646037593771_101" type="">
+               <lb facs="#facs_1_line_1646037602357_110" n="N001"/>‧ Eſchelbach
+            </ab>
+            <ab facs="#facs_1_region_1646037595960_104" type="">
+               <lb facs="#facs_1_line_1646037604878_113" n="N001"/>Her ‧ wolfran von Eſchılbach ‧
+            </ab>
+            <ab facs="#facs_1_region_1646037597448_107" type="">
+               <lb facs="#facs_1_line_1646037607115_116" n="N001"/>‧ xlıııı ‧
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_region_1620711303835_18" type="Metatext">
+               <lb facs="#facs_2_line_1620711373548_32" n="N001"/><Autornennung>Vō Eſchelbach</Autornennung>
+            </ab>
+            <ab facs="#facs_2_region_1620711278484_12" type="Spalte">
+               <lb facs="#facs_2_line_1620735385223_160" n="N001"/><Strophenzahl><Strophennummerierung>1</Strophennummerierung><Strophennummerierung/></Strophenzahl><Strophennummerierung/>
+               <lb facs="#facs_2_line_1620711383500_35" n="N002"/><Initiale><Liedbeginn><Strophenbeginn><Versbeginn/></Strophenbeginn>E</Liedbeginn></Initiale>¬
+               <lb facs="#facs_2_line_1620735385223_161" n="N003"/>Jn wıb mag wol erlǒben mîr ·
+               <lb facs="#facs_2_line_1620711395212_41" n="N004"/><Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch ır neme mıt tr<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>w<Nasalstrich Aufloesung="en">ē</Nasalstrich> war ·
+               <lb facs="#facs_2_line_1620711398916_44" n="N005"/><Versbeginn/>ıch ger mır wart ǒch níe dıv 
+               <lb facs="#facs_2_line_1620711405891_47" n="N006"/>gır · <r-Abbreviatur Aufloesung="ver"><Versbeginn/>v̾</r-Abbreviatur>habet mín ǒge ſwíng<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_2_line_1620711416211_50" n="N007"/>dar · <Versbeginn/>wıe bın ıch ſvs von <BESPRECHEN Notiz="LDM\u003a\u0020Konjektur\u003a\u0020iulenslaht\u0020\u003b\u0020Apparat\u003a\u0020iuwelnslaht">wͤulen</BESPRECHEN> ſlaht · <Versbeginn/>ſı ſıht uwelen
+               <lb facs="#facs_2_line_1620735354121_154" n="N008"/>mín <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>ze <Nasalstrich Aufloesung="in">ī</Nasalstrich> vınſter naht ·
+               <lb facs="#facs_2_line_1620735354121_153" n="N009"/><Strophennummerierung>2</Strophennummerierung>
+               <lb facs="#facs_2_line_1620711441571_61" n="N010"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>S</Lombarde>¬
+               <lb facs="#facs_2_line_1620711446964_64" n="N011"/>í treıt d<Nasalstrich Aufloesung="en">ē</Nasalstrich> helflıch<Nasalstrich Aufloesung="en">ē</Nasalstrich> grv̊s · <r-Abbreviatur Aufloesung="der"><Versbeginn/>d̾</r-Abbreviatur> mích an froͤı<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1620711452348_67" n="N012"/>den rıch<Nasalstrich Aufloesung="en">ē</Nasalstrich> mag · <Versbeginn/>dar vf ıch ıe<r-Abbreviatur Aufloesung="mer">m̾</r-Abbreviatur> dıenen
+               <lb facs="#facs_2_line_1620711459563_70" n="N013"/> mv̊s · <Versbeginn/>vıl lıhte erſchınet noch der tag · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> m<Nasalstrich Aufloesung="an">ā</Nasalstrich>
+               <lb facs="#facs_2_line_1620711462859_73" n="N014"/> mır mv̊s froͤıd<Nasalstrich Aufloesung="en">ē</Nasalstrich> ıeh<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>noch groſſer wun<r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur>
+               <lb facs="#facs_2_line_1620735337312_147" n="N015"/> ıſt geſchehen ·
+               <lb facs="#facs_2_line_1620735337312_146" n="N016"/> <Strophennummerierung>3</Strophennummerierung>
+               <lb facs="#facs_2_line_1620711475619_79" n="N017"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>n</Lombarde>¬
+               <lb facs="#facs_2_line_1620711500403_82" n="N018"/>v ſeht w<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> eın ſtoꝛche ſet<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſchade · <Versbeginn/>noh 
+               <lb facs="#facs_2_line_1620711505107_85" n="N019"/>m<Nasalstrich Aufloesung="in">ī</Nasalstrich>re ſchad<Nasalstrich Aufloesung="en">ē</Nasalstrich> hab<Nasalstrich Aufloesung="en">ē</Nasalstrich>t mın d<iu-Monophthongierung Aufloesung="iv">v</iu-Monophthongierung> wıb · <Versbeginn/>ır has 
+               <lb facs="#facs_2_line_1620711510515_88" n="N020"/>ıch vngerne vf mıch lade · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> nv d<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſchulde
+               <lb facs="#facs_2_line_1620711520804_91" n="N021"/>haft<Nasalstrich Aufloesung="en">ē</Nasalstrich> lıb · <Versbeginn/>geg<Nasalstrich Aufloesung="en">ē</Nasalstrich> mır treıt d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> laze ıch ſın · <Versbeginn/>ıch 
+               <lb facs="#facs_2_line_1620735320722_140" n="N022"/>wıl nv pfleg<Nasalstrich Aufloesung="en">ē</Nasalstrich> <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> zuhte mín ·
+               <lb facs="#facs_2_line_1620735320722_139" n="N023"/><Strophennummerierung>4</Strophennummerierung>
+               <lb facs="#facs_2_line_1620711528475_97" n="N024"/><Liedbeginn><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>D</Lombarde></Liedbeginn>¬
+               <lb facs="#facs_2_line_1620711535491_100" n="N025"/>er held<Nasalstrich Aufloesung="en">ē</Nasalstrich> m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne ır klage · <Versbeginn/>dv ſvnge ıe 
+               <lb facs="#facs_2_line_1620711539620_103" n="N026"/>geg<Nasalstrich Aufloesung="en">ē</Nasalstrich> dem tage · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ſvre nach d<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſvͤſſ<Nasalstrich Aufloesung="en">ē</Nasalstrich> ·
+               <lb facs="#facs_2_line_1620711544668_106" n="N027"/><Versbeginn/>ſwer m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> wıblıch gruͤzen · <Versbeginn/>alſo enpfı<Nasalstrich Aufloesung="en">ē</Nasalstrich>c 
+               <lb facs="#facs_2_line_1620711549508_109" n="N028"/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ſı ſıch mv̊zent ſcheıden · <Versbeginn/>ſw<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> dv do rıete 
+               <lb facs="#facs_2_line_1620711557404_112" n="N029"/>ín beıd<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>do vf gıe <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> moꝛg<Nasalstrich Aufloesung="en">ē</Nasalstrich> <r-Abbreviatur Aufloesung="ster">ſt̾</r-Abbreviatur>ne · <Versbeginn/>wahtere  
+               <lb facs="#facs_2_line_1620735096916_134" n="N030"/>ſwıg da v<Nasalstrich Aufloesung="on">ō</Nasalstrich> nıht ſıng gerne ·
+               <lb facs="#facs_2_line_1620735096916_133" n="N031"/><Strophennummerierung>5</Strophennummerierung>
+               <lb facs="#facs_2_line_1620711568019_118" n="N032"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>S</Lombarde>¬
+               <lb facs="#facs_2_line_1620711572067_121" n="N033"/>wer pflıget oder ıe gepflag · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> er bı 
+               <lb facs="#facs_2_line_1620711578043_124" n="N034"/>lıeben wıbe lag · <Versbeginn/>d<Nasalstrich Aufloesung="en">ē</Nasalstrich> merkern vn<r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>boꝛg<Nasalstrich Aufloesung="en">ē</Nasalstrich> ·
+               <lb facs="#facs_2_line_1620711583155_127" n="N035"/><r-Abbreviatur Aufloesung="der"><Versbeginn/>d̾</r-Abbreviatur> darf níht dvrh d<Nasalstrich Aufloesung="en">ē</Nasalstrich> moꝛg<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>d<Nasalstrich Aufloesung="an">ā</Nasalstrich>nen ſtreb<Nasalstrich Aufloesung="en">ē</Nasalstrich> · 
+               <lb facs="#facs_2_line_1620711588684_130" n="N036"/><Versbeginn/>er mag deſ tages erbeıt<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>m<Nasalstrich Aufloesung="an">ā</Nasalstrich> darf ın níh<hi style="vertical-align: superscript;">t 
+               <lb facs="#facs_2_line_1620711592387_133" n="N037"/></hi>vs leıt<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>vf ſın leb<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>eın offen<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> ſvͤz<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> wır<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1620735059221_126" n="N038"/>tes wıb kan ſolhe m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne geb<Nasalstrich Aufloesung="en">ē</Nasalstrich> ·
+               <lb facs="#facs_2_line_1620735059221_125" n="N039"/><Strophennummerierung>6</Strophennummerierung>
+               <lb facs="#facs_2_line_1620711601716_139" n="N040"/><Liedbeginn><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>U</Lombarde></Liedbeginn>¬
+               <lb facs="#facs_2_line_1620711606500_142" n="N041"/><Nasalstrich Aufloesung="on">ō</Nasalstrich> der zínn<Nasalstrich Aufloesung="en">ē</Nasalstrich> wıl ıch g<Nasalstrich Aufloesung="en">ē</Nasalstrich> eín tage wıſe ·
+               <lb facs="#facs_2_line_1620711612243_145" n="N042"/><Versbeginn/>ſang <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>bern · <Versbeginn/>dıe ſıch m<Nasalstrich Aufloesung="in">ī</Nasalstrich>n<Nasalstrich Aufloesung="en">ē</Nasalstrich> tǒgenlı<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1620711628931_153" n="N043"/>che <und-Abbreviatur Aufloesung="und">vn̄</und-Abbreviatur> ob ſı pꝛıſe · <Versbeginn/>ır m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne wern · <Versbeginn/>ſo ged<Nasalstrich Aufloesung="en">ē</Nasalstrich><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1620711634075_156" n="N044"/>ke ſere · <Versbeginn/>an ſíne lere · <Versbeginn/>d<Nasalstrich Aufloesung="en">ē</Nasalstrich> lıb <und-Abbreviatur Aufloesung="und">vn̄</und-Abbreviatur> ere · <Versbeginn/>ergeb<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_2_line_1620711637748_159" n="N045"/>ſín · <r-Abbreviatur Aufloesung="der"><Versbeginn/>d̾</r-Abbreviatur> mıch des bete · <Versbeginn/>deſwar ıch tete · <Versbeginn/>ıme 
+               <lb facs="#facs_2_line_1620711641372_162" n="N046"/>gv̊te rete <und-Abbreviatur Aufloesung="unde"><Versbeginn/>vn̄</und-Abbreviatur> helfe ſch<Nasalstrich Aufloesung="in">ī</Nasalstrich> · <Versbeginn/>rıtter wache 
+               <lb facs="#facs_2_line_1620735025511_117" n="N047"/>hvͤte dın ·
+               <lb facs="#facs_2_line_1620735025511_116" n="N048"/><Strophennummerierung>7</Strophennummerierung>
+               <lb facs="#facs_2_line_1620711649019_168" n="N049"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>n</Lombarde>¬
+               <lb facs="#facs_2_line_1620711657819_171" n="N050"/>ıht <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>krenk<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>wıl ıch aller wah<r-Abbreviatur Aufloesung="ter">t̾</r-Abbreviatur> tr<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1620711663043_174" n="N051"/>we · <Versbeginn/>an <r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>den man · <Versbeginn/>nıht gedenk<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſolt 
+               <lb facs="#facs_2_line_1620711667227_177" n="N052"/>dv vꝛowe an ſcheıd<Nasalstrich Aufloesung="en">ē</Nasalstrich>s r<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>we · <Versbeginn/>vf kvnfte w<Nasalstrich Aufloesung="an">ā</Nasalstrich> ·
+               <lb facs="#facs_2_line_1620711670364_180" n="N053"/><Versbeginn/>es w<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıe wege · <Versbeginn/>ſwer m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne pflege · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> vf 
+               <lb facs="#facs_2_line_1620711674396_183" n="N054"/>ım lege · <Versbeginn/>meldes laſt · <Versbeginn/>eín ſv<r-Abbreviatur Aufloesung="mer">m̾</r-Abbreviatur> bꝛínget ·
+               <lb facs="#facs_2_line_1620711677948_186" n="N055"/><Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> m<Nasalstrich Aufloesung="in">ī</Nasalstrich> mvnt ſínget · <Versbeginn/>dvrh wok<Nasalstrich Aufloesung="en">ē</Nasalstrich> dꝛ<Nasalstrich Aufloesung="in">ī</Nasalstrich>get
+               <lb facs="#facs_2_line_1620711681651_189" n="N056"/><Versbeginn/>tag<Nasalstrich Aufloesung="en">ē</Nasalstrich><r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> glaſt · <Versbeginn/>hvͤte dín wache ſvͤzer gaſt · 
+               <lb facs="#facs_2_line_1620734997142_108" n="N057"/><Strophennummerierung>8</Strophennummerierung>
+               <lb facs="#facs_2_line_1620711692004_192" n="N058"/><Liedbeginn><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>E</Lombarde></Liedbeginn>¬
+               <lb facs="#facs_2_line_1620734997142_109" n="N059"/>r mv̊ſ v<Nasalstrich Aufloesung="on">ō</Nasalstrich> dann<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <r-Abbreviatur Aufloesung="der"><Versbeginn/>d̾</r-Abbreviatur> ſı klag<Nasalstrich Aufloesung="en">ē</Nasalstrich>de vn<r-Abbreviatur Aufloesung="ger">g̾</r-Abbreviatur>ne
+               <lb facs="#facs_2_line_1620711700747_198" n="N060"/>hoꝛte · <Versbeginn/>do ſpꝛach ſın mvnt · <Versbeginn/>all<Nasalstrich Aufloesung="en">ē</Nasalstrich> m<Nasalstrich Aufloesung="an">ā</Nasalstrich>n<Nasalstrich Aufloesung="en">ē</Nasalstrich> · 
+               <lb facs="#facs_2_line_1620711703563_201" n="N061"/><Versbeginn/>nıe ſo gar zerſtoꝛte · <Versbeginn/>froͤıden fvnt · <Versbeginn/>ſwıe   
+               <lb facs="#facs_2_line_1620712443996_370" n="N062"/>balde es tagte · <r-Abbreviatur Aufloesung="der"><Versbeginn/>d̾</r-Abbreviatur> vn<r-Abbreviatur Aufloesung="uer">u̾</r-Abbreviatur>zagte · <Versbeginn/>an ır beıagte ·
+            </ab>
+            <ab facs="#facs_2_region_1620711288715_15" type="Spalte">
+               <lb facs="#facs_2_line_1620712587428_376" n="N001"/><Versbeginn/>das ſoꝛge ín floch · <Versbeginn/>vn<r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>meldeſ ruk<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>gar 
+               <lb facs="#facs_2_line_1620712592580_379" n="N002"/>heínlıch ſmvk<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ır bꝛvſtel dꝛvken · <und-Abbreviatur Aufloesung="unde"><Versbeginn/>vn̄</und-Abbreviatur> me 
+               <lb facs="#facs_2_line_1620712915306_554" n="N003"/>d<Nasalstrich Aufloesung="an">ā</Nasalstrich>noch · <Versbeginn/>vrlub gab des pꝛıs was hoh ·
+               <lb facs="#facs_2_line_1620712625796_396" n="N004"/><Nota>NOTA</Nota>
+               <lb facs="#facs_2_line_1620712915306_553" n="N005"/><Strophennummerierung>9</Strophennummerierung>
+               <lb facs="#facs_2_line_1620712600597_385" n="N006"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>V</Lombarde>¬
+               <lb facs="#facs_2_line_1620712606653_388" n="N007"/>rſpꝛíng blům<Nasalstrich Aufloesung="en">ē</Nasalstrich> lǒb vs dꝛíng<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <und-Abbreviatur Aufloesung="unde"><Versbeginn/>vn̄</und-Abbreviatur> der 
+               <lb facs="#facs_2_line_1620712635628_399" n="N008"/>luſt des meıg<Nasalstrich Aufloesung="en">ē</Nasalstrich> vrboꝛt vogel ır alt<Nasalstrich Aufloesung="en">ē</Nasalstrich> don ·
+               <lb facs="#facs_2_line_1620712639932_402" n="N009"/><Versbeginn/>etteſw<Nasalstrich Aufloesung="en">ē</Nasalstrich>ne ıch kan n<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>wes ſıng<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſo <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> rıfe 
+               <lb facs="#facs_2_line_1620712643476_405" n="N010"/>lıget gv̊t wıb noch alles an dın lon · <Versbeginn/>dıe 
+               <lb facs="#facs_2_line_1620712646637_408" n="N011"/>walt ſınger <und-Abbreviatur Aufloesung="und">vn̄</und-Abbreviatur> ır ſanc · <Versbeginn/>nach halb<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſv<r-Abbreviatur Aufloesung="mer">m̾</r-Abbreviatur>s 
+               <lb facs="#facs_2_line_1620713149694_584" n="N012"/>teıle <Nasalstrich Aufloesung="in">ī</Nasalstrich> nıemannes oꝛe eın klanc ·
+               <lb facs="#facs_2_line_1620713149694_583" n="N013"/><Strophennummerierung>10</Strophennummerierung>
+               <lb facs="#facs_2_line_1620712658709_414" n="N014"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>D</Lombarde>¬
+               <lb facs="#facs_2_line_1620712663412_417" n="N015"/>er blıclıch<Nasalstrich Aufloesung="en">ē</Nasalstrich> blv̊m<Nasalstrich Aufloesung="en">ē</Nasalstrich> gleſt<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſo des tǒweſ 
+               <lb facs="#facs_2_line_1620712669284_420" n="N016"/>anehang · <Versbeginn/>erl<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>ternt ſwa ſı ſínt · <Versbeginn/>vo<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1620712674764_423" n="N017"/>gel dıe helle <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> dıe beſten · <Versbeginn/>al des meıg<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_2_line_1620712680165_426" n="N018"/>zıt · <Versbeginn/>ſı weget mıt geſange ır kínt · <Versbeginn/>do ſlıef 
+               <lb facs="#facs_2_line_1620712684660_429" n="N019"/>nıht d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> nahtegal · <Versbeginn/>nv wache a<r-Abbreviatur Aufloesung="ber">b̾</r-Abbreviatur> ıch <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> 
+               <lb facs="#facs_2_line_1620734931316_100" n="N020"/>ſínge vf <r-Abbreviatur Aufloesung="ber">b̾</r-Abbreviatur>ge <und-Abbreviatur Aufloesung="und">vn̄</und-Abbreviatur> ın d<Nasalstrich Aufloesung="em">ē</Nasalstrich> tal ·
+               <lb facs="#facs_2_line_1620734931316_99" n="N021"/><Strophennummerierung>11</Strophennummerierung>
+               <lb facs="#facs_2_line_1620712693645_435" n="N022"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>M</Lombarde>¬
+               <lb facs="#facs_2_line_1620712699180_438" n="N023"/>ín ſang wıl genade ſv̊ch<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>an dıch gvͤt¬
+               <lb facs="#facs_2_line_1620712702909_441" n="N024"/>lıch wıb nv hılf ſıt helfe ıſt woꝛd<Nasalstrich Aufloesung="en">ē</Nasalstrich> not ·
+               <lb facs="#facs_2_line_1620712708197_444" n="N025"/><Versbeginn/>mín lon dıenſtes ſol gerůch<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch ıemer 
+               <lb facs="#facs_2_line_1620712711861_447" n="N026"/>bıtte <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> b<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>te vnz an mın<Nasalstrich Aufloesung="en">ē</Nasalstrich> tot · <Versbeginn/>laze míh 
+               <lb facs="#facs_2_line_1620712715796_450" n="N027"/>v<Nasalstrich Aufloesung="on">ō</Nasalstrich> dır nem<Nasalstrich Aufloesung="en">ē</Nasalstrich> d<Nasalstrich Aufloesung="en">ē</Nasalstrich> troſt · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch vſ mın<Nasalstrich Aufloesung="en">ē</Nasalstrich> l<Nasalstrich Aufloesung="an">ā</Nasalstrich><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1620734910664_93" n="N028"/>g<Nasalstrich Aufloesung="en">ē</Nasalstrich> klag<Nasalstrich Aufloesung="en">ē</Nasalstrich> <r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>de erloſt ·
+               <lb facs="#facs_2_line_1620734910664_92" n="N029"/><Strophennummerierung>12</Strophennummerierung>
+               <lb facs="#facs_2_line_1620712726477_456" n="N030"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>G</Lombarde>¬
+               <lb facs="#facs_2_line_1620712732564_459" n="N031"/>v̊t wıb mag m<Nasalstrich Aufloesung="in">ī</Nasalstrich> dıenſt ervínd<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ob d<Nasalstrich Aufloesung="in">ī</Nasalstrich> 
+               <lb facs="#facs_2_line_1620712737501_462" n="N032"/>helflıch gebot mıch froͤıd<Nasalstrich Aufloesung="en">ē</Nasalstrich> welle <r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>n ·
+               <lb facs="#facs_2_line_1620712742708_465" n="N033"/><Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> mın trur<Nasalstrich Aufloesung="en">ē</Nasalstrich> mvͤſſe ſwínd<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <und-Abbreviatur Aufloesung="und"><Versbeginn/>vn̄</und-Abbreviatur> eın lıebes 
+               <lb facs="#facs_2_line_1620712746997_468" n="N034"/>ende an dır beıag<Nasalstrich Aufloesung="en">ē</Nasalstrich> · mın langeſ gern · <Versbeginn/>dín 
+               <lb facs="#facs_2_line_1620712752069_471" n="N035"/>gvͤtlıch gelaz mích twang · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch dır beı<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1620734887373_86" n="N036"/>de gv̊t ſınge al kurch oder wıltu lang ·
+               <lb facs="#facs_2_line_1620734887373_85" n="N037"/><Strophennummerierung>13</Strophennummerierung>
+               <lb facs="#facs_2_line_1620712757909_477" n="N038"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>W</Lombarde>¬
+               <lb facs="#facs_2_line_1620712761612_480" n="N039"/>erdeſ wıb dın ſvͤze gvͤte · <und-Abbreviatur Aufloesung="unde"><Versbeginn/>vn̄</und-Abbreviatur> dın m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1620712766261_483" n="N040"/>klıcher zoꝛn hat mır vıl froͤıde er<r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>t ·
+               <lb facs="#facs_2_line_1620712774493_486" n="N041"/><Versbeginn/>maht dv troͤſt<Nasalstrich Aufloesung="en">ē</Nasalstrich> m<Nasalstrich Aufloesung="in">ī</Nasalstrich> gemvͤte · <Versbeginn/>w<Nasalstrich Aufloesung="an">ā</Nasalstrich> eın helflı¬
+               <lb facs="#facs_2_line_1620712778469_489" n="N042"/>ches woꝛt v<Nasalstrich Aufloesung="on">ō</Nasalstrich> dır mıch ſanfte ernert · <Versbeginn/>mach 
+               <lb facs="#facs_2_line_1620712782308_492" n="N043"/>eín wendıg mır m<Nasalstrich Aufloesung="in">ī</Nasalstrich> klag<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſo d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch <r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>de 
+               <lb facs="#facs_2_line_1620734868112_79" n="N044"/>gros gemv̊t bı mín<Nasalstrich Aufloesung="en">ē</Nasalstrich> tag<Nasalstrich Aufloesung="en">ē</Nasalstrich> ·
+               <lb facs="#facs_2_line_1620712809020_509" n="N045"/><Nota>NOTA</Nota>
+               <lb facs="#facs_2_line_1620734868112_78" n="N046"/><Strophennummerierung>14</Strophennummerierung>
+               <lb facs="#facs_2_line_1620712792429_498" n="N047"/><Liedbeginn><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>E</Lombarde></Liedbeginn>¬
+               <lb facs="#facs_2_line_1620712797372_501" n="N048"/>s ıſt nv tag · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch <Korrektur Art="durchgestrichen"><hi style="text-decoration: line-through;">níht</hi></Korrektur> <Korrektur Art="Einschub"><hi style="vertical-align: superscript;">wol</hi></Korrektur> mag · <Versbeginn/>mıt 
+               <lb facs="#facs_2_line_1620712814757_512" n="N049"/>warheıt ıeh<Nasalstrich Aufloesung="en">ē</Nasalstrich> ıch wıl nıht lan<r-Abbreviatur Aufloesung="ger">g̾</r-Abbreviatur> ſín ·
+               <lb facs="#facs_2_line_1620712820532_515" n="N050"/><Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> vın<r-Abbreviatur Aufloesung="ster">ſt̾</r-Abbreviatur> naht · <Versbeginn/>hat vnſ nv bꝛaht · <Versbeginn/>zeleıde 
+               <lb facs="#facs_2_line_1620712824021_518" n="N051"/>mır d<Nasalstrich Aufloesung="en">ē</Nasalstrich> moꝛg<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſchín · <Versbeginn/>ſol er v<Nasalstrich Aufloesung="on">ō</Nasalstrich> mır ſcheıd<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_2_line_1620712828189_521" n="N052"/>nv̊ · <Versbeginn/>m<Nasalstrich Aufloesung="in">ī</Nasalstrich> fr<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>nt d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> ſoꝛge ıſt mır ze vꝛů · <Versbeginn/>ıch 
+               <lb facs="#facs_2_line_1620712831765_524" n="N053"/>weıs vıl wol d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıſt ǒch ıme d<Nasalstrich Aufloesung="en">ē</Nasalstrich> ıch <Nasalstrich Aufloesung="in">ī</Nasalstrich> mín<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_2_line_1620712835901_527" n="N054"/>ǒg<Nasalstrich Aufloesung="en">ē</Nasalstrich> <r-Abbreviatur Aufloesung="ger">g̾</r-Abbreviatur>ne burg<Nasalstrich Aufloesung="en">ē</Nasalstrich> moͤht ıch ín alſo behalt<Nasalstrich Aufloesung="en">ē</Nasalstrich>
+               <lb facs="#facs_2_line_1620712840093_530" n="N055"/>m<Nasalstrich Aufloesung="in">ī</Nasalstrich> kvm<r-Abbreviatur Aufloesung="ber">b̾</r-Abbreviatur> wıl ſıch bereıten · <Versbeginn/>owe deſ wıe 
+               <lb facs="#facs_2_line_1620712846453_533" n="N056"/>kvmt ers h<Nasalstrich Aufloesung="in">ī</Nasalstrich> <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> hohſte frıde mvͤze ın noh 
+               <lb facs="#facs_2_line_1620734832995_73" n="N057"/>an mín<Nasalstrich Aufloesung="en">ē</Nasalstrich> arn geleıt<Nasalstrich Aufloesung="en">ē</Nasalstrich> ·
+               <lb facs="#facs_2_line_1620734832995_72" n="N058"/><Strophennummerierung>15</Strophennummerierung>
+               <lb facs="#facs_2_line_1620712852757_539" n="N059"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>D</Lombarde>¬
+               <lb facs="#facs_2_line_1620712857229_542" n="N060"/>as gv̊te wıb · <Versbeginn/>ır fr<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>ndeſ lıb · <Versbeginn/>vaſte vm<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_2_line_1620712861909_545" n="N061"/>be vıe <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> w<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> entſlaff<Nasalstrich Aufloesung="en">ē</Nasalstrich> do · <Versbeginn/>do d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> geſchah ·
+               <lb facs="#facs_2_line_1620712866157_548" n="N062"/><Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> er er ſach · <Versbeginn/>d<Nasalstrich Aufloesung="en">ē</Nasalstrich> graw<Nasalstrich Aufloesung="en">ē</Nasalstrich> tag · <Versbeginn/>do mv̊ſt er ſín 
+            </ab>
+            <ab facs="#facs_2_region_1632900491769_162" type="Metatext">
+               <lb facs="#facs_2_line_1632900496142_165" n="N001"/><Seitennummerierung>150</Seitennummerierung>
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <ab facs="#facs_3_region_1620735496400_172" type="Spalte">
+               <lb facs="#facs_3_line_1620735540031_181" n="N001"/>vnfro · <Versbeginn/>an ſíne bꝛuſte er ſı dꝛuhte <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> ſpꝛah · 
+               <lb facs="#facs_3_line_1620735547029_184" n="N002"/><Versbeginn/>ıo erkande ıch níe keín trurıg ſcheıd<Nasalstrich Aufloesung="en">ē</Nasalstrich> alſo 
+               <lb facs="#facs_3_line_1620735554481_187" n="N003"/>ſnel · <und-Abbreviatur Aufloesung="und">vn̄</und-Abbreviatur> ıſt d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> naht v<Nasalstrich Aufloesung="on">ō</Nasalstrich> hínn<Nasalstrich Aufloesung="en">ē</Nasalstrich> alzebalde · <r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur> 
+               <lb facs="#facs_3_line_1620735558542_190" n="N004"/>hat ſı ſo kurz gemeſſen <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> tag wıl nıht er<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620735562166_193" n="N005"/>w<Nasalstrich Aufloesung="in">ī</Nasalstrich>den · <Versbeginn/>hat m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne an ſeld<Nasalstrich Aufloesung="en">ē</Nasalstrich> teıl d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> helfe mír 
+               <lb facs="#facs_3_line_1620735577881_201" n="N006"/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch dıch noh mít froͤıd<Nasalstrich Aufloesung="en">ē</Nasalstrich> mvͤze vínd<Nasalstrich Aufloesung="en">ē</Nasalstrich> ·
+               <lb facs="#facs_3_line_1620735582943_204" n="N007"/><Strophennummerierung>16</Strophennummerierung>
+               <lb facs="#facs_3_line_1620735590628_207" n="N008"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>S</Lombarde>¬
+               <lb facs="#facs_3_line_1620735595752_210" n="N009"/>í beıde luſte <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> er kvſte · <Versbeginn/>ſı genv̊g gevlů<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620735600282_213" n="N010"/>chet wart d<Nasalstrich Aufloesung="en">ē</Nasalstrich> tage · <Versbeginn/>vrlob er n<Nasalstrich Aufloesung="am">ā</Nasalstrich> · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> da wol 
+               <lb facs="#facs_3_line_1620735604828_216" n="N011"/>zam · <Versbeginn/>nv <r-Abbreviatur Aufloesung="mer">m̾</r-Abbreviatur>ket wıe da ergıe e<Nasalstrich Aufloesung="in">ī</Nasalstrich> ſchímpf bı 
+               <lb facs="#facs_3_line_1620735609155_219" n="N012"/>klage · <Versbeginn/>ſı hat<Nasalstrich Aufloesung="en">ē</Nasalstrich> beıde ſıch beweg<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>es enwart 
+               <lb facs="#facs_3_line_1620735628260_222" n="N013"/>ſo nah<Nasalstrich Aufloesung="en">ē</Nasalstrich> nıen geleg<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>des noch d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne hat 
+               <lb facs="#facs_3_line_1620735632837_225" n="N014"/>d<Nasalstrich Aufloesung="en">ē</Nasalstrich> pꝛís · ob <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> ſvnn<Nasalstrich Aufloesung="en">ē</Nasalstrich> dꝛı mıt blıcke <r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>en ſíne 
+               <lb facs="#facs_3_line_1620735637024_228" n="N015"/>moͤhte zwıſch<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſı gel<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>ht<Nasalstrich Aufloesung="en">ē</Nasalstrich> er ſpꝛach nv 
+               <lb facs="#facs_3_line_1620735640773_231" n="N016"/>wıl ıch rıt<Nasalstrich Aufloesung="en">ē</Nasalstrich> <Versbeginn/>dın wıblıch gvͤte neme m<Nasalstrich Aufloesung="in">ī</Nasalstrich> war ·
+               <lb facs="#facs_3_line_1620735646053_234" n="N017"/><und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> ſı m<Nasalstrich Aufloesung="in">ī</Nasalstrich> ſchılt h<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>te hın <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> her noh zal<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620735651317_237" n="N018"/>len zıten ·
+               <lb facs="#facs_3_line_1620735655441_240" n="N019"/><Strophennummerierung>17</Strophennummerierung>
+               <lb facs="#facs_3_line_1620735660924_243" n="N020"/><Lombarde Farbe="rot" Hoehe="3"><Strophenbeginn><Versbeginn/></Strophenbeginn>I</Lombarde>¬
+               <lb facs="#facs_3_line_1620735667188_246" n="N021"/>r ǒg<Nasalstrich Aufloesung="en">ē</Nasalstrich> nas · <Versbeginn/>do wurd<Nasalstrich Aufloesung="en">ē</Nasalstrich> bas · <Versbeginn/>ǒch twang <Nasalstrich Aufloesung="in">ī</Nasalstrich> cla<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620735670500_249" n="N022"/>ge er mv̊ſte v<Nasalstrich Aufloesung="on">ō</Nasalstrich> ır · <Versbeginn/>ſı ſpꝛach hın zıme · <Versbeginn/>vrlob 
+               <lb facs="#facs_3_line_1620735675561_252" n="N023"/>ıch níme · <Versbeginn/>ze d<Nasalstrich Aufloesung="en">ē</Nasalstrich> froͤıd<Nasalstrich Aufloesung="en">ē</Nasalstrich> m<Nasalstrich Aufloesung="in">ī</Nasalstrich> · d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> wıl gar von 
+               <lb facs="#facs_3_line_1620735684591_255" n="N024"/>mır · <Versbeginn/>ſıt ıch mv̊s <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>mıd<Nasalstrich Aufloesung="en">ē</Nasalstrich> dın<Nasalstrich Aufloesung="en">ē</Nasalstrich> mvnt <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> m<Nasalstrich Aufloesung="an">ā</Nasalstrich>ı<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620735692792_258" n="N025"/>g<Nasalstrich Aufloesung="en">ē</Nasalstrich> grůs mír bot · <und-Abbreviatur Aufloesung="und">vn̄</und-Abbreviatur> ǒch dın kvs alſe ín 
+               <lb facs="#facs_3_line_1620735695838_261" n="N026"/>dın vzerwelte gvͤte lerte <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> dın geſelle · d<Nasalstrich Aufloesung="in">ī</Nasalstrich> 
+               <lb facs="#facs_3_line_1620735701259_264" n="N027"/>tr<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>we ſı ſpꝛach weme wıltv mıh laz<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>nv 
+               <lb facs="#facs_3_line_1620735705929_267" n="N028"/>kvm ſchıere wı<r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> vf reht<Nasalstrich Aufloesung="en">ē</Nasalstrich> troſt · owe dur 
+               <lb facs="#facs_3_line_1620735713615_270" n="N029"/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> mag ıch ſtrenge ſoꝛge nıht gelaſſ<Nasalstrich Aufloesung="en">ē</Nasalstrich> ·
+               <lb facs="#facs_3_line_1620736134300_416" n="N030"/><Nota>NOTA</Nota>
+               <lb facs="#facs_3_line_1620735716911_273" n="N031"/><Strophennummerierung>18</Strophennummerierung>
+               <lb facs="#facs_3_line_1620735721270_276" n="N032"/><Liedbeginn><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>G</Lombarde></Liedbeginn>¬
+               <lb facs="#facs_3_line_1620735727612_279" n="N033"/>v̊t wıb ıch bıtte dıch m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne · <Versbeginn/>e<Nasalstrich Aufloesung="in">ī</Nasalstrich> teıl dvr 
+               <lb facs="#facs_3_line_1620735732767_282" n="N034"/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ſıt ıch dır níht gebıet<Nasalstrich Aufloesung="en">ē</Nasalstrich> mag · <Versbeginn/>dv 
+               <lb facs="#facs_3_line_1620735738594_285" n="N035"/>gıb mír dıe gew<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch bas ân dır 
+               <lb facs="#facs_3_line_1620735748045_288" n="N036"/>gelebe noh lıeb<Nasalstrich Aufloesung="en">ē</Nasalstrich> tag · <Versbeginn/>ſnel <BESPRECHEN Notiz="a\u0020über\u0020u\u003b\u0020LDM\u0020sieht\u0020e\u0020über\u0020u">fuͣr</BESPRECHEN> mıch wıl<r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> 
+               <lb facs="#facs_3_line_1620735750935_291" n="N037"/>d<Nasalstrich Aufloesung="an">ā</Nasalstrich>ne eín tıer · <Versbeginn/>mag mır dín helfe entw<Nasalstrich Aufloesung="en">ē</Nasalstrich><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620735756215_294" n="N038"/>k<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>wılt an tr<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>we gedenk<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſelıg wıb ſo 
+               <lb facs="#facs_3_line_1620735779975_300" n="N039"/>gıſt eın lıebes ende mír ·
+               <lb facs="#facs_3_line_1620735782771_303" n="N040"/><Strophennummerierung>19</Strophennummerierung>
+               <lb facs="#facs_3_line_1620735786754_306" n="N041"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>D</Lombarde>¬
+               <lb facs="#facs_3_line_1620735791816_309" n="N042"/>v treıſt ſo veſtes <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>ze · <Versbeginn/>vf m<Nasalstrich Aufloesung="in">ī</Nasalstrich> <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>luſt · wı<hi style="vertical-align: superscript;">e 
+               <lb facs="#facs_3_line_1620735796877_312" n="N043"/></hi>ſol <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> ſıtte an dır zerg<Nasalstrich Aufloesung="an">ā</Nasalstrich> · <Versbeginn/>eím mvzer 
+               <lb facs="#facs_3_line_1620735801595_315" n="N044"/>valke eím terzen · <Versbeginn/>d<Nasalstrich Aufloesung="en">ē</Nasalstrich> mach bꝛuſt · níht b<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> 
+               <lb facs="#facs_3_line_1620735804922_318" n="N045"/>d<Nasalstrich Aufloesung="an">ā</Nasalstrich>ne dır d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> díne ſtan · <Versbeginn/>d<Nasalstrich Aufloesung="in">ī</Nasalstrich> m<Nasalstrich Aufloesung="vn">v̄</Nasalstrich>t ıſt vf den 
+               <lb facs="#facs_3_line_1620735808562_321" n="N046"/>kvs geſtalt · <Versbeginn/>d<Nasalstrich Aufloesung="in">ī</Nasalstrich> lachelıcheſ gruͤzen · <Versbeginn/>mag 
+               <lb facs="#facs_3_line_1620735813483_324" n="N047"/>mır wol geſvͤſſen · <Versbeginn/>ſvre not ſvs hat dín 
+               <lb facs="#facs_3_line_1620735821418_327" n="N048"/>m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne m<Nasalstrich Aufloesung="in">ī</Nasalstrich> gewalt ·
+               <lb facs="#facs_3_line_1620735824933_330" n="N049"/><Strophennummerierung>20</Strophennummerierung>
+               <lb facs="#facs_3_line_1620735831603_333" n="N050"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>M</Lombarde>¬
+               <lb facs="#facs_3_line_1620735840258_336" n="N051"/>oͤht ıch dıe ſelde reıch<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> ſo hoh · ob 
+               <lb facs="#facs_3_line_1620735843163_339" n="N052"/>mı<r-Abbreviatur Aufloesung="ner">n̾</r-Abbreviatur> froͤıde ſtet gezılt · <Versbeginn/>got mv̊s ır <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>ze 
+               <lb facs="#facs_3_line_1620735848381_342" n="N053"/>erweıch<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſıt es noh · <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> mıner ſ<r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>e níht 
+               <lb facs="#facs_3_line_1620735852567_345" n="N054"/>bevılt · <Versbeginn/>m<Nasalstrich Aufloesung="an">ā</Nasalstrich> ſıht mıch al zeſelt<Nasalstrich Aufloesung="en">ē</Nasalstrich> geıl · <Versbeginn/>eín 
+               <lb facs="#facs_3_line_1620735855817_348" n="N055"/>vlınſ v<Nasalstrich Aufloesung="on">ō</Nasalstrich> donr<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſtral<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>moͤht ıch zall<Nasalstrich Aufloesung="en">ē</Nasalstrich> ma<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620735866064_351" n="N056"/>len · <Versbeginn/>han erbett<Nasalstrich Aufloesung="en">ē</Nasalstrich> · das ım der <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>te entwı<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620735870376_354" n="N057"/>che eín teıl · 
+            </ab>
+            <ab facs="#facs_3_region_1620735501774_175" type="Spalte">
+               <lb facs="#facs_3_line_1620736447507_491" n="N001"/><Strophennummerierung>21</Strophennummerierung>
+               <lb facs="#facs_3_line_1620736454614_494" n="N002"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>I</Lombarde>¬
+               <lb facs="#facs_3_line_1620736464220_497" n="N003"/>r wengel wol geſtellet · <Versbeginn/>ſínt gevar · <Versbeginn/>alſ<Nasalstrich Aufloesung="am">ā</Nasalstrich> 
+               <lb facs="#facs_3_line_1620736470687_500" n="N004"/>eın tǒwıg roſe rot · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> ſchoͤne mır wol ge<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736474655_503" n="N005"/>vellet · <Versbeginn/>ſıst valſcheſ bar · <Versbeginn/>ır ǒg<Nasalstrich Aufloesung="en">ē</Nasalstrich> bꝛıng<Nasalstrich Aufloesung="en">ē</Nasalstrich>t 
+               <lb facs="#facs_3_line_1620736479810_506" n="N006"/>mıch <Nasalstrich Aufloesung="in">ī</Nasalstrich> not · <Versbeginn/>ſı dꝛíngent ín mınſ <Schreibfehler Aufloesung="herzegrund"><r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>z<Nasalstrich Aufloesung="en">ē</Nasalstrich> <Korrektur Art="durchgestrichen">·</Korrektur> gr<Nasalstrich Aufloesung="un">ū</Nasalstrich>t</Schreibfehler> ·
+               <lb facs="#facs_3_line_1620736488933_509" n="N007"/><Versbeginn/>ſo enzvndet mıch ır m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıch v<Nasalstrich Aufloesung="on">ō</Nasalstrich> ır lıe<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736493588_512" n="N008"/>be enbꝛ<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne · <Versbeginn/>an <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> ſtat bın ıch v<Nasalstrich Aufloesung="on">ō</Nasalstrich> der ſvͤz<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_3_line_1620736498150_515" n="N009"/>w<Nasalstrich Aufloesung="un">ū</Nasalstrich>t ·
+               <lb facs="#facs_3_line_1620736502696_518" n="N010"/><Strophennummerierung>22</Strophennummerierung>
+               <lb facs="#facs_3_line_1620736506663_521" n="N011"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>I</Lombarde>¬
+               <lb facs="#facs_3_line_1620736513865_524" n="N012"/>r ſchoͤne froͤıde machet · <Versbeginn/>durl<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung>htıg rot · <Versbeginn/>ıſt 
+               <lb facs="#facs_3_line_1620736549357_534" n="N013"/>ır mvnt als eín rubın · <Versbeginn/>ſw<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſı v<Nasalstrich Aufloesung="on">ō</Nasalstrich> <r-Abbreviatur Aufloesung="her">h̾</r-Abbreviatur>zen la<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736559635_537" n="N014"/>chet <Versbeginn/>deſ ſoꝛge ıſt tot · <Versbeginn/>ſıſt m<Nasalstrich Aufloesung="in">ī</Nasalstrich> ſpılnder ǒg<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_3_line_1620736564619_540" n="N015"/>ſchín · <Versbeginn/>ır froͤmde krenket d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> herze m<Nasalstrich Aufloesung="in">ī</Nasalstrich> · <Versbeginn/>ıch 
+               <lb facs="#facs_3_line_1620736571039_543" n="N016"/>ſtırbe mır <r-Abbreviatur Aufloesung="wer">w̾</r-Abbreviatur>de ır m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne · <Versbeginn/>venus d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> goͤtt<Nasalstrich Aufloesung="in">ī</Nasalstrich><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736577678_546" n="N017"/>ne · <Versbeginn/>lebt ſı noh ſı mvͤſte bı ır <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>blıch<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſín ·
+               <lb facs="#facs_3_line_1620736591003_555" n="N018"/><Strophennummerierung>23</Strophennummerierung>
+               <lb facs="#facs_3_line_1620736585785_549" n="N019"/><Lombarde Farbe="blau" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>I</Lombarde>¬
+               <lb facs="#facs_3_line_1620736588972_552" n="N020"/>ch wıl des mın<Nasalstrich Aufloesung="en">ē</Nasalstrich> ǒg<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſag<Nasalstrich Aufloesung="en">ē</Nasalstrich> dank · <Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ſı ſı
+               <lb facs="#facs_3_line_1620736595580_558" n="N021"/>vımd<Nasalstrich Aufloesung="en">ē</Nasalstrich> alſo gv̊t · <Versbeginn/>dıe ıch da m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne tǒg<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ſvn<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736598642_561" n="N022"/>der wank · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> hat gehoͤhet mır d<Nasalstrich Aufloesung="en">ē</Nasalstrich> mv̊t ·
+               <lb facs="#facs_3_line_1620736603453_564" n="N023"/><Versbeginn/>d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ſchaffet mır ır roter mvnt · <Versbeginn/>ır m<Nasalstrich Aufloesung="in">ī</Nasalstrich>ne<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736607609_567" n="N024"/>klıcheſ lach<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Korrektur Art="mit\u0020Punkten\u0020markiert"><Versbeginn/>ḷ</Korrektur><Korrektur Art="Einschub">k</Korrektur><Nasalstrich Aufloesung="an">ā</Nasalstrich> mır wol gemach<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>hoh<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_3_line_1620736612076_570" n="N025"/>mv̊t da v<Nasalstrich Aufloesung="on">ō</Nasalstrich> mır wırt eín froͤıde kvnt ·
+               <lb facs="#facs_3_line_1620736630135_581" n="N026"/><Nota>NOTA</Nota>
+               <lb facs="#facs_3_line_1620736614701_573" n="N027"/><Strophennummerierung>24</Strophennummerierung>
+               <lb facs="#facs_3_line_1620736636852_584" n="N028"/><Liedbeginn><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>M</Lombarde></Liedbeginn>¬
+               <lb facs="#facs_3_line_1620736643053_587" n="N029"/>anı<r-Abbreviatur Aufloesung="ger">g̾</r-Abbreviatur> klaget dıe ſchon<Nasalstrich Aufloesung="en">ē</Nasalstrich> zıt · <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> dıe 
+               <lb facs="#facs_3_line_1620736646849_590" n="N030"/>lıeht<Nasalstrich Aufloesung="en">ē</Nasalstrich> tage · <Versbeginn/>ſo klage ıch d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> mır eın 
+               <lb facs="#facs_3_line_1620736651926_593" n="N031"/>wıb ge<Korrektur Art="Überschreibung">t</Korrektur>v̊t · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> mır leıt zv̊ ſoꝛg<Nasalstrich Aufloesung="en">ē</Nasalstrich> gıt owe · 
+               <lb facs="#facs_3_line_1620736654441_596" n="N032"/>dırre klage · <Versbeginn/>w<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ıſt mír fur ſendes trvren 
+               <lb facs="#facs_3_line_1620736660096_599" n="N033"/>gv̊t · <Versbeginn/>aller vogel ſíng<Nasalstrich Aufloesung="en">ē</Nasalstrich> aller blv̊m<Nasalstrich Aufloesung="en">ē</Nasalstrich> ſchín ·
+               <lb facs="#facs_3_line_1620736678201_605" n="N034"/><Versbeginn/>ell<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> wıb <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> wıbes kínt · <Versbeginn/>ſw<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> der lebende 
+               <lb facs="#facs_3_line_1620736682607_608" n="N035"/>ſínt <Versbeginn/>troͤſt<Nasalstrich Aufloesung="en">ē</Nasalstrich>t mıch nıht w<Nasalstrich Aufloesung="an">ā</Nasalstrich> ſo d<az-Abbreviatur Aufloesung="az">c</az-Abbreviatur> ſol ſın ·
+               <lb facs="#facs_3_line_1620736685231_611" n="N036"/><Strophennummerierung>25</Strophennummerierung>
+               <lb facs="#facs_3_line_1620736691901_614" n="N037"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>M</Lombarde>¬
+               <lb facs="#facs_3_line_1620736696541_617" n="N038"/>ıch hat leıt ın trur<Nasalstrich Aufloesung="en">ē</Nasalstrich> bꝛaht · <und-Abbreviatur Aufloesung="und"><Versbeginn/>vn̄</und-Abbreviatur> eın ſ<Nasalstrich Aufloesung="en">ē</Nasalstrich><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736699197_620" n="N039"/>de klage · <Versbeginn/>d<iu-Monophthongierung Aufloesung="iu">u</iu-Monophthongierung> mıch nıht w<Nasalstrich Aufloesung="an">ā</Nasalstrich> trur<Nasalstrich Aufloesung="en">ē</Nasalstrich> ler<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_3_line_1620736702586_623" n="N040"/>wıl · <Versbeginn/>mır hat lones vngedaht · <r-Abbreviatur Aufloesung="der"><Versbeginn/>d̾</r-Abbreviatur> ıch <Korrektur Art="durchgestrichen"><hi style="text-decoration: line-through;">han</hi></Korrektur> 
+               <lb facs="#facs_3_line_1620736705945_626" n="N041"/><Korrektur Art="durchgestrichen"><hi style="text-decoration: line-through;">g</hi></Korrektur> míne tage · <Versbeginn/>habe gedıenet vs <r-Abbreviatur Aufloesung="der">d̾</r-Abbreviatur> maſſe 
+               <lb facs="#facs_3_line_1620736709085_629" n="N042"/>zıl · <Versbeginn/>wer ſol mır nv lon<Nasalstrich Aufloesung="en">ē</Nasalstrich> <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> gelıt ſı tot ·
+               <lb facs="#facs_3_line_1620736712287_632" n="N043"/><Versbeginn/>geſchıht des nıht <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> ſtırbe aber ıch · <Versbeginn/>fro<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736716036_635" n="N044"/>we mın nv ſpꝛıch · <Versbeginn/>vf wen erbe ıch d<Nasalstrich Aufloesung="an">ā</Nasalstrich><Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736726425_638" n="N045"/>ne dıſe not ·
+               <lb facs="#facs_3_line_1620736729392_641" n="N046"/><Strophennummerierung>26</Strophennummerierung>
+               <lb facs="#facs_3_line_1620736735407_644" n="N047"/><Lombarde Farbe="rot" Hoehe="2"><Strophenbeginn><Versbeginn/></Strophenbeginn>h</Lombarde>¬
+               <lb facs="#facs_3_line_1620736740656_647" n="N048"/>ılf hılf gv̊t wıb la beſeh<Nasalstrich Aufloesung="en">ē</Nasalstrich> · <Versbeginn/>ob dv 
+               <lb facs="#facs_3_line_1620736743389_650" n="N049"/>bꝛech<Nasalstrich Aufloesung="en">ē</Nasalstrich> maht · <Versbeginn/>ſoꝛg<Nasalstrich Aufloesung="en">ē</Nasalstrich> bant mín froͤı<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736748357_653" n="N050"/>de hınket dꝛan · <Versbeginn/>mır mag lıeb v<Nasalstrich Aufloesung="on">ō</Nasalstrich> dır be¬
+               <lb facs="#facs_3_line_1620736752965_656" n="N051"/>ſcheh<Nasalstrich Aufloesung="en">ē</Nasalstrich> <Versbeginn/>dar zv̊ haſt dvs bꝛaht · <Versbeginn/>dıne guͤ<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736756136_659" n="N052"/>te bıtte ıch <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> man · <Versbeginn/>m<Nasalstrich Aufloesung="an">ā</Nasalstrich>lıch dıenſt wıb<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736760245_662" n="N053"/>lıch lon gelıch ıe wag · <Versbeginn/>w<Nasalstrich Aufloesung="an">ā</Nasalstrich> an dır vıl ſe<Worttrennung>=</Worttrennung>¬
+               <lb facs="#facs_3_line_1620736764056_665" n="N054"/>lıg wıb · <Versbeginn/>k<Nasalstrich Aufloesung="um">ū</Nasalstrich><r-Abbreviatur Aufloesung="ber">b̾</r-Abbreviatur> treıt mın lıp · <Versbeginn/>dıe <r-Abbreviatur Aufloesung="ver">v̾</r-Abbreviatur>n<Nasalstrich Aufloesung="an">ā</Nasalstrich>t<Nasalstrich Aufloesung="en">ē</Nasalstrich> 
+               <lb facs="#facs_3_line_1620736767962_668" n="N055"/>zıt naht <und-Abbreviatur Aufloesung="unde">vn̄</und-Abbreviatur> tag · 
+               <lb facs="#facs_3_line_1651489265515_1032" n="N056"/>
+               <lb facs="#facs_3_line_1651489267883_1035" n="N057"/>
+               <lb facs="#facs_3_line_1651489270563_1038" n="N058"/>
+               <lb facs="#facs_3_line_1651489274907_1041" n="N059"/>
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>

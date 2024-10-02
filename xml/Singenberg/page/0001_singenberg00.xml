@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T10:35:11.123+01:00</Created>
+        <LastChange>2023-06-26T14:38:36.782+02:00</LastChange>
+        <TranskribusMetadata docId="863338" pageId="35412548" pageNr="1" tsid="127720152" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=NHFTHPPEOBYDJXUNANKIXXKA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RIBTPAKZJMDQNLZITTVTCNYS" imageId="28490891">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="LAge"/>
+            <Property key="Seitennummerierung" value="151"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="Von Singenberg Truchseze ze sant Gallen"/>
+            <Property key="Lage" value="14"/>
+            <Property key="Corpusnummerierung" value="xlv; 45"/>
+            <Property key="Lagenposition" value="3"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_singenberg00.jpg" imageWidth="1243" imageHeight="1878">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537367389" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646040925159_1012"/>
+                <RegionRefIndexed index="1" regionRef="region_1646040927427_1015"/>
+                <RegionRefIndexed index="2" regionRef="region_1646040928999_1018"/>
+                <RegionRefIndexed index="3" regionRef="region_1646040930656_1021"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646040925159_1012" custom="readingOrder {index:0;}">
+            <Coords points="492,52 609,52 609,2 492,2"/>
+            <TextLine id="line_1646040934780_1024" custom="readingOrder {index:0;} Nasalstrich {offset:6; length:2;Aufloesung:en;} r-Abbreviatur {offset:8; length:2;Aufloesung:ber;}">
+                <Coords points="498,43 600,43 600,10 498,10"/>
+                <TextEquiv>
+                    <Unicode>‧ Síngēb̾g</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ Síngēb̾g</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646040927427_1015" custom="readingOrder {index:1;}">
+            <Coords points="260,80 833,80 833,147 260,147"/>
+            <TextLine id="line_1646040937871_1027" custom="readingOrder {index:0;} r-Abbreviatur {offset:10; length:2;Aufloesung:ber;}">
+                <Coords points="266,89 827,89 827,139 266,139"/>
+                <TextEquiv>
+                    <Unicode>von Sıngenb̾g Truchſéze ze ſant Gallen ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von Sıngenb̾g Truchſéze ze ſant Gallen ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646040928999_1018" custom="readingOrder {index:2;}">
+            <Coords points="908,84 1015,84 1015,125 908,125"/>
+            <TextLine id="line_1646040940053_1030" custom="readingOrder {index:0;}">
+                <Coords points="918,91 1004,91 1004,115 918,115"/>
+                <TextEquiv>
+                    <Unicode>‧ xlv ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ xlv ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646040930656_1021" custom="readingOrder {index:3;}">
+            <Coords points="1117,24 1177,24 1177,88 1117,88"/>
+            <TextLine id="line_1646040942080_1033" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1131,38 1169,38 1169,77 1131,77"/>
+                <TextEquiv>
+                    <Unicode>151</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>151</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

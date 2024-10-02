@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-02-28T09:55:44.985+01:00</Created>
+        <LastChange>2022-03-14T12:21:39.931+01:00</LastChange>
+        <TranskribusMetadata docId="774133" pageId="35404245" pageNr="1" tsid="78353099" status="IN_PROGRESS" userId="68671" imgUrl="https://files.transkribus.eu/Get?id=IPTCIWVYRKYFZPCBLYEUAAED&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XOMBBMTMXYOKKDWAFIKOTDFV" imageId="28484834">
+            <Property key="mdSetName" value="Manesse-Page_Metadata"/>
+            <Property key="Bildseite" value="ja"/>
+            <Property key="Seitennummerierung" value="305"/>
+            <Property key="Linierung" value="nein"/>
+            <Property key="Autornennung" value="Der tuginthafte Schriber"/>
+            <Property key="Lage" value="28"/>
+            <Property key="Corpusnummerierung" value="lxxxvi; 86"/>
+            <Property key="Lagenposition" value="5"/>
+            <Property key="Bogenzugehoerigkeit"/>
+        </TranskribusMetadata>
+    </Metadata>
+    <Page imageFilename="0001_tugschreib00.jpg" imageWidth="1265" imageHeight="1890">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1725537343432" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1646038561563_398"/>
+                <RegionRefIndexed index="1" regionRef="region_1646038564169_401"/>
+                <RegionRefIndexed index="2" regionRef="region_1646038565488_404"/>
+                <RegionRefIndexed index="3" regionRef="region_1646038567091_407"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1646038561563_398" custom="readingOrder {index:0;}">
+            <Coords points="375,27 578,27 578,62 375,62"/>
+            <TextLine id="line_1646038571370_410" custom="readingOrder {index:0;} r-Abbreviatur {offset:0; length:2;Aufloesung:Der;} textStyle {offset:17; length:1;superscript:true;}">
+                <Coords points="381,30 573,30 573,61 381,61"/>
+                <TextEquiv>
+                    <Unicode>D̾ tvgenthaft Schıber ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>D̾ tvgenthaft Schıber ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038564169_401" custom="readingOrder {index:1;}">
+            <Coords points="370,69 758,69 758,132 370,132"/>
+            <TextLine id="line_1646038573591_413" custom="readingOrder {index:0;}">
+                <Coords points="375,73 751,73 751,129 375,129"/>
+                <TextEquiv>
+                    <Unicode>Der tugınthafte Schꝛıber ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der tugınthafte Schꝛıber ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038565488_404" custom="readingOrder {index:2;}">
+            <Coords points="867,57 998,57 998,107 867,107"/>
+            <TextLine id="line_1646038575263_416" custom="readingOrder {index:0;}">
+                <Coords points="883,64 986,64 986,100 883,100"/>
+                <TextEquiv>
+                    <Unicode>‧ Lxxxvı ‧</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>‧ Lxxxvı ‧</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1646038567091_407" custom="readingOrder {index:3;}">
+            <Coords points="1159,56 1217,56 1217,100 1159,100"/>
+            <TextLine id="line_1646038577067_419" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1164,64 1207,64 1207,89 1164,89"/>
+                <TextEquiv>
+                    <Unicode>305</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>305</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
