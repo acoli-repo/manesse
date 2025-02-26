@@ -11,11 +11,12 @@ The content will be released under an open (Creative Commons) license, but this 
 - **MANUSCRIPT AND TRANSCRIPTION**
 	- The data transcribed and annotated can be accessed via a designated [table of contents file](overview.md). Note that this is for illustration, only, in particular, it does not meet the quality standards required from a proper digital publication.
 - **FOR PHILOLOGICAL PURPOSES**
-	- [`html/`](html) **partial** transcription data, HTML export, for human consultation
+	- [`html/`](overview.md) **partial** transcription data, HTML export, for human consultation
 		- each page provides a scan of the page, followed by the transcription
 		- **warning**: does not contain annotations
 		- **warning**: for technical reasons, images were compressed
 		- uncompressed images can be found under [`xml/`](img)/*/*.jpg, e.g., under [`xml/Spervogel`](xml/Spervogel) for Spervogel, usw..
+		- **note**: If accessed directly, you will be shown HTML source code in `raw` mode, for proper rendering, please access these files via the [table of contents file](overview.md)
 - **FOR DH PURPOSES**
 	- [`tei/`](tei) **full** transcription data, Transcribus TEI/XML export
 		- **warning**: The Transkribus TEI export contains XML-valid image information, bounding boxes, transliteration and annotations -- but it does not provide TEI compliant data structures for project-specific annotations. The post-processing of these annotations is addressed in the next project phase.
@@ -56,6 +57,6 @@ To build everything in one go, run
   -  DOI: https://doi.org/10.11588/diglit.2222
   -  URN: urn:nbn:de:bsz:16-diglit-22223
   -  URL: https://digi.ub.uni-heidelberg.de/diglit/cpg848
-- Transliteration and annotation provided by Kathrin Bleuler (U Augsburg, then U Graz), Andreas Hammer (U Konstanz) and collaborators
-- Build script by @chiarcos
+- Transliteration and annotation provided by Kathrin Bleuler (U Augsburg, then U Graz), Andreas Hammer (U Konstanz) and collaborators in the D-A-CH-Projekt "Codex Manesse. Sammlungsaufbau und Kontextualisierung der Autorcorpora", funded by FWF (lead agency) and DFG (2021-2024)
+- This repository and the accompanying conversion scripts have been developed in preparation of the next project phase by Christian Chiarcos (U Augsburg)
 - For the TEI export, we rely on the original [Transkribus converter](https://github.com/dariok/page2tei) created by @tboenig, @peterstadler, @tillgrallert, partially supported by German BMBF, project ID 16TOA015A. Note that this is slightly dated, and failed to convert two sub-documents.
