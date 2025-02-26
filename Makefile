@@ -9,27 +9,31 @@ pandoc:
 		exit 1;\
 	fi;
 	
-html: pdf
+html: update_html
+
+update_html: pdf
 	@if [ ! -e html ]; then \
 		mkdir html;\
-		cd html;\
-		for file in `find ../pdf/ | grep 'pdf$$'`; do \
-			ln -s $$file .;\
-		done;\
-		cd ..;\
-		for file in html/*.pdf; do \
-			if [ -L $$file ]; then \
-				tgt=`echo $$file | sed s/'\.pdf$$'//`.html;\
-				if [ ! -e $$tgt ]; then \
-					src=$$(realpath html/`ls -l $$file | egrep '\->' | cut -f 2 -d '>' | sed s/'^\s*'//`);\
-					echo $$src '>' $$tgt;\
-					pdftohtml -hidden -nodrm -noframes -dataurls $$file > $$file.log;\
-					rm $$file $$file.log;\
-				fi;\
-			fi;\
-		done;\
 	fi;\
-
+	cd html;\
+	for file in `find ../pdf/ | grep 'pdf$$'`; do \
+		if [ ! -e `basename $$file` ]; then \
+			ln -s $$file .;\
+		fi;\
+	done;\
+	cd ..;\
+	for file in html/*.pdf; do \
+		if [ -L $$file ]; then \
+			tgt=`echo $$file | sed s/'\.pdf$$'//`.html;\
+			if [ ! -e $$tgt ]; then \
+				src=$$(realpath html/`ls -l $$file | egrep '\->' | cut -f 2 -d '>' | sed s/'^\s*'//`);\
+				echo $$src '>' $$tgt;\
+				pdftohtml -hidden -nodrm -noframes -dataurls $$file > $$file.log;\
+				rm $$file $$file.log;\
+			fi;\
+		fi;\
+	done;\
+	
 html_from_docx: pandoc
 	@if [ ! -e docx ]; then \
 		echo HTML export currently requires Transkribus docx export 1>&2; \
