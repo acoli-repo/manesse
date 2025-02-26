@@ -46,12 +46,15 @@ The content will be released under an open (Creative Commons) license, but this 
 - requirements
 	- Unix-style command-line with `bash`, `make` (tested under Ubuntu 22.04L)
 	- `pdftohtml`
-- deposit your PDF export in [`pdf/`](pdf)
-- run `make html`
+- deposit the Transkribus PDF export in [`pdf/`](pdf)
+- run `make html` (or `make update_html`)
 
 ## Acknowledgments
 
-- **Image sources tba**
-- Transliteration and annotation provided by @bleulean, **details tba**
+- Images generated from original scans published into Public Domain by the Universitätsbibliothek Heidelberg
+  -  DOI: https://doi.org/10.11588/diglit.2222
+  -  URN: urn:nbn:de:bsz:16-diglit-22223
+  -  URL: https://digi.ub.uni-heidelberg.de/diglit/cpg848
+- Transliteration and annotation provided by Kathrin Bleuler (U Augsburg, then U Graz), Andreas Hammer (U Konstanz) and collaborators
 - Build script by @chiarcos
-- For the TEI export, we rely on the original [Transkribus converter](https://github.com/dariok/page2tei) created by @tboenig, @peterstadler, @tillgrallert, partially supported by German BMBF, project ID 16TOA015A.
+- For the TEI export, we rely on the original [Transkribus converter](https://github.com/dariok/page2tei) created by @tboenig, @peterstadler, @tillgrallert, partially supported by German BMBF, project ID 16TOA015A. Note that this is slightly dated, and failed to convert two sub-documents.
