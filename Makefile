@@ -52,7 +52,7 @@ overview.md: metadata.jsonl update_tei update_html
 	echo;\
 	echo "> \* Die Dokumentenansicht ist vorläufig und dient nur der Veranschaulichung der Natur des Materials. Sie erfüllt weder die technischen noch philologischen Ansprüche an eine adäquate digitale Publikation.";\
 	echo;\
-	echo "> \*\* Die TEI/XML ist automatisch *und mit Transkribus-Bordmitteln* aus Transkribus heraus erzeugt, die Projektannotationen sind enthalten, werden allerdings nicht TEI-konform exportiert. Für einige wenige Dateien ist der Export mit Bordmitteln aufgrund von Fehlern der Transkribus-eigenen Konvertern gescheitert. Beides muss im Rahmen der nächsten Projektphase neu erarbeitet werden.";\
+	echo "> \*\* Die TEI/XML ist automatisch *und mit Transkribus-Bordmitteln* aus Transkribus heraus erzeugt, die Projektannotationen sind enthalten, werden allerdings nicht TEI-konform exportiert. Für einige wenige Dateien ist der Export mit Bordmitteln aufgrund von Fehlern der Transkribus-eigenen Konverter gescheitert. Beides muss im Rahmen der nächsten Projektphase neu erarbeitet werden.";\
 	) > overview.md
 	
 html_from_docx: pandoc
