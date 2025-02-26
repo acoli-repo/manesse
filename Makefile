@@ -1,3 +1,5 @@
+all: overview.md
+
 tei:
 	@if [ ! -e tei ]; then make update_tei; fi
 
@@ -10,6 +12,11 @@ pandoc:
 	fi;
 	
 html: update_html
+
+pdf:
+	if [ ! -e pdf ]; then \
+		echo "The current HTML export is generated from Transkribus PDF. For converting additional data, please deposit them under pdf/";\
+	fi;
 
 update_html: pdf
 	@if [ ! -e html ]; then \
@@ -33,6 +40,20 @@ update_html: pdf
 			fi;\
 		fi;\
 	done;\
+
+overview.md: metadata.jsonl update_tei update_html
+	(echo "# Teilkorpora "; \
+	echo;\
+	echo "| Autor | Dokumentenansicht (vorläufig)\* | TEI/XML (vorläufig)\*\* | Arbeitsgruppe | ";\
+	echo "| ----- | ------------------ | -------- | ------------- | ";\
+	cat metadata.jsonl \
+	| cut -f 4,8,12 -d '"' \
+	| sed s/'^\([^"]*\)"\([^"]*\)"\([^"]*\)'/'\| **\1** \| [html](https:\/\/html-preview.github.io\/?url=https:\/\/github.com\/acoli-repo\/manesse\/blob\/main\/html\/\2.html) \| [xml](tei\/\2.xml) \| \3 \|'/;\
+	echo;\
+	echo "> \* Die Dokumentenansicht ist vorläufig und dient nur der Veranschaulichung der Natur des Materials. Sie erfüllt weder die technischen noch philologischen Ansprüche an eine adäquate digitale Publikation.";\
+	echo;\
+	echo "> \*\* Die TEI/XML ist automatisch *und mit Transkribus-Bordmitteln* aus Transkribus heraus erzeugt, die Projektannotationen sind enthalten, werden allerdings nicht TEI-konform exportiert. Für einige wenige Dateien ist der Export mit Bordmitteln aufgrund von Fehlern der Transkribus-eigenen Konvertern gescheitert. Beides muss im Rahmen der nächsten Projektphase neu erarbeitet werden.";\
+	) > overview.md
 	
 html_from_docx: pandoc
 	@if [ ! -e docx ]; then \

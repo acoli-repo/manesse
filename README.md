@@ -27,7 +27,17 @@ The content will be released under an open (Creative Commons) license, but this 
 		- **note**: Transkribus TEI provides visual information first (under `/TEI/facsimile`), then followed by text and annotations (under `/TEI/text`), connected by XPointers. For manually inspecting the validity of annotations and transliteration, please **scroll down** to the first `<text>` element.
 	- [`xml/`](xml) **full** transcription data, Transkribus Page XML format ("Page XML"), also includes source images. (This is for subsequent processing/technically interested colleagues.)
 
-## How to (re)build  `tei/` from scratch (for developers)
+## Overview
+
+<!--@include:./overview.md-->
+
+## How to (re)build from scratch (for developers)
+
+To build everything in one go, run
+
+	$> make
+
+### How to (re)build  `tei/` from scratch 
 
 - requirements
 	- Unix-style command-line with `bash`, `make`, `wget`, `git` (tested under Ubuntu 22.04L)
@@ -41,7 +51,7 @@ The content will be released under an open (Creative Commons) license, but this 
 - if all goes well, find your output in [`tei/`](tei)
 - if not, check the logs ;)
 
-## How to (re)build `html/` from scratch (for developers)
+### How to (re)build `html/` from scratch (for developers)
 
 - requirements
 	- Unix-style command-line with `bash`, `make` (tested under Ubuntu 22.04L)
