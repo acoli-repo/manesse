@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-10-25T14:55:05.478+02:00</Created>
+        <LastChange>2023-11-22T13:30:12.689+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Winsbekin00.jpg" imageWidth="1232" imageHeight="1901">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740579994296" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1698238869374_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1698238870930_6"/>
+                <RegionRefIndexed index="2" regionRef="region_1698238872616_9"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1698238869374_3" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="293,47 601,47 601,110 293,110"/>
+            <TextLine id="line_1698238877586_12" custom="readingOrder {index:0;} Autornennung {offset:0; length:15;} iu-Monophthongierung {offset:1; length:2;Aufloesung:iu;}">
+                <Coords points="309,56 576,56 576,95 309,95"/>
+                <TextEquiv>
+                    <Unicode>Du wınſbekın ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Du wınſbekın ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1698238870930_6" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="679,49 845,49 845,100 679,100"/>
+            <TextLine id="line_1698238879611_15" custom="readingOrder {index:0;}">
+                <Coords points="708,50 806,50 806,87 708,87"/>
+                <TextEquiv>
+                    <Unicode>· Lxıııı ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· Lxıııı ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1698238872616_9" custom="readingOrder {index:2;} structure {type:Metatext;}">
+            <Coords points="1103,40 1174,40 1174,106 1103,106"/>
+            <TextLine id="line_1698238881778_18" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1112,53 1171,53 1171,95 1112,95"/>
+                <TextEquiv>
+                    <Unicode>217</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>217</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

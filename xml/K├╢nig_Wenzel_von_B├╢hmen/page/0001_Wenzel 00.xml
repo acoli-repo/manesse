@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-10-10T12:32:34.130+02:00</Created>
+        <LastChange>2023-01-10T12:56:28.485+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Wenzel 00.jpg" imageWidth="1164" imageHeight="1851">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580023334" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1665489859995_9"/>
+                <RegionRefIndexed index="1" regionRef="region_1665489854342_6"/>
+                <RegionRefIndexed index="2" regionRef="region_1665489848500_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1665489859995_9" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="1079,31 1145,31 1146,64 1080,64"/>
+            <TextLine id="line_1665489928745_23" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:2;}">
+                <Coords points="1094,38 1136,38 1136,58 1094,58"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>10</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1665489854342_6" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="532,41 608,40 609,90 533,91"/>
+            <TextLine id="line_1665489915030_19" custom="readingOrder {index:0;}">
+                <Coords points="538,48 598,48 598,79 538,79"/>
+                <TextEquiv>
+                    <Unicode>· ıııı ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· ıııı ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1665489848500_3" custom="readingOrder {index:2;} structure {type:Metatext;}">
+            <Coords points="118,32 467,32 466,98 117,98"/>
+            <TextLine id="line_1665489905747_16" custom="readingOrder {index:0;} Autornennung {offset:0; length:24;} iu-Monophthongierung {offset:1; length:1;Aufloesung:iv;}">
+                <Coords points="128,42 455,42 455,86 128,86"/>
+                <TextEquiv>
+                    <Unicode>kvnıg wenzel von beheín ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kvnıg wenzel von beheín ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

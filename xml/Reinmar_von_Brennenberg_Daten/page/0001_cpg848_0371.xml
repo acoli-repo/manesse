@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-06-16T10:33:38.775+02:00</Created>
+        <LastChange>2023-11-15T14:13:01.114+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_cpg848_0371.jpg" imageWidth="1225" imageHeight="1879">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580030826" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1686904515131_7"/>
+                <RegionRefIndexed index="1" regionRef="region_1686904518341_10"/>
+                <RegionRefIndexed index="2" regionRef="region_1686904567331_22"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1686904515131_7" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="649,126 243,126 243,36 649,36"/>
+            <TextLine id="line_1686904527792_13" custom="readingOrder {index:0;} structure {type:Metatext;} Autornennung {offset:0; length:28;} Nasalstrich {offset:13; length:2;Aufloesung:on;} r-Abbreviatur {offset:23; length:2;Aufloesung:er;}">
+                <Coords points="636,116 258,116 258,40 636,40"/>
+                <TextEquiv>
+                    <Unicode>Her Reınman vō Bꝛennenb̾g ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Her Reınman vō Bꝛennenb̾g ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1686904518341_10" custom="readingOrder {index:1;}">
+            <Coords points="838,117 734,117 734,50 838,50"/>
+            <TextLine id="line_1686904531091_16" custom="readingOrder {index:0;} structure {type:Metatext;}">
+                <Coords points="825,102 747,102 747,61 825,61"/>
+                <TextEquiv>
+                    <Unicode>· LVIII ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· LVIII ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1686904567331_22" custom="readingOrder {index:2;}">
+            <Coords points="1106,45 1179,45 1179,88 1106,88"/>
+            <TextLine id="line_1686904573822_25" custom="readingOrder {index:0;} structure {type:Metatext;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1114,48 1170,48 1170,87 1114,87"/>
+                <TextEquiv>
+                    <Unicode>188</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>188</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

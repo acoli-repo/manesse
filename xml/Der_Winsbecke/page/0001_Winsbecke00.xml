@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-06-07T16:24:29.216+02:00</Created>
+        <LastChange>2023-06-27T15:51:08.277+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Winsbecke00.jpg" imageWidth="1212" imageHeight="1899">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740579990225" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1686553966506_18"/>
+                <RegionRefIndexed index="1" regionRef="region_1686553968421_21"/>
+                <RegionRefIndexed index="2" regionRef="region_1686553970597_24"/>
+                <RegionRefIndexed index="3" regionRef="region_1686553972590_27"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1686553966506_18" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="385,34 632,34 632,89 385,89"/>
+            <TextLine id="line_1686553982993_30" custom="readingOrder {index:0;} Autornennung {offset:0; length:14;}">
+                <Coords points="395,39 612,39 612,83 395,83"/>
+                <TextEquiv>
+                    <Unicode>Der Wınſbeke ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Wınſbeke ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1686553968421_21" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="471,103 601,103 601,130 471,130"/>
+            <TextLine id="line_1686553985156_33" custom="readingOrder {index:0;} Autornennung {offset:0; length:8;}">
+                <Coords points="486,104 588,104 588,123 486,123"/>
+                <TextEquiv>
+                    <Unicode>Wínſbach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wínſbach</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1686553970597_24" custom="readingOrder {index:2;} structure {type:Metatext;}">
+            <Coords points="783,39 878,39 878,104 783,104"/>
+            <TextLine id="line_1686553987901_36" custom="readingOrder {index:0;}">
+                <Coords points="785,43 872,43 872,98 785,98"/>
+                <TextEquiv>
+                    <Unicode>· Lxııı ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· Lxııı ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1686553972590_27" custom="readingOrder {index:3;} structure {type:Metatext;}">
+            <Coords points="1102,59 1171,59 1171,94 1102,94"/>
+            <TextLine id="line_1686553990282_39" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1113,63 1163,63 1163,88 1113,88"/>
+                <TextEquiv>
+                    <Unicode>213</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>213</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-07-11T17:05:46.934+02:00</Created>
+        <LastChange>2023-01-10T12:51:56.209+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Scharpfenberg00.jpg" imageWidth="1258" imageHeight="1898">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580032691" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1663619852333_91"/>
+                <RegionRefIndexed index="1" regionRef="region_1663616513267_16"/>
+                <RegionRefIndexed index="2" regionRef="region_1663616502004_13"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1663619852333_91" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="1147,41 1193,41 1193,67 1147,67"/>
+            <TextLine id="line_1663619860093_94" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1152,46 1190,46 1190,62 1152,62"/>
+                <TextEquiv>
+                    <Unicode>204</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>204</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1663616513267_16" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="781,64 850,64 850,96 781,96"/>
+            <TextLine id="line_1663616640474_22" custom="readingOrder {index:0;}">
+                <Coords points="784,66 848,66 848,90 784,90"/>
+                <TextEquiv>
+                    <Unicode>· Lxı ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· Lxı ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1663616502004_13" custom="readingOrder {index:2;} structure {type:Metatext;}">
+            <Coords points="414,72 705,72 705,110 414,110"/>
+            <TextLine id="line_1663616633028_19" custom="readingOrder {index:0;} Autornennung {offset:0; length:17;}">
+                <Coords points="420,78 700,78 700,102 420,102"/>
+                <TextEquiv>
+                    <Unicode>von Scharpfenberg ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von Scharpfenberg ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

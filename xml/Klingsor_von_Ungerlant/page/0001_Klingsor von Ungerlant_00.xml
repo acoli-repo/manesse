@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-07-11T17:09:48.949+02:00</Created>
+        <LastChange>2024-10-18T13:34:54.683+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Klingsor von Ungerlant_00.jpg" imageWidth="1298" imageHeight="1919">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580014874" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1678620108281_5"/>
+                <RegionRefIndexed index="1" regionRef="region_1678620111357_8"/>
+                <RegionRefIndexed index="2" regionRef="region_1678620119423_11"/>
+                <RegionRefIndexed index="3" regionRef="region_1678620122915_14"/>
+                <RegionRefIndexed index="4" regionRef="region_1678620168979_37"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1678620108281_5" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="463,50 856,50 856,136 463,136"/>
+            <TextLine id="line_1678620293812_74" custom="readingOrder {index:0;} Autornennung {offset:0; length:23;} Nasalstrich {offset:11; length:2;Aufloesung:on;}">
+                <Coords points="468,51 843,51 843,123 468,123"/>
+                <TextEquiv>
+                    <Unicode>Klıngeſoꝛ vō Vngerlant ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Klıngeſoꝛ vō Vngerlant ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1678620111357_8" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="938,62 1019,62 1019,124 938,124"/>
+            <TextLine id="line_1678620325800_94" custom="readingOrder {index:0;}">
+                <Coords points="941,67 1014,67 1014,115 941,115"/>
+                <TextEquiv>
+                    <Unicode>· LXV ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· LXV ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1678620119423_11" custom="readingOrder {index:2;} structure {type:Metatext;}">
+            <Coords points="308,250 477,250 477,321 308,321"/>
+            <TextLine id="line_1678620250458_65" custom="readingOrder {index:0;} iu-Monophthongierung {offset:1; length:1;Aufloesung:iu;}">
+                <Coords points="308,253 462,253 462,284 308,284"/>
+                <TextEquiv>
+                    <Unicode>Du Lantgre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1678620253882_68" custom="readingOrder {index:1;} Nasalstrich {offset:5; length:2;Aufloesung:on;} iu-Monophthongierung {offset:9; length:1;Aufloesung:iu;} Nasalstrich {offset:15; length:2;Aufloesung:en;}">
+                <Coords points="471,314 309,314 309,287 471,287"/>
+                <TextEquiv>
+                    <Unicode>vın vō Durıngē ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Du Lantgre¬&#13;
+vın vō Durıngē ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1678620122915_14" custom="readingOrder {index:3;} structure {type:Metatext;}">
+            <Coords points="612,238 804,238 804,318 612,318"/>
+            <TextLine id="line_1678620309499_83" custom="readingOrder {index:0;} r-Abbreviatur {offset:10; length:2;Aufloesung:Her;} Nasalstrich {offset:13; length:2;Aufloesung:an;}">
+                <Coords points="613,243 797,243 797,272 613,272"/>
+                <TextEquiv>
+                    <Unicode>Lantgraue H̾mā </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1678620311805_86" custom="readingOrder {index:1;} iu-Monophthongierung {offset:5; length:2;Aufloesung:iu;}">
+                <Coords points="787,304 619,304 619,272 787,272"/>
+                <TextEquiv>
+                    <Unicode>von Durıngen ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Lantgraue H̾mā &#13;
+von Durıngen ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1678620168979_37" custom="readingOrder {index:4;} structure {type:Metatext;}">
+            <Coords points="316,801 1089,801 1089,883 316,883"/>
+            <TextLine id="line_1678620185697_40" custom="readingOrder {index:0;} Nasalstrich {offset:9; length:2;Aufloesung:en;} r-Abbreviatur {offset:25; length:2;Aufloesung:her;} r-Abbreviatur {offset:32; length:2;Aufloesung:her;} Nasalstrich {offset:36; length:2;Aufloesung:on;} r-Abbreviatur {offset:39; length:2;Aufloesung:der;} r-Abbreviatur {offset:55; length:2;Aufloesung:her;}">
+                <Coords points="322,804 1091,804 1091,829 322,829"/>
+                <TextEquiv>
+                    <Unicode>Hıe krıegēt mıt ſange · h̾ Walth̾ vō d̾ Vogılweıde · h̾ Wolfran von Eſchılbach ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1678620190561_43" custom="readingOrder {index:1;} r-Abbreviatur {offset:0; length:2;Aufloesung:Her;} Nasalstrich {offset:58; length:2;Aufloesung:on;} Nasalstrich {offset:70; length:2;Aufloesung:en;}">
+                <Coords points="319,830 950,830 950,848 319,848"/>
+                <TextEquiv>
+                    <Unicode>h̾ Reıman der Alte · der tugenthafte Schꝛıber · Heınrıch vō Oftertıngē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1678620194686_46" custom="readingOrder {index:2;} und-Abbreviatur {offset:0; length:3;Aufloesung:unde;}">
+                <Coords points="628,870 318,870 318,851 628,851"/>
+                <TextEquiv>
+                    <Unicode>vn̄ Klıngeſoꝛ von Vngerlant ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hıe krıegēt mıt ſange · h̾ Walth̾ vō d̾ Vogılweıde · h̾ Wolfran von Eſchılbach ·&#13;
+h̾ Reıman der Alte · der tugenthafte Schꝛıber · Heınrıch vō Oftertıngē&#13;
+vn̄ Klıngeſoꝛ von Vngerlant ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

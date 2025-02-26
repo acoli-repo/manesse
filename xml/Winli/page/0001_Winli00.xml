@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-02-14T11:18:19.181+01:00</Created>
+        <LastChange>2023-04-01T16:02:51.641+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Winli00.jpg" imageWidth="1271" imageHeight="1907">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580036340" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1676369979991_6"/>
+                <RegionRefIndexed index="1" regionRef="region_1677922735682_6"/>
+                <RegionRefIndexed index="2" regionRef="region_1676369983173_9"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1676369979991_6" custom="readingOrder {index:0;}">
+            <Coords points="352,38 468,40 464,94 352,93"/>
+            <TextLine id="line_1676369988005_12" custom="readingOrder {index:0;} Autornennung {offset:2; length:5;}">
+                <Coords points="355,45 463,51 463,87 355,81"/>
+                <TextEquiv>
+                    <Unicode>· Wınlı · </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· Wınlı · </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1677922735682_6" custom="readingOrder {index:1;}">
+            <Coords points="470,41 547,39 547,96 470,98"/>
+            <TextLine id="line_1677922742559_9" custom="readingOrder {index:0;}">
+                <Coords points="472,42 542,43 545,86 472,80"/>
+                <TextEquiv>
+                    <Unicode>· Lxvj ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· Lxvj ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1676369983173_9" custom="readingOrder {index:2;}">
+            <Coords points="1160,42 1223,42 1223,94 1160,94"/>
+            <TextLine id="line_1676369991343_15" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1171,51 1217,51 1217,84 1171,84"/>
+                <TextEquiv>
+                    <Unicode>231</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>231</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

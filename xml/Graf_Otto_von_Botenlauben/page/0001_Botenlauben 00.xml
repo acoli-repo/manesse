@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-10T20:58:37.676+01:00</Created>
+        <LastChange>2024-01-11T12:59:52.699+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Botenlauben 00.jpg" imageWidth="1220" imageHeight="1884">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740579998775" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1704916755619_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1704916760107_6"/>
+                <RegionRefIndexed index="2" regionRef="region_1704974270750_19"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1704916755619_3" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="306,59 694,59 694,133 306,133"/>
+            <TextLine id="line_1704916768864_9" custom="readingOrder {index:0;} Autornennung {offset:0; length:26;} Nasalstrich {offset:12; length:2;Aufloesung:on;}">
+                <Coords points="318,63 672,63 672,114 318,114"/>
+                <TextEquiv>
+                    <Unicode>Graue Otto vō Bottenloͮbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Graue Otto vō Bottenloͮbe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1704916760107_6" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="841,64 949,64 949,111 841,111"/>
+            <TextLine id="line_1704916774627_12" custom="readingOrder {index:0;}">
+                <Coords points="850,72 939,72 939,100 850,100"/>
+                <TextEquiv>
+                    <Unicode>· xıııı ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· xıııı ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1704974270750_19" custom="readingOrder {index:2;}">
+            <Coords points="1097,46 1130,46 1130,86 1097,86"/>
+            <TextLine id="line_1704974279216_22" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:2;}">
+                <Coords points="1101,50 1123,50 1123,81 1101,81"/>
+                <TextEquiv>
+                    <Unicode>27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>27</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-07-11T17:09:50.953+02:00</Created>
+        <LastChange>2024-09-26T09:44:02.957+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0011_Klingsor von Ungerlant_010.jpg" imageWidth="1288" imageHeight="1918">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580014980" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1711107668519_9"/>
+                <RegionRefIndexed index="1" regionRef="region_1711107675835_12"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1711107668519_9" custom="readingOrder {index:0;} structure {type:Spalte;}">
+            <Coords points="226,153 702,155 702,1486 226,1484"/>
+            <TextLine id="line_1711107703823_17" custom="readingOrder {index:0;} r-Abbreviatur {offset:13; length:2;Aufloesung:der;} Versbeginn {offset:13; length:0;} iu-Monophthongierung {offset:22; length:1;Aufloesung:iu;}">
+                <Coords points="268,174 693,174 693,205 268,205"/>
+                <TextEquiv>
+                    <Unicode>vıl ervarn · d̾ edel furſte hohgeboꝛn vs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107708734_20" custom="readingOrder {index:1;} Schreibfehler {offset:0; length:17;Aufloesung:menſchlıcher;} Versbeginn {offset:24; length:0;} textStyle {offset:40; length:1;superscript:true;}">
+                <Coords points="269,205 700,205 700,230 269,230"/>
+                <TextEquiv>
+                    <Unicode>menſchlıchelıcher art · vıer engel er mıt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107713361_23" custom="readingOrder {index:2;} Nasalstrich {offset:4; length:2;Aufloesung:en;} Versbeginn {offset:14; length:0;} und-Abbreviatur {offset:37; length:3;Aufloesung:unde;}">
+                <Coords points="268,231 697,231 697,259 268,259"/>
+                <TextEquiv>
+                    <Unicode>hoꝛnē vant · der eíne der zeíget ım vn̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107718343_26" custom="readingOrder {index:3;} Nasalstrich {offset:20; length:2;Aufloesung:en;} Versbeginn {offset:30; length:0;}">
+                <Coords points="267,255 696,255 696,289 267,289"/>
+                <TextEquiv>
+                    <Unicode>wıſte ın vf dıe rehtē vart · clınſoꝛe wılt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107731839_29" custom="readingOrder {index:4;} Nasalstrich {offset:27; length:2;Aufloesung:en;} Versbeginn {offset:30; length:0;} Worttrennung {offset:41; length:1;}">
+                <Coords points="267,290 687,290 687,318 267,318"/>
+                <TextEquiv>
+                    <Unicode>dvſ · mıt ſange wıder ſtrebē deſ mıch be=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107760239_32" custom="readingOrder {index:5;} Versbeginn {offset:7; length:0;} Versbeginn {offset:24; length:0;} az-Abbreviatur {offset:25; length:1;Aufloesung:az;}">
+                <Coords points="263,315 693,315 693,343 263,343"/>
+                <TextEquiv>
+                    <Unicode>vılt · dır wırt gegeben dc ıch ſwıge ſwa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107764015_35" custom="readingOrder {index:6;}">
+                <Coords points="261,340 454,340 454,368 261,368"/>
+                <TextEquiv>
+                    <Unicode>dv ſpꝛechen wılt ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107774695_41" custom="readingOrder {index:7;} structure {type:Strophenzahl;} Strophennummerierung {offset:0; length:2;}">
+                <Coords points="666,339 694,339 694,374 666,374"/>
+                <TextEquiv>
+                    <Unicode>69</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107767799_38" custom="readingOrder {index:8;} structure {type:Zwischentext;} Zwischentext {offset:0; length:7;Schreiber:NS;}">
+                <Coords points="458,343 598,343 598,371 458,371"/>
+                <TextEquiv>
+                    <Unicode>Wolfram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107780220_44" custom="readingOrder {index:9;} Lombarde {offset:0; length:1;Hoehe:2; Illuminator:J2; Farbe:rot; Schreiber:As;} Strophenbeginn {offset:0; length:0;} Versbeginn {offset:0; length:0;}">
+                <Coords points="243,368 310,368 310,423 243,423"/>
+                <TextEquiv>
+                    <Unicode>C¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107783656_47" custom="readingOrder {index:10;} Versbeginn {offset:29; length:0;}">
+                <Coords points="315,369 689,369 689,396 315,396"/>
+                <TextEquiv>
+                    <Unicode>lınſoꝛe ıſt dır ıht bekant · wıe man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107788029_50" custom="readingOrder {index:11;} r-Abbreviatur {offset:11; length:2;Aufloesung:ter;} Nasalstrich {offset:14; length:2;Aufloesung:en;} und-Abbreviatur {offset:26; length:3;Aufloesung:unde;} Versbeginn {offset:26; length:0;} Worttrennung {offset:41; length:1;}">
+                <Coords points="310,398 694,398 694,422 310,422"/>
+                <TextEquiv>
+                    <Unicode>dıe zwelf ſt̾nē nennet · Vn̄ den ſı hoͮp=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107792111_53" custom="readingOrder {index:12;} Versbeginn {offset:10; length:0;} r-Abbreviatur {offset:14; length:2;Aufloesung:wer;} Nasalstrich {offset:38; length:2;Aufloesung:on;}">
+                <Coords points="264,427 695,427 695,453 264,453"/>
+                <TextEquiv>
+                    <Unicode>tent an · dıe w̾dent dır vıl ſchıere vō mîr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107796550_56" custom="readingOrder {index:13;} Nasalstrich {offset:3; length:2;Aufloesung:an;} und-Abbreviatur {offset:9; length:3;Aufloesung:unde;} Versbeginn {offset:9; length:0;} Versbeginn {offset:32; length:0;}">
+                <Coords points="265,452 682,452 682,482 265,482"/>
+                <TextEquiv>
+                    <Unicode>genāt · vn̄ wıe der mane kan · erzeıgen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107802141_59" custom="readingOrder {index:14;} iu-Monophthongierung {offset:1; length:1;Aufloesung:iu;} Versbeginn {offset:20; length:0;}">
+                <Coords points="264,479 697,479 697,505 264,505"/>
+                <TextEquiv>
+                    <Unicode>kunfteklıche tat · des hımelrıcheſ froͤıde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107806974_62" custom="readingOrder {index:15;} und-Abbreviatur {offset:0; length:3;Aufloesung:unde;} r-Abbreviatur {offset:14; length:2;Aufloesung:her;} Versbeginn {offset:27; length:0;}">
+                <Coords points="262,504 694,504 694,535 262,535"/>
+                <TextEquiv>
+                    <Unicode>vn̄ der helle h̾zen ſere · eın ſtram doꝛt her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107810826_65" custom="readingOrder {index:16;} Nasalstrich {offset:1; length:2;Aufloesung:on;} Versbeginn {offset:18; length:0;} Nasalstrich {offset:22; length:2;Aufloesung:en;}">
+                <Coords points="256,531 686,531 686,559 256,559"/>
+                <TextEquiv>
+                    <Unicode>vō oꝛıente gat · an dē wır mıchels mere ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107815688_68" custom="readingOrder {index:17;} Versbeginn {offset:0; length:0;} Nasalstrich {offset:20; length:2;Aufloesung:en;} und-Abbreviatur {offset:23; length:3;Aufloesung:und;}">
+                <Coords points="257,559 682,559 682,581 257,581"/>
+                <TextEquiv>
+                    <Unicode>der hoͮbtſterne víndē vn̄ ır íngeſınde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107823358_71" custom="readingOrder {index:18;} Versbeginn {offset:8; length:0;} Nasalstrich {offset:34; length:2;Aufloesung:en;} Nasalstrich {offset:42; length:2;Aufloesung:em;}">
+                <Coords points="266,584 686,584 686,616 266,616"/>
+                <TextEquiv>
+                    <Unicode>ſchar · dıe alle gelıche buͦchſtabē zvͦ dē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107828427_74" custom="readingOrder {index:19;} Nasalstrich {offset:3; length:2;Aufloesung:en;} und-Abbreviatur {offset:15; length:3;Aufloesung:und;} Versbeginn {offset:15; length:0;} Worttrennung {offset:41; length:1;}">
+                <Coords points="265,613 694,613 694,645 265,645"/>
+                <TextEquiv>
+                    <Unicode>manē tragen · vn̄ eıner rede ıch mıch en=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107834009_77" custom="readingOrder {index:20;} Versbeginn {offset:6; length:0;} iu-Monophthongierung {offset:21; length:1;Aufloesung:iu;}">
+                <Coords points="264,642 687,642 687,672 264,672"/>
+                <TextEquiv>
+                    <Unicode>bar · got dıe koͤꝛe nune hat gemachet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107844094_80" custom="readingOrder {index:21;} az-Abbreviatur {offset:1; length:1;Aufloesung:az;}">
+                <Coords points="262,670 688,670 688,702 262,702"/>
+                <TextEquiv>
+                    <Unicode>dc ıchs ſage wıe er dar ínne mít ſínen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107848847_83" custom="readingOrder {index:22;} Versbeginn {offset:13; length:0;} Versbeginn {offset:34; length:0;} az-Abbreviatur {offset:41; length:1;Aufloesung:az;}">
+                <Coords points="262,701 700,701 700,731 262,731"/>
+                <TextEquiv>
+                    <Unicode>engeln var · der ſchal ıſt mín ·´ nv la dc ſín ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107854551_86" custom="readingOrder {index:23;} Versbeginn {offset:0; length:0;} Nasalstrich {offset:20; length:2;Aufloesung:en;} r-Abbreviatur {offset:27; length:2;Aufloesung:ver;} Nasalstrich {offset:31; length:2;Aufloesung:vm;}">
+                <Coords points="264,730 695,730 695,761 264,761"/>
+                <TextEquiv>
+                    <Unicode>klınſoꝛe dv bıſt gegē mır v̾ſtv̄met gar ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107864586_92" custom="readingOrder {index:24;} structure {type:Strophenzahl;} Strophennummerierung {offset:0; length:2;}">
+                <Coords points="659,764 695,764 695,788 659,788"/>
+                <TextEquiv>
+                    <Unicode>70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107861763_89" custom="readingOrder {index:25;} structure {type:Zwischentext;} Zwischentext {offset:0; length:10;Schreiber:NS;}">
+                <Coords points="486,760 611,760 611,783 486,783"/>
+                <TextEquiv>
+                    <Unicode>Klıngſoꝛ ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107868531_95" custom="readingOrder {index:26;} Lombarde {offset:0; length:1;Hoehe:2; Illuminator:J2; Farbe:rot; Schreiber:As;} Strophenbeginn {offset:0; length:0;} Versbeginn {offset:0; length:0;}">
+                <Coords points="236,757 302,757 302,814 236,814"/>
+                <TextEquiv>
+                    <Unicode>D¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107873455_98" custom="readingOrder {index:27;}">
+                <Coords points="308,760 481,760 481,785 308,785"/>
+                <TextEquiv>
+                    <Unicode>v gıheſt mıner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107882338_101" custom="readingOrder {index:28;} Nasalstrich {offset:5; length:2;Aufloesung:en;} und-Abbreviatur {offset:14; length:3;Aufloesung:unde;} Versbeginn {offset:14; length:0;}">
+                <Coords points="305,785 687,785 687,811 305,811"/>
+                <TextEquiv>
+                    <Unicode>ſtvmmē art · vn̄ wıe dín kvnſt mıt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107888973_104" custom="readingOrder {index:29;} Nasalstrich {offset:8; length:2;Aufloesung:in;} Versbeginn {offset:31; length:0;}">
+                <Coords points="259,811 687,811 687,843 259,843"/>
+                <TextEquiv>
+                    <Unicode>ſchalle ī adelares wıſe var · ſwer grunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107895194_107" custom="readingOrder {index:30;} Versbeginn {offset:31; length:0;} textStyle {offset:38; length:1;superscript:true;}">
+                <Coords points="261,839 694,839 694,868 261,868"/>
+                <TextEquiv>
+                    <Unicode>ſvͦchet da nıe grvnt enwart ·´ der kumt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107899550_110" custom="readingOrder {index:31;} Nasalstrich {offset:1; length:2;Aufloesung:on;} Nasalstrich {offset:8; length:2;Aufloesung:en;} und-Abbreviatur {offset:17; length:3;Aufloesung:unde;} Versbeginn {offset:17; length:0;} Nasalstrich {offset:33; length:2;Aufloesung:en;} iu-Monophthongierung {offset:37; length:1;Aufloesung:iu;} Worttrennung {offset:40; length:1;}">
+                <Coords points="253,867 691,867 691,893 253,893"/>
+                <TextEquiv>
+                    <Unicode>vō wıtzē gar · vn̄ ſínnet vmb dē nun=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107911569_113" custom="readingOrder {index:32;} Nasalstrich {offset:1; length:2;Aufloesung:en;} Versbeginn {offset:10; length:0;} und-Abbreviatur {offset:25; length:3;Aufloesung:und;} r-Abbreviatur {offset:35; length:2;Aufloesung:der;} Worttrennung {offset:43; length:1;}">
+                <Coords points="258,894 694,894 694,924 258,924"/>
+                <TextEquiv>
+                    <Unicode>dē koꝛ · was ſı dar obe vn̄ ob er d̾ gedan=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107916101_116" custom="readingOrder {index:33;} r-Abbreviatur {offset:8; length:2;Aufloesung:ver;} Versbeginn {offset:17; length:0;} az-Abbreviatur {offset:31; length:1;Aufloesung:az;}">
+                <Coords points="262,923 682,923 682,949 262,949"/>
+                <TextEquiv>
+                    <Unicode>ke nıht v̾bırt · geloͮbet mır dc er vıl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107929633_119" custom="readingOrder {index:34;} Versbeginn {offset:36; length:0;}">
+                <Coords points="258,948 688,948 688,978 258,978"/>
+                <TextEquiv>
+                    <Unicode>lıhte eín toꝛe ın ſíme hırne wırt · ſoltz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107934358_122" custom="readingOrder {index:35;} Nasalstrich {offset:8; length:2;Aufloesung:an;} Nasalstrich {offset:15; length:2;Aufloesung:en;} Nasalstrich {offset:19; length:2;Aufloesung:on;} Nasalstrich {offset:27; length:2;Aufloesung:en;} Nasalstrich {offset:36; length:2;Aufloesung:en;} Nasalstrich {offset:40; length:2;Aufloesung:an;}">
+                <Coords points="260,979 696,979 696,1009 260,1009"/>
+                <TextEquiv>
+                    <Unicode>aber ıemā wıſſē vō der mēſchlıchē hāt ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107937429_125" custom="readingOrder {index:36;} Versbeginn {offset:0; length:0;} Nasalstrich {offset:37; length:2;Aufloesung:en;}">
+                <Coords points="262,1011 683,1011 683,1039 262,1039"/>
+                <TextEquiv>
+                    <Unicode>ſo wıl ıch wıder krıeges dıch ın kurzē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107942765_128" custom="readingOrder {index:37;} Nasalstrich {offset:3; length:2;Aufloesung:en;} Versbeginn {offset:12; length:0;} Nasalstrich {offset:13; length:2;Aufloesung:on;} con-Abbreviatur {offset:16; length:1;Aufloesung:con;} Versbeginn {offset:39; length:0;}">
+                <Coords points="259,1036 695,1036 695,1066 259,1066"/>
+                <TextEquiv>
+                    <Unicode>zıtē wer · vō ꝯſtantınopel baſıant · mvͦs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107949366_131" custom="readingOrder {index:38;} Nasalstrich {offset:3; length:2;Aufloesung:en;} Versbeginn {offset:28; length:0;} Nasalstrich {offset:40; length:2;Aufloesung:en;} Worttrennung {offset:46; length:1;}">
+                <Coords points="260,1064 698,1064 698,1097 260,1097"/>
+                <TextEquiv>
+                    <Unicode>gegē dır ín kreıſſe ſten · bꝛınge ıch dē meı=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107953538_134" custom="readingOrder {index:39;} Versbeginn {offset:11; length:0;} und-Abbreviatur {offset:16; length:3;Aufloesung:unde;}">
+                <Coords points="259,1095 686,1095 686,1120 259,1120"/>
+                <TextEquiv>
+                    <Unicode>ſter her · zwen vn̄ ſıbenzec ſtreme an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107959016_137" custom="readingOrder {index:40;} Versbeginn {offset:18; length:0;} r-Abbreviatur {offset:23; length:2;Aufloesung:ter;} Nasalstrich {offset:26; length:2;Aufloesung:en;} Versbeginn {offset:37; length:0;} Worttrennung {offset:43; length:1;}">
+                <Coords points="256,1123 697,1123 697,1152 256,1152"/>
+                <TextEquiv>
+                    <Unicode>den hımeln ſínt · mıt ſt̾nē bꝛeıt · dv wır=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107968531_140" custom="readingOrder {index:41;} Versbeginn {offset:16; length:0;} Nasalstrich {offset:18; length:2;Aufloesung:en;} Nasalstrich {offset:33; length:2;Aufloesung:en;}">
+                <Coords points="256,1149 685,1149 685,1178 256,1178"/>
+                <TextEquiv>
+                    <Unicode>deſt eın kínt · ſwēne er dıe hohē kvnſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107971715_143" custom="readingOrder {index:42;}">
+                <Coords points="253,1179 419,1179 419,1207 253,1207"/>
+                <TextEquiv>
+                    <Unicode>dır vs geleıt ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107978119_149" custom="readingOrder {index:43;} structure {type:Strophenzahl;} Strophennummerierung {offset:0; length:2;}">
+                <Coords points="635,1185 683,1185 683,1208 635,1208"/>
+                <TextEquiv>
+                    <Unicode>71</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107975043_146" custom="readingOrder {index:44;} structure {type:Zwischentext;} Zwischentext {offset:0; length:10;Schreiber:NS;}">
+                <Coords points="422,1177 541,1177 541,1204 422,1204"/>
+                <TextEquiv>
+                    <Unicode>Klıngſoꝛ ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711107995216_152" custom="readingOrder {index:45;} Lombarde {offset:0; length:1;Hoehe:2; Illuminator:J2; Farbe:rot; Schreiber:As;} Strophenbeginn {offset:0; length:0;} Versbeginn {offset:0; length:0;}">
+                <Coords points="233,1204 294,1204 294,1262 233,1262"/>
+                <TextEquiv>
+                    <Unicode>D¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108000207_155" custom="readingOrder {index:46;} Versbeginn {offset:31; length:0;} az-Abbreviatur {offset:32; length:1;Aufloesung:az;} Nasalstrich {offset:38; length:2;Aufloesung:en;}">
+                <Coords points="298,1210 678,1210 678,1234 298,1234"/>
+                <TextEquiv>
+                    <Unicode>v haſt eın ſpıl geſetzet an ·´ wc helfē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108032009_158" custom="readingOrder {index:47;} Versbeginn {offset:12; length:0;}">
+                <Coords points="297,1231 696,1231 696,1262 297,1262"/>
+                <TextEquiv>
+                    <Unicode>ſıne tage · den níemer affenheıt bevílt ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108039071_161" custom="readingOrder {index:48;} Versbeginn {offset:0; length:0;} az-Abbreviatur {offset:1; length:1;Aufloesung:az;} Nasalstrich {offset:4; length:2;Aufloesung:en;} Nasalstrich {offset:25; length:2;Aufloesung:en;} Versbeginn {offset:41; length:0;}">
+                <Coords points="254,1265 696,1265 696,1291 254,1291"/>
+                <TextEquiv>
+                    <Unicode>dc mēſchen ſín vol reıchē nıht enkan · noh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108042537_164" custom="readingOrder {index:49;} Versbeginn {offset:23; length:0;}">
+                <Coords points="256,1291 694,1291 694,1320 256,1320"/>
+                <TextEquiv>
+                    <Unicode>nıemer wırt volſpılt · dın froͤıde mac ſıch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108046207_167" custom="readingOrder {index:50;} r-Abbreviatur {offset:4; length:2;Aufloesung:ver;} Versbeginn {offset:12; length:0;} Versbeginn {offset:33; length:0;} az-Abbreviatur {offset:34; length:1;Aufloesung:az;} Nasalstrich {offset:45; length:2;Aufloesung:vn;} Worttrennung {offset:47; length:1;}">
+                <Coords points="252,1320 696,1320 696,1345 252,1345"/>
+                <TextEquiv>
+                    <Unicode>wol v̾gan · er ıſt gerucket ſo · dc er ſtet ſv̄=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108050895_170" custom="readingOrder {index:51;} Versbeginn {offset:16; length:0;} und-Abbreviatur {offset:26; length:3;Aufloesung:unde;}">
+                <Coords points="249,1344 692,1344 692,1371 249,1371"/>
+                <TextEquiv>
+                    <Unicode>der huͦte bar · da rıtter vn̄ roch gewaltíc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108054548_173" custom="readingOrder {index:52;} Versbeginn {offset:7; length:0;} r-Abbreviatur {offset:24; length:2;Aufloesung:ter;} Versbeginn {offset:33; length:0;} Worttrennung {offset:41; length:1;}">
+                <Coords points="255,1375 693,1375 693,1400 255,1400"/>
+                <TextEquiv>
+                    <Unicode>ſtan · der nímt eín meıſt̾ war · zwo clam=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108058402_176" custom="readingOrder {index:53;} r-Abbreviatur {offset:10; length:2;Aufloesung:ter;} Nasalstrich {offset:13; length:2;Aufloesung:en;} Nasalstrich {offset:29; length:2;Aufloesung:en;} Nasalstrich {offset:39; length:2;Aufloesung:an;}">
+                <Coords points="251,1399 687,1399 687,1427 251,1427"/>
+                <TextEquiv>
+                    <Unicode>manıe an ſt̾nē tvͦt dın ſıngē mír bekāt ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108062475_179" custom="readingOrder {index:54;} Versbeginn {offset:0; length:0;} Nasalstrich {offset:28; length:2;Aufloesung:en;} Worttrennung {offset:45; length:1;}">
+                <Coords points="251,1425 695,1425 695,1459 251,1459"/>
+                <TextEquiv>
+                    <Unicode>dıe gelıche ıch zvͦ den vendē als ıch noh be=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vıl ervarn · d̾ edel furſte hohgeboꝛn vs&#13;
+menſchlıchelıcher art · vıer engel er mıt&#13;
+hoꝛnē vant · der eíne der zeíget ım vn̄&#13;
+wıſte ın vf dıe rehtē vart · clınſoꝛe wılt&#13;
+dvſ · mıt ſange wıder ſtrebē deſ mıch be=¬&#13;
+vılt · dır wırt gegeben dc ıch ſwıge ſwa&#13;
+dv ſpꝛechen wılt ·&#13;
+69&#13;
+Wolfram&#13;
+C¬&#13;
+lınſoꝛe ıſt dır ıht bekant · wıe man&#13;
+dıe zwelf ſt̾nē nennet · Vn̄ den ſı hoͮp=¬&#13;
+tent an · dıe w̾dent dır vıl ſchıere vō mîr&#13;
+genāt · vn̄ wıe der mane kan · erzeıgen&#13;
+kunfteklıche tat · des hımelrıcheſ froͤıde&#13;
+vn̄ der helle h̾zen ſere · eın ſtram doꝛt her&#13;
+vō oꝛıente gat · an dē wır mıchels mere ·&#13;
+der hoͮbtſterne víndē vn̄ ır íngeſınde&#13;
+ſchar · dıe alle gelıche buͦchſtabē zvͦ dē&#13;
+manē tragen · vn̄ eıner rede ıch mıch en=¬&#13;
+bar · got dıe koͤꝛe nune hat gemachet&#13;
+dc ıchs ſage wıe er dar ínne mít ſínen&#13;
+engeln var · der ſchal ıſt mín ·´ nv la dc ſín ·&#13;
+klınſoꝛe dv bıſt gegē mır v̾ſtv̄met gar ·&#13;
+70&#13;
+Klıngſoꝛ ·&#13;
+D¬&#13;
+v gıheſt mıner&#13;
+ſtvmmē art · vn̄ wıe dín kvnſt mıt&#13;
+ſchalle ī adelares wıſe var · ſwer grunt&#13;
+ſvͦchet da nıe grvnt enwart ·´ der kumt&#13;
+vō wıtzē gar · vn̄ ſínnet vmb dē nun=¬&#13;
+dē koꝛ · was ſı dar obe vn̄ ob er d̾ gedan=¬&#13;
+ke nıht v̾bırt · geloͮbet mır dc er vıl&#13;
+lıhte eín toꝛe ın ſíme hırne wırt · ſoltz&#13;
+aber ıemā wıſſē vō der mēſchlıchē hāt ·&#13;
+ſo wıl ıch wıder krıeges dıch ın kurzē&#13;
+zıtē wer · vō ꝯſtantınopel baſıant · mvͦs&#13;
+gegē dır ín kreıſſe ſten · bꝛınge ıch dē meı=¬&#13;
+ſter her · zwen vn̄ ſıbenzec ſtreme an&#13;
+den hımeln ſínt · mıt ſt̾nē bꝛeıt · dv wır=¬&#13;
+deſt eın kínt · ſwēne er dıe hohē kvnſt&#13;
+dır vs geleıt ·&#13;
+71&#13;
+Klıngſoꝛ ·&#13;
+D¬&#13;
+v haſt eın ſpıl geſetzet an ·´ wc helfē&#13;
+ſıne tage · den níemer affenheıt bevílt ·&#13;
+dc mēſchen ſín vol reıchē nıht enkan · noh&#13;
+nıemer wırt volſpılt · dın froͤıde mac ſıch&#13;
+wol v̾gan · er ıſt gerucket ſo · dc er ſtet ſv̄=¬&#13;
+der huͦte bar · da rıtter vn̄ roch gewaltíc&#13;
+ſtan · der nímt eín meıſt̾ war · zwo clam=¬&#13;
+manıe an ſt̾nē tvͦt dın ſıngē mír bekāt ·&#13;
+dıe gelıche ıch zvͦ den vendē als ıch noh be=¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1711107675835_12" custom="readingOrder {index:1;} structure {type:Spalte;}">
+            <Coords points="707,156 1184,156 1184,1479 707,1479"/>
+            <TextLine id="line_1711108076382_182" custom="readingOrder {index:0;} Nasalstrich {offset:6; length:2;Aufloesung:en;} Versbeginn {offset:15; length:0;} Worttrennung {offset:41; length:1;}">
+                <Coords points="755,176 1178,176 1178,208 755,208"/>
+                <TextEquiv>
+                    <Unicode>ſcheıdē wıl · dıe ſıbenzec ſınt dír vmbe=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108079717_185" custom="readingOrder {index:1;} Versbeginn {offset:7; length:0;} r-Abbreviatur {offset:22; length:2;Aufloesung:ter;} und-Abbreviatur {offset:25; length:3;Aufloesung:unde;} Nasalstrich {offset:34; length:2;Aufloesung:in;}">
+                <Coords points="752,211 1170,211 1170,235 752,235"/>
+                <TextEquiv>
+                    <Unicode>kant · des han ıch rıtt̾ vn̄ roch ī mıner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108083575_188" custom="readingOrder {index:2;} iu-Monophthongierung {offset:1; length:1;Aufloesung:ü;} Versbeginn {offset:14; length:0;} az-Abbreviatur {offset:15; length:1;Aufloesung:az;} Worttrennung {offset:39; length:1;}">
+                <Coords points="751,234 1175,234 1175,259 751,259"/>
+                <TextEquiv>
+                    <Unicode>kunſte zıl · dc hat zabulones buͦch ge=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108086867_191" custom="readingOrder {index:3;} Versbeginn {offset:7; length:0;} Nasalstrich {offset:8; length:2;Aufloesung:on;} Versbeginn {offset:22; length:0;} r-Abbreviatur {offset:28; length:2;Aufloesung:ver;} Versbeginn {offset:37; length:0;}">
+                <Coords points="755,262 1173,262 1173,291 755,291"/>
+                <TextEquiv>
+                    <Unicode>ſeıt · vō babılon ·´ gar vnv̾zeıt · bꝛíng ıchſ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108092181_194" custom="readingOrder {index:4;} iu-Monophthongierung {offset:8; length:1;Aufloesung:iu;} Nasalstrich {offset:21; length:2;Aufloesung:en;}">
+                <Coords points="747,290 1034,290 1034,318 747,318"/>
+                <TextEquiv>
+                    <Unicode>ín der durınger herrē don ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108099289_200" custom="readingOrder {index:5;} structure {type:Strophenzahl;} Strophennummerierung {offset:0; length:2;}">
+                <Coords points="1159,293 1177,293 1177,320 1159,320"/>
+                <TextEquiv>
+                    <Unicode>72</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108095696_197" custom="readingOrder {index:6;} structure {type:Zwischentext;} Zwischentext {offset:0; length:7;Schreiber:NS;}">
+                <Coords points="1038,291 1152,291 1152,318 1038,318"/>
+                <TextEquiv>
+                    <Unicode>Wolfram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108109754_203" custom="readingOrder {index:7;} Lombarde {offset:0; length:1;Hoehe:2; Illuminator:J2; Farbe:rot; Schreiber:As;} Strophenbeginn {offset:0; length:0;} Versbeginn {offset:0; length:0;}">
+                <Coords points="725,313 788,313 788,371 725,371"/>
+                <TextEquiv>
+                    <Unicode>W¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108113281_206" custom="readingOrder {index:8;} az-Abbreviatur {offset:4; length:1;Aufloesung:az;} Versbeginn {offset:35; length:0;}">
+                <Coords points="793,316 1171,316 1171,343 793,343"/>
+                <TextEquiv>
+                    <Unicode>er dc eín eıt ıch hıeſſe ín meín · wer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108116795_209" custom="readingOrder {index:9;} Versbeginn {offset:26; length:0;} iu-Monophthongierung {offset:32; length:1;Aufloesung:iu;} r-Abbreviatur {offset:36; length:2;Aufloesung:wer;}">
+                <Coords points="793,339 1168,339 1168,369 793,369"/>
+                <TextEquiv>
+                    <Unicode>gab dır zabẏlones bvͦch · ſage fur w̾t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108121527_212" custom="readingOrder {index:10;} Versbeginn {offset:12; length:0;} az-Abbreviatur {offset:13; length:1;Aufloesung:az;} Nasalstrich {offset:39; length:2;Aufloesung:in;}">
+                <Coords points="742,374 1173,374 1173,401 742,401"/>
+                <TextEquiv>
+                    <Unicode>wıſer man · dc vırgılíuſ vf den agetſteīe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108125506_215" custom="readingOrder {index:11;} und-Abbreviatur {offset:27; length:3;Aufloesung:unde;} Versbeginn {offset:27; length:0;}">
+                <Coords points="746,396 1166,396 1166,428 746,428"/>
+                <TextEquiv>
+                    <Unicode>mıt groſſen noͤten gewan · vn̄ wıe das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108130937_218" custom="readingOrder {index:12;} Versbeginn {offset:22; length:0;} Nasalstrich {offset:23; length:2;Aufloesung:on;} Nasalstrich {offset:29; length:2;Aufloesung:em;} r-Abbreviatur {offset:36; length:2;Aufloesung:ter;}">
+                <Coords points="745,426 1164,426 1164,451 745,451"/>
+                <TextEquiv>
+                    <Unicode>buͦch getıhtet wart · vō eínē meıſt̾ der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108134885_221" custom="readingOrder {index:13;} Versbeginn {offset:31; length:0;} az-Abbreviatur {offset:35; length:1;Aufloesung:az;}">
+                <Coords points="747,452 1161,452 1161,484 747,484"/>
+                <TextEquiv>
+                    <Unicode>doch lange bette an eín kalp · er wc eín</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108138751_224" custom="readingOrder {index:14;} Nasalstrich {offset:6; length:2;Aufloesung:on;} und-Abbreviatur {offset:26; length:3;Aufloesung:und;} Versbeginn {offset:26; length:0;}">
+                <Coords points="742,481 1164,481 1164,510 742,510"/>
+                <TextEquiv>
+                    <Unicode>ıvde vō der mvͦter art · vn̄ eín heıden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108142197_227" custom="readingOrder {index:15;} und-Abbreviatur {offset:12; length:3;Aufloesung:unde;} Versbeginn {offset:12; length:0;} r-Abbreviatur {offset:36; length:2;Aufloesung:der;}">
+                <Coords points="745,510 1169,510 1169,537 745,537"/>
+                <TextEquiv>
+                    <Unicode>vaterhalp · vn̄ was der aller erſte d̾ ſıch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108146166_230" custom="readingOrder {index:16;} Versbeginn {offset:26; length:0;} az-Abbreviatur {offset:27; length:1;Aufloesung:az;}">
+                <Coords points="741,535 1165,535 1165,563 741,563"/>
+                <TextEquiv>
+                    <Unicode>aſtronomíe ıe vnderwant · dc ıch dıe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108150366_233" custom="readingOrder {index:17;} Nasalstrich {offset:34; length:2;Aufloesung:en;}">
+                <Coords points="742,561 1168,561 1168,592 742,592"/>
+                <TextEquiv>
+                    <Unicode>warheıt weıs dar vmbe dult ıch dınē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108153954_236" custom="readingOrder {index:18;} Versbeginn {offset:7; length:0;} r-Abbreviatur {offset:27; length:2;Aufloesung:ter;} Nasalstrich {offset:30; length:2;Aufloesung:en;} Versbeginn {offset:40; length:0;} az-Abbreviatur {offset:41; length:1;Aufloesung:az;}">
+                <Coords points="739,593 1170,593 1170,621 739,621"/>
+                <TextEquiv>
+                    <Unicode>zoꝛn · eíneſ nahtes er an ſt̾nē vant · dc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108158827_239" custom="readingOrder {index:19;} r-Abbreviatur {offset:12; length:2;Aufloesung:der;} Nasalstrich {offset:19; length:2;Aufloesung:en;}">
+                <Coords points="742,618 1168,618 1168,646 742,646"/>
+                <TextEquiv>
+                    <Unicode>bı zwelf hund̾t ıarē wurde eın kínt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108163686_242" custom="readingOrder {index:20;} Versbeginn {offset:9; length:0;} Nasalstrich {offset:13; length:2;Aufloesung:on;} Nasalstrich {offset:32; length:2;Aufloesung:en;} Nasalstrich {offset:39; length:2;Aufloesung:en;}">
+                <Coords points="747,646 1163,646 1163,672 747,672"/>
+                <TextEquiv>
+                    <Unicode>geboꝛn · da vō vs eren alle ıvdē wurdē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108174887_245" custom="readingOrder {index:21;} r-Abbreviatur {offset:0; length:2;Aufloesung:ver;} Versbeginn {offset:10; length:0;} az-Abbreviatur {offset:11; length:1;Aufloesung:az;} az-Abbreviatur {offset:14; length:1;Aufloesung:az;} Versbeginn {offset:26; length:0;} r-Abbreviatur {offset:39; length:2;Aufloesung:der;} Versbeginn {offset:39; length:0;} r-Abbreviatur {offset:45; length:2;Aufloesung:ter;}">
+                <Coords points="744,678 1169,678 1169,703 744,703"/>
+                <TextEquiv>
+                    <Unicode>v̾ıaget · dc wc ım leıt · dıe arbeıt · d̾ mvͦt̾</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108179213_248" custom="readingOrder {index:22;}">
+                <Coords points="745,705 1074,705 1074,732 745,732"/>
+                <TextEquiv>
+                    <Unicode>ſın het ers vıl ſchıere geſaget ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108185939_254" custom="readingOrder {index:23;} structure {type:Strophenzahl;} Strophennummerierung {offset:0; length:2;}">
+                <Coords points="1142,717 1171,717 1171,738 1142,738"/>
+                <TextEquiv>
+                    <Unicode>73</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108183259_251" custom="readingOrder {index:24;} structure {type:Zwischentext;} Zwischentext {offset:0; length:5;Schreiber:NS;}">
+                <Coords points="1075,702 1140,702 1140,730 1075,730"/>
+                <TextEquiv>
+                    <Unicode>Wolf¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108188334_257" custom="readingOrder {index:25;} structure {type:Zwischentext;} Zwischentext {offset:0; length:3;Schreiber:NS;}">
+                <Coords points="1094,733 1153,733 1153,758 1094,758"/>
+                <TextEquiv>
+                    <Unicode>ram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108192236_260" custom="readingOrder {index:26;} Lombarde {offset:0; length:1;Hoehe:2; Illuminator:J2; Farbe:rot; Schreiber:As;} Strophenbeginn {offset:0; length:0;} Versbeginn {offset:0; length:0;}">
+                <Coords points="726,729 792,729 792,782 726,782"/>
+                <TextEquiv>
+                    <Unicode>D¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108196325_263" custom="readingOrder {index:27;} iu-Monophthongierung {offset:0; length:1;Aufloesung:iu;} Nasalstrich {offset:22; length:2;Aufloesung:en;}">
+                <Coords points="792,733 1099,733 1099,758 792,758"/>
+                <TextEquiv>
+                    <Unicode>u frowe wart ınſchꝛıkē rot ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108200571_266" custom="readingOrder {index:28;} Versbeginn {offset:0; length:0;} Nasalstrich {offset:23; length:2;Aufloesung:on;} r-Abbreviatur {offset:30; length:2;Aufloesung:der;} Worttrennung {offset:36; length:1;}">
+                <Coords points="796,759 1174,759 1174,789 796,789"/>
+                <TextEquiv>
+                    <Unicode>ſı ſpꝛach ſvn dv haſt vō mır d̾ hoh=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108204626_269" custom="readingOrder {index:29;} und-Abbreviatur {offset:17; length:3;Aufloesung:unde;} Versbeginn {offset:17; length:0;}">
+                <Coords points="743,788 1175,788 1175,818 743,818"/>
+                <TextEquiv>
+                    <Unicode>ſten ıvden art · vn̄ bıſt genaturt als der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108208166_272" custom="readingOrder {index:30;} Versbeginn {offset:11; length:0;} iu-Monophthongierung {offset:14; length:1;Aufloesung:iu;} Versbeginn {offset:38; length:0;}">
+                <Coords points="741,815 1172,815 1172,838 741,838"/>
+                <TextEquiv>
+                    <Unicode>galıdꝛot · ſınu lıeben kínt bewart · der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108212822_275" custom="readingOrder {index:31;} Versbeginn {offset:29; length:0;} r-Abbreviatur {offset:40; length:2;Aufloesung:ter;}">
+                <Coords points="739,842 1174,842 1174,869 739,869"/>
+                <TextEquiv>
+                    <Unicode>vogel wırt níht ſanges lut · dıe wıl auſt̾</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108216579_278" custom="readingOrder {index:32;} und-Abbreviatur {offset:0; length:3;Aufloesung:unde;} und-Abbreviatur {offset:23; length:3;Aufloesung:unde;} Versbeginn {offset:37; length:0;} Nasalstrich {offset:38; length:2;Aufloesung:on;}">
+                <Coords points="740,869 1163,869 1163,895 740,895"/>
+                <TextEquiv>
+                    <Unicode>vn̄ boꝛeas ſıch hebent vn̄ blêıent · vō ím</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108219930_281" custom="readingOrder {index:33;} iu-Monophthongierung {offset:4; length:1;Aufloesung:iu;} r-Abbreviatur {offset:13; length:2;Aufloesung:mer;} textStyle {offset:25; length:4;strikethrough:true;} Korrektur {offset:25; length:4;Art:unterpunktet;} Versbeginn {offset:37; length:0;} Nasalstrich {offset:39; length:2;Aufloesung:en;}">
+                <Coords points="743,894 1171,894 1171,922 743,922"/>
+                <TextEquiv>
+                    <Unicode>getrutet níem̾ wırt ſín trut bꝛvt · ſwēne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108224131_284" custom="readingOrder {index:34;} Versbeginn {offset:19; length:0;}">
+                <Coords points="740,923 1162,923 1162,952 740,952"/>
+                <TextEquiv>
+                    <Unicode>dıe wínde weıent · als aber dıe zwene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108228086_287" custom="readingOrder {index:35;} r-Abbreviatur {offset:17; length:2;Aufloesung:wer;} Versbeginn {offset:35; length:0;} Worttrennung {offset:40; length:1;}">
+                <Coords points="738,953 1167,953 1167,981 738,981"/>
+                <TextEquiv>
+                    <Unicode>ır vber ſchalles w̾dent ın getan · ır na=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108231970_290" custom="readingOrder {index:36;} Versbeginn {offset:25; length:0;} az-Abbreviatur {offset:26; length:1;Aufloesung:az;} Worttrennung {offset:40; length:1;}">
+                <Coords points="741,982 1169,982 1169,1008 741,1008"/>
+                <TextEquiv>
+                    <Unicode>tur ıſt zerboͤſten art · dc reht mır vol=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108237536_293" custom="readingOrder {index:37;} textStyle {offset:10; length:1;superscript:true;} u-Aussparung {offset:10; length:1;Aufloesung:ui;} r-Abbreviatur {offset:23; length:2;Aufloesung:ver;} und-Abbreviatur {offset:31; length:3;Aufloesung:unde;} Versbeginn {offset:31; length:0;} Nasalstrich {offset:40; length:2;Aufloesung:em;}">
+                <Coords points="738,1010 1164,1010 1164,1043 738,1043"/>
+                <TextEquiv>
+                    <Unicode>get als aqılon wırt vs v̾lan · vn̄ mít dē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108240730_296" custom="readingOrder {index:38;} Versbeginn {offset:12; length:0;} az-Abbreviatur {offset:13; length:1;Aufloesung:az;} Versbeginn {offset:43; length:0;}">
+                <Coords points="740,1043 1176,1043 1176,1068 740,1068"/>
+                <TextEquiv>
+                    <Unicode>zepfırus ·/ dc reıne ſvͤſſe wırt dıe zıt · dıe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108244429_299" custom="readingOrder {index:39;} Versbeginn {offset:32; length:0;} Worttrennung {offset:41; length:1;}">
+                <Coords points="734,1069 1168,1069 1168,1094 734,1094"/>
+                <TextEquiv>
+                    <Unicode>vogel tragen vf ır kuchel dan · mıt froͤı=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108248043_302" custom="readingOrder {index:40;} Nasalstrich {offset:1; length:2;Aufloesung:en;} Versbeginn {offset:28; length:0;} Nasalstrich {offset:35; length:2;Aufloesung:en;}">
+                <Coords points="736,1099 1164,1099 1164,1123 736,1123"/>
+                <TextEquiv>
+                    <Unicode>dē leben kınt ıvnger man · der oꝛdē hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108252274_305" custom="readingOrder {index:41;}">
+                <Coords points="733,1125 1003,1125 1003,1149 733,1149"/>
+                <TextEquiv>
+                    <Unicode>dın mvͦter dır gegeben ·´</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108256944_311" custom="readingOrder {index:42;} structure {type:Strophenzahl;} Strophennummerierung {offset:0; length:2;}">
+                <Coords points="1132,1123 1163,1123 1163,1153 1132,1153"/>
+                <TextEquiv>
+                    <Unicode>74</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108255077_308" custom="readingOrder {index:43;} structure {type:Zwischentext;} Zwischentext {offset:0; length:9;Schreiber:NS;}">
+                <Coords points="1009,1123 1129,1123 1129,1146 1009,1146"/>
+                <TextEquiv>
+                    <Unicode>Wolfram ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108266618_314" custom="readingOrder {index:44;} Lombarde {offset:0; length:1;Hoehe:2; Illuminator:J2; Farbe:rot; Schreiber:As;} Strophenbeginn {offset:0; length:0;} Versbeginn {offset:0; length:0;}">
+                <Coords points="719,1149 794,1149 794,1207 719,1207"/>
+                <TextEquiv>
+                    <Unicode>D¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108269869_317" custom="readingOrder {index:45;} iu-Monophthongierung {offset:0; length:1;Aufloesung:iv;} Nasalstrich {offset:20; length:2;Aufloesung:en;} Versbeginn {offset:29; length:0;} r-Abbreviatur {offset:34; length:2;Aufloesung:ber;} Nasalstrich {offset:38; length:2;Aufloesung:en;}">
+                <Coords points="799,1150 1168,1150 1168,1176 799,1176"/>
+                <TextEquiv>
+                    <Unicode>v frowe do den heıdē wıs · des vb̾gıēc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108273600_320" custom="readingOrder {index:46;} Nasalstrich {offset:25; length:2;Aufloesung:en;}">
+                <Coords points="796,1178 1167,1178 1167,1206 796,1206"/>
+                <TextEquiv>
+                    <Unicode>er ſpꝛach ıch wıls erwendē ſvnder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108277300_323" custom="readingOrder {index:47;} Versbeginn {offset:6; length:0;} Nasalstrich {offset:13; length:2;Aufloesung:en;} Nasalstrich {offset:39; length:2;Aufloesung:en;}">
+                <Coords points="733,1211 1158,1211 1158,1235 733,1235"/>
+                <TextEquiv>
+                    <Unicode>wan · es wellē danne dıe goͤtte ır hohē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108280718_326" custom="readingOrder {index:48;} Versbeginn {offset:8; length:0;} r-Abbreviatur {offset:15; length:2;Aufloesung:ver;} Versbeginn {offset:30; length:0;} r-Abbreviatur {offset:38; length:2;Aufloesung:der;} Worttrennung {offset:44; length:1;}">
+                <Coords points="740,1235 1170,1235 1170,1261 740,1261"/>
+                <TextEquiv>
+                    <Unicode>pꝛıs ·´ an mır v̾derben lan · mín ſín d̾ wır=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108284684_329" custom="readingOrder {index:49;} und-Abbreviatur {offset:11; length:3;Aufloesung:unde;} Versbeginn {offset:21; length:0;} Nasalstrich {offset:33; length:2;Aufloesung:un;} r-Abbreviatur {offset:41; length:2;Aufloesung:her;}">
+                <Coords points="739,1264 1168,1264 1168,1289 739,1289"/>
+                <TextEquiv>
+                    <Unicode>fet es her vn̄ dar · es ıſt eín wūderlıch̾</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108288435_332" custom="readingOrder {index:50;} r-Abbreviatur {offset:4; length:2;Aufloesung:der;} Versbeginn {offset:25; length:0;}">
+                <Coords points="739,1289 1160,1289 1160,1318 739,1318"/>
+                <TextEquiv>
+                    <Unicode>got d̾ dıe gedanke hat · ín aſtronomíe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108291817_335" custom="readingOrder {index:51;} iu-Monophthongierung {offset:2; length:1;Aufloesung:iu;} Versbeginn {offset:24; length:0;} az-Abbreviatur {offset:34; length:1;Aufloesung:az;}">
+                <Coords points="737,1318 1155,1318 1155,1348 737,1348"/>
+                <TextEquiv>
+                    <Unicode>truwe ıchs wol ervar · wıes vmb dc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108295432_338" custom="readingOrder {index:52;} r-Abbreviatur {offset:3; length:2;Aufloesung:der;} Versbeginn {offset:13; length:0;} und-Abbreviatur {offset:20; length:3;Aufloesung:unde;} r-Abbreviatur {offset:24; length:2;Aufloesung:ter;}">
+                <Coords points="738,1348 1166,1348 1166,1374 738,1374"/>
+                <TextEquiv>
+                    <Unicode>wund̾ ſtat · apollo vn̄ t̾uígant víndenſ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108299287_341" custom="readingOrder {index:53;} Versbeginn {offset:14; length:0;}">
+                <Coords points="735,1375 1161,1375 1161,1399 735,1399"/>
+                <TextEquiv>
+                    <Unicode>nıender hap · nv ſvͦchet mínes ſínneſ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108304748_344" custom="readingOrder {index:54;} r-Abbreviatur {offset:29; length:2;Aufloesung:der;} Versbeginn {offset:29; length:0;} ra-Abbreviatur {offset:39; length:2;Aufloesung:pra;}">
+                <Coords points="736,1401 1173,1401 1173,1429 736,1429"/>
+                <TextEquiv>
+                    <Unicode>anker nach deſ grvndes zıl · d̾ erden ſpᷓch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1711108307854_347" custom="readingOrder {index:55;} und-Abbreviatur {offset:0; length:3;Aufloesung:unde;} r-Abbreviatur {offset:17; length:2;Aufloesung:der;} Versbeginn {offset:17; length:0;}">
+                <Coords points="732,1427 1150,1427 1150,1459 732,1459"/>
+                <TextEquiv>
+                    <Unicode>vn̄ ſtímme gap · d̾ tet es wol wan ím</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ſcheıdē wıl · dıe ſıbenzec ſınt dír vmbe=¬&#13;
+kant · des han ıch rıtt̾ vn̄ roch ī mıner&#13;
+kunſte zıl · dc hat zabulones buͦch ge=¬&#13;
+ſeıt · vō babılon ·´ gar vnv̾zeıt · bꝛíng ıchſ&#13;
+ín der durınger herrē don ·&#13;
+72&#13;
+Wolfram&#13;
+W¬&#13;
+er dc eín eıt ıch hıeſſe ín meín · wer&#13;
+gab dır zabẏlones bvͦch · ſage fur w̾t&#13;
+wıſer man · dc vırgılíuſ vf den agetſteīe&#13;
+mıt groſſen noͤten gewan · vn̄ wıe das&#13;
+buͦch getıhtet wart · vō eínē meıſt̾ der&#13;
+doch lange bette an eín kalp · er wc eín&#13;
+ıvde vō der mvͦter art · vn̄ eín heıden&#13;
+vaterhalp · vn̄ was der aller erſte d̾ ſıch&#13;
+aſtronomíe ıe vnderwant · dc ıch dıe&#13;
+warheıt weıs dar vmbe dult ıch dınē&#13;
+zoꝛn · eíneſ nahtes er an ſt̾nē vant · dc&#13;
+bı zwelf hund̾t ıarē wurde eın kínt&#13;
+geboꝛn · da vō vs eren alle ıvdē wurdē&#13;
+v̾ıaget · dc wc ım leıt · dıe arbeıt · d̾ mvͦt̾&#13;
+ſın het ers vıl ſchıere geſaget ·&#13;
+73&#13;
+Wolf¬&#13;
+ram&#13;
+D¬&#13;
+u frowe wart ınſchꝛıkē rot ·&#13;
+ſı ſpꝛach ſvn dv haſt vō mır d̾ hoh=¬&#13;
+ſten ıvden art · vn̄ bıſt genaturt als der&#13;
+galıdꝛot · ſınu lıeben kínt bewart · der&#13;
+vogel wırt níht ſanges lut · dıe wıl auſt̾&#13;
+vn̄ boꝛeas ſıch hebent vn̄ blêıent · vō ím&#13;
+getrutet níem̾ wırt ſín trut bꝛvt · ſwēne&#13;
+dıe wínde weıent · als aber dıe zwene&#13;
+ır vber ſchalles w̾dent ın getan · ır na=¬&#13;
+tur ıſt zerboͤſten art · dc reht mır vol=¬&#13;
+get als aqılon wırt vs v̾lan · vn̄ mít dē&#13;
+zepfırus ·/ dc reıne ſvͤſſe wırt dıe zıt · dıe&#13;
+vogel tragen vf ır kuchel dan · mıt froͤı=¬&#13;
+dē leben kınt ıvnger man · der oꝛdē hat&#13;
+dın mvͦter dır gegeben ·´&#13;
+74&#13;
+Wolfram ·&#13;
+D¬&#13;
+v frowe do den heıdē wıs · des vb̾gıēc&#13;
+er ſpꝛach ıch wıls erwendē ſvnder&#13;
+wan · es wellē danne dıe goͤtte ır hohē&#13;
+pꝛıs ·´ an mır v̾derben lan · mín ſín d̾ wır=¬&#13;
+fet es her vn̄ dar · es ıſt eín wūderlıch̾&#13;
+got d̾ dıe gedanke hat · ín aſtronomíe&#13;
+truwe ıchs wol ervar · wıes vmb dc&#13;
+wund̾ ſtat · apollo vn̄ t̾uígant víndenſ&#13;
+nıender hap · nv ſvͦchet mínes ſínneſ&#13;
+anker nach deſ grvndes zıl · d̾ erden ſpᷓch&#13;
+vn̄ ſtímme gap · d̾ tet es wol wan ím</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-03-12T20:34:25.822+01:00</Created>
+        <LastChange>2023-10-29T11:13:57.063+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Landeck00.jpg" imageWidth="1264" imageHeight="1900">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580005918" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1678656106579_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1678656112047_6"/>
+                <RegionRefIndexed index="2" regionRef="region_1678656117908_9"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1678656106579_3" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="213,51 800,51 801,129 214,129"/>
+            <TextLine id="line_1678656149978_12" custom="readingOrder {index:0;} Autornennung {offset:0; length:39;} Nasalstrich {offset:26; length:2;Aufloesung:on;}">
+                <Coords points="224,64 789,60 789,117 226,121"/>
+                <TextEquiv>
+                    <Unicode>Her Chuͦnrat der Schenke vō Landegge ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Her Chuͦnrat der Schenke vō Landegge ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1678656112047_6" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="829,59 946,59 946,116 829,116"/>
+            <TextLine id="line_1678656155048_15" custom="readingOrder {index:0;}">
+                <Coords points="844,64 923,64 923,109 844,109"/>
+                <TextEquiv>
+                    <Unicode>· Lxıı ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· Lxıı ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1678656117908_9" custom="readingOrder {index:2;} structure {type:Metatext;}">
+            <Coords points="1116,35 1186,35 1186,82 1116,82"/>
+            <TextLine id="line_1678656201291_23" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1126,41 1178,41 1178,71 1126,71"/>
+                <TextEquiv>
+                    <Unicode>205</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>205</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

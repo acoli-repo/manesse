@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-10-10T21:43:37.763+02:00</Created>
+        <LastChange>2023-01-15T17:52:45.097+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Meißen00.jpg" imageWidth="1220" imageHeight="1874">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580000844" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1665431078469_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1665431083134_6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1665431078469_3" custom="readingOrder {index:0;}">
+            <Coords points="349,59 701,59 701,107 349,107"/>
+            <TextLine id="line_1665431091587_9" custom="readingOrder {index:0;} Autornennung {offset:0; length:26;} ra-Abbreviatur {offset:3; length:2;Aufloesung:gra;}">
+                <Coords points="360,62 698,62 698,103 360,103"/>
+                <TextEquiv>
+                    <Unicode>Margue heınrıch von mıſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Margue heınrıch von mıſen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1665431083134_6" custom="readingOrder {index:1;}">
+            <Coords points="764,45 847,45 848,100 765,100"/>
+            <TextLine id="line_1665431096670_12" custom="readingOrder {index:0;}">
+                <Coords points="777,50 840,50 836,95 773,95"/>
+                <TextEquiv>
+                    <Unicode>· víí ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· víí ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

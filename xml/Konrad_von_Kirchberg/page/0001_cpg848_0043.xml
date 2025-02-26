@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-11T10:06:09.380+01:00</Created>
+        <LastChange>2024-01-11T10:50:06.062+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_cpg848_0043.jpg" imageWidth="1235" imageHeight="1890">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580025168" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1704964063473_49"/>
+                <RegionRefIndexed index="1" regionRef="region_1704964025053_18"/>
+                <RegionRefIndexed index="2" regionRef="region_1704964027156_21"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1704964063473_49" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="331,51 749,51 749,126 331,126"/>
+            <TextLine id="line_1704964066931_52" custom="readingOrder {index:0;} Autornennung {offset:0; length:28;} Nasalstrich {offset:16; length:2;Aufloesung:on;}">
+                <Coords points="333,58 744,58 744,107 333,107"/>
+                <TextEquiv>
+                    <Unicode>Graue Chuͦnrat vō kılchberg ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Graue Chuͦnrat vō kılchberg ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1704964025053_18" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="845,59 907,59 907,105 845,105"/>
+            <TextLine id="line_1704964031663_24" custom="readingOrder {index:0;}">
+                <Coords points="849,64 906,64 906,95 849,95"/>
+                <TextEquiv>
+                    <Unicode>· xıı ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· xıı ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1704964027156_21" custom="readingOrder {index:2;} structure {type:Metatext;}">
+            <Coords points="1107,45 1152,45 1152,78 1107,78"/>
+            <TextLine id="line_1704964033846_27" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:2;}">
+                <Coords points="1117,48 1146,48 1146,71 1117,71"/>
+                <TextEquiv>
+                    <Unicode>24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

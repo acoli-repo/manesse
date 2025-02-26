@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-07-11T17:06:53.899+02:00</Created>
+        <LastChange>2022-11-13T13:57:38.988+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Suonegge00.jpg" imageWidth="1292" imageHeight="1896">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580033990" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1663618245728_12"/>
+                <RegionRefIndexed index="1" regionRef="region_1663618363986_28"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1663618245728_12" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="582,58 846,58 846,140 582,140"/>
+            <TextLine id="line_1663618251413_15" custom="readingOrder {index:0;} Autornennung {offset:0; length:13;}">
+                <Coords points="606,73 833,73 833,118 606,118"/>
+                <TextEquiv>
+                    <Unicode>von Suͦnegge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>von Suͦnegge.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1663618363986_28" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="899,61 972,61 972,144 899,144"/>
+            <TextLine id="line_1663618414228_40" custom="readingOrder {index:0;}">
+                <Coords points="900,72 956,71 956,121 899,117"/>
+                <TextEquiv>
+                    <Unicode>· Lx ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· Lx ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

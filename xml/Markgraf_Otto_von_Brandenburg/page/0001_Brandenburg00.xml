@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-10-19T18:12:30.808+02:00</Created>
+        <LastChange>2023-10-30T12:11:43.903+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Brandenburg00.jpg" imageWidth="1230" imageHeight="1874">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580028867" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1666195993389_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1666195996506_6"/>
+                <RegionRefIndexed index="2" regionRef="region_1666195999182_9"/>
+                <RegionRefIndexed index="3" regionRef="region_1668089175598_9"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1666195993389_3" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="99,33 653,33 653,129 99,129"/>
+            <TextLine id="line_1666196004948_12" custom="readingOrder {index:0;} Nasalstrich {offset:15; length:2;Aufloesung:on;} Nasalstrich {offset:23; length:2;Aufloesung:en;} textStyle {offset:26; length:1;superscript:true;} Korrektur {offset:26; length:1;Art:Einschub;}">
+                <Coords points="118,52 630,52 630,100 118,100"/>
+                <TextEquiv>
+                    <Unicode>margrave otte vō bꝛandēbvg mıt dem pfıle ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>margrave otte vō bꝛandēbvg mıt dem pfıle ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1666195996506_6" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="692,46 768,46 768,94 692,94"/>
+            <TextLine id="line_1666196008257_15" custom="readingOrder {index:0;}">
+                <Coords points="704,52 752,52 752,80 704,80"/>
+                <TextEquiv>
+                    <Unicode>· vı ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· vı ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1666195999182_9" custom="readingOrder {index:2;} structure {type:Metatext;}">
+            <Coords points="851,32 1133,33 1133,88 851,87"/>
+            <TextLine id="line_1666196011603_18" custom="readingOrder {index:0;} Autornennung {offset:0; length:27;} ra-Abbreviatur {offset:3; length:1;Aufloesung:gra;} Nasalstrich {offset:14; length:2;Aufloesung:on;} ra-Abbreviatur {offset:17; length:2;Aufloesung:bra;} Nasalstrich {offset:21; length:2;Aufloesung:en;} Schreibfehler {offset:24; length:2;Aufloesung:vꝛ;}">
+                <Coords points="862,42 1128,36 1131,72 862,72"/>
+                <TextEquiv>
+                    <Unicode>margᷓve otto vō bᷓndēbꝛvg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>margᷓve otto vō bᷓndēbꝛvg</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1668089175598_9" custom="readingOrder {index:3;} structure {type:Metatext;}">
+            <Coords points="1139,51 1162,51 1162,92 1139,92"/>
+            <TextLine id="line_1668089181774_12" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:2;}">
+                <Coords points="1144,55 1158,55 1158,82 1144,82"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-01-26T17:35:16.684+01:00</Created>
+        <LastChange>2024-01-26T22:24:30.301+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Toggenburg 00.jpg" imageWidth="1235" imageHeight="1888">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740579996917" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1706286957553_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1706286960828_6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1706286957553_3" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="403,42 859,42 859,122 403,122"/>
+            <TextLine id="line_1706286968485_9" custom="readingOrder {index:0;} Autornennung {offset:0; length:28;}">
+                <Coords points="414,52 840,52 840,109 414,109"/>
+                <TextEquiv>
+                    <Unicode>Graue Kraft von Toggenburg ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Graue Kraft von Toggenburg ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1706286960828_6" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="940,51 1029,51 1029,107 940,107"/>
+            <TextLine id="line_1706286974670_12" custom="readingOrder {index:0;}">
+                <Coords points="948,56 1018,56 1018,98 948,98"/>
+                <TextEquiv>
+                    <Unicode>· xı ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· xı ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-12-01T20:19:39.733+01:00</Created>
+        <LastChange>2023-01-10T13:02:37.043+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Anhalt 00.jpg" imageWidth="1256" imageHeight="1889">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740579986568" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1669922496365_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1669922511666_7"/>
+                <RegionRefIndexed index="2" regionRef="region_1669922592075_17"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1669922496365_3" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="335,36 715,36 713,104 333,104"/>
+            <TextLine id="line_1669922525954_10" custom="readingOrder {index:0;} Autornennung {offset:0; length:23;}">
+                <Coords points="340,42 705,42 706,95 341,95"/>
+                <TextEquiv>
+                    <Unicode>Der Herzoge von Anhalte ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Herzoge von Anhalte ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1669922511666_7" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="789,36 869,36 869,87 789,87"/>
+            <TextLine id="line_1669922534004_13" custom="readingOrder {index:0;}">
+                <Coords points="793,41 863,41 863,80 793,80"/>
+                <TextEquiv>
+                    <Unicode>· vııı ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· vııı ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1669922592075_17" custom="readingOrder {index:2;} structure {type:Metatext;}">
+            <Coords points="1133,44 1178,44 1178,89 1133,89"/>
+            <TextLine id="line_1669922598516_20" custom="readingOrder {index:0;} Seitennummerierung {offset:0; length:2;}">
+                <Coords points="1139,50 1169,50 1169,82 1139,82"/>
+                <TextEquiv>
+                    <Unicode>17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>17</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

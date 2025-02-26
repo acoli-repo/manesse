@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-06-07T16:24:29.606+02:00</Created>
+        <LastChange>2023-11-14T15:26:18.881+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0008_Winsbecke07.jpg" imageWidth="1294" imageHeight="1894">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740579990337" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1688075603633_472"/>
+                <RegionRefIndexed index="1" regionRef="region_1688075610867_475"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1688075603633_472" custom="readingOrder {index:0;} structure {type:Spalte;}">
+            <Coords points="202,135 712,136 712,1481 202,1480"/>
+            <TextLine id="line_1688075663934_480" custom="readingOrder {index:0;} structure {type:Strophenzahl;} Strophennummerierung {offset:0; length:2;}">
+                <Coords points="622,137 676,137 676,165 622,165"/>
+                <TextEquiv>
+                    <Unicode>72</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075668979_483" custom="readingOrder {index:1;} Lombarde {offset:0; length:1;Hoehe:2; Illuminator:J2; Farbe:blau; Schreiber:As;} Strophenbeginn {offset:0; length:0;} Versbeginn {offset:0; length:0;}">
+                <Coords points="216,176 288,176 288,240 216,240"/>
+                <TextEquiv>
+                    <Unicode>D¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075676094_486" custom="readingOrder {index:2;} Nasalstrich {offset:24; length:2;Aufloesung:en;} Versbeginn {offset:33; length:0;} textStyle {offset:41; length:2;superscript:true;}">
+                <Coords points="291,175 691,175 691,209 291,209"/>
+                <TextEquiv>
+                    <Unicode>ın kraft ıſt allen kreſtē voꝛ · dv hoͤheſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075682263_489" custom="readingOrder {index:3;} Korrektur {offset:19; length:1;Art:unterpunktet;} textStyle {offset:19; length:1;strikethrough:true;} Versbeginn {offset:23; length:0;}">
+                <Coords points="293,206 681,206 683,235 295,235"/>
+                <TextEquiv>
+                    <Unicode>nıderſt ſwen du wılt · was half daſ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075687108_492" custom="readingOrder {index:4;} Versbeginn {offset:16; length:0;} und-Abbreviatur {offset:29; length:3;Aufloesung:unde;}">
+                <Coords points="250,237 692,237 692,264 250,264"/>
+                <TextEquiv>
+                    <Unicode>nabucho donoſoꝛ gewalteſ hat vn̄ rícheıt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075691884_495" custom="readingOrder {index:5;} Versbeginn {offset:6; length:0;} Nasalstrich {offset:7; length:2;Aufloesung:on;} r-Abbreviatur {offset:23; length:2;Aufloesung:ver;} Versbeginn {offset:41; length:0;} az-Abbreviatur {offset:42; length:1;Aufloesung:az;}">
+                <Coords points="243,262 680,262 680,294 243,294"/>
+                <TextEquiv>
+                    <Unicode>vıl · vō hohuart ſıch v̾uıel ſın ſpıl · dc es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075696382_498" custom="readingOrder {index:6;} r-Abbreviatur {offset:19; length:2;Aufloesung:der;} Worttrennung {offset:38; length:1;}">
+                <Coords points="244,293 692,293 693,320 245,320"/>
+                <TextEquiv>
+                    <Unicode>zewalde wıldes gıe d̾ tage eín lanc ge=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075701647_501" custom="readingOrder {index:7;} Versbeginn {offset:13; length:0;} r-Abbreviatur {offset:32; length:2;Aufloesung:der;} Versbeginn {offset:41; length:0;}">
+                <Coords points="248,318 679,318 679,343 248,343"/>
+                <TextEquiv>
+                    <Unicode>meſſen zıl · an allen vıeren leıd̾ bar · voꝛ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075706336_504" custom="readingOrder {index:8;} Nasalstrich {offset:3; length:2;Aufloesung:em;} Nasalstrich {offset:13; length:2;Aufloesung:en;} r-Abbreviatur {offset:24; length:2;Aufloesung:ver;} r-Abbreviatur {offset:33; length:2;Aufloesung:her;}">
+                <Coords points="247,345 681,345 681,372 247,372"/>
+                <TextEquiv>
+                    <Unicode>dínē zoꝛne dē ıch han v̾dıenet h̾re mıch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075711133_507" custom="readingOrder {index:9;} Versfortsetzung {offset:0; length:9;Farbe:blau;}">
+                <Coords points="560,372 678,372 679,402 561,402"/>
+                <TextEquiv>
+                    <Unicode>⁋ bewar ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075715653_510" custom="readingOrder {index:10;} structure {type:Strophenzahl;} Strophennummerierung {offset:0; length:2;}">
+                <Coords points="680,390 709,390 709,418 680,418"/>
+                <TextEquiv>
+                    <Unicode>73</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075777141_522" custom="readingOrder {index:11;} Lombarde {offset:0; length:1;Hoehe:2; Illuminator:J2; Farbe:blau; Schreiber:As;} Strophenbeginn {offset:0; length:0;} Versbeginn {offset:0; length:0;}">
+                <Coords points="212,364 253,364 253,457 212,457"/>
+                <TextEquiv>
+                    <Unicode>I¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075783118_525" custom="readingOrder {index:12;} Versbeginn {offset:29; length:0;}">
+                <Coords points="255,369 557,369 557,400 255,400"/>
+                <TextEquiv>
+                    <Unicode>ch tuͦn hıe míne bıhte dır · als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075789930_528" custom="readingOrder {index:13;} iu-Monophthongierung {offset:5; length:1;Aufloesung:ü;} und-Abbreviatur {offset:16; length:3;Aufloesung:unde;} Versbeginn {offset:27; length:0;} Worttrennung {offset:43; length:1;}">
+                <Coords points="255,401 681,401 681,427 255,427"/>
+                <TextEquiv>
+                    <Unicode>eın ſvnder ſol vn̄ mvͦs · erzeıge dıne hel=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075795581_531" custom="readingOrder {index:14;} Versbeginn {offset:9; length:0;} az-Abbreviatur {offset:13; length:1;Aufloesung:az;} r-Abbreviatur {offset:19; length:2;Aufloesung:wer;} iu-Monophthongierung {offset:25; length:2;Aufloesung:ü;} Nasalstrich {offset:29; length:2;Aufloesung:en;} Versbeginn {offset:39; length:0;}">
+                <Coords points="253,426 688,426 688,457 253,457"/>
+                <TextEquiv>
+                    <Unicode>fe mır · ſo dc mır w̾de ſvndē bvͦs · dıe wıle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075801134_534" custom="readingOrder {index:15;} Versbeginn {offset:26; length:0;} Nasalstrich {offset:32; length:2;Aufloesung:en;}">
+                <Coords points="247,456 683,456 683,486 247,486"/>
+                <TextEquiv>
+                    <Unicode>ıch hant mac oder ſuͦs ·´ geruͤrē deſ wıl ıch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075806758_537" custom="readingOrder {index:16;} Nasalstrich {offset:9; length:2;Aufloesung:en;} und-Abbreviatur {offset:18; length:3;Aufloesung:unde;}">
+                <Coords points="248,485 692,485 692,509 248,509"/>
+                <TextEquiv>
+                    <Unicode>dıch bıttē maget vn̄ mvͦter dvr den gruͦs ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075811356_540" custom="readingOrder {index:17;} Versbeginn {offset:0; length:0;} Nasalstrich {offset:1; length:2;Aufloesung:en;} Nasalstrich {offset:9; length:2;Aufloesung:on;} r-Abbreviatur {offset:18; length:2;Aufloesung:der;} Versbeginn {offset:36; length:0;} Nasalstrich {offset:42; length:2;Aufloesung:em;} Worttrennung {offset:48; length:1;}">
+                <Coords points="242,509 703,509 703,536 242,536"/>
+                <TextEquiv>
+                    <Unicode>dē dır vō gotte d̾ engel ſpꝛach · ze dınē kín=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075816848_543" custom="readingOrder {index:18;}">
+                <Coords points="244,538 670,538 670,560 244,560"/>
+                <TextEquiv>
+                    <Unicode>de ſpꝛıch mín woꝛt dín helfe ıe ſtarken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075823729_546" custom="readingOrder {index:19;}">
+                <Coords points="246,563 420,563 420,592 246,592"/>
+                <TextEquiv>
+                    <Unicode>kvmber bꝛach ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075826641_549" custom="readingOrder {index:20;} structure {type:Strophenzahl;} Strophennummerierung {offset:0; length:2;}">
+                <Coords points="639,566 696,566 696,590 639,590"/>
+                <TextEquiv>
+                    <Unicode>74</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075831282_552" custom="readingOrder {index:21;} Lombarde {offset:0; length:1;Hoehe:3; Illuminator:J2; Farbe:blau; Schreiber:As;} Strophenbeginn {offset:0; length:0;} Versbeginn {offset:0; length:0;}">
+                <Coords points="209,587 253,587 253,683 209,683"/>
+                <TextEquiv>
+                    <Unicode>I¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075836375_555" custom="readingOrder {index:22;} r-Abbreviatur {offset:7; length:2;Aufloesung:der;} r-Abbreviatur {offset:10; length:2;Aufloesung:wer;} Nasalstrich {offset:26; length:2;Aufloesung:en;} und-Abbreviatur {offset:31; length:3;Aufloesung:unde;} Versbeginn {offset:31; length:0;}">
+                <Coords points="254,589 681,589 681,619 254,619"/>
+                <TextEquiv>
+                    <Unicode>Ch han d̾ w̾lte mıch begebē · vn̄ ſol nv als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075842433_558" custom="readingOrder {index:23;} iu-Monophthongierung {offset:5; length:2;Aufloesung:iv;} Versbeginn {offset:18; length:0;} iu-Monophthongierung {offset:22; length:1;Aufloesung:iu;} Nasalstrich {offset:25; length:2;Aufloesung:en;} und-Abbreviatur {offset:28; length:3;Aufloesung:und;} Worttrennung {offset:44; length:1;}">
+                <Coords points="258,617 680,617 680,649 258,649"/>
+                <TextEquiv>
+                    <Unicode>eín ſvndıc man · ın ruwē vn̄ ín bvͦſſe le=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075848568_561" custom="readingOrder {index:24;} Versbeginn {offset:6; length:0;} az-Abbreviatur {offset:10; length:1;Aufloesung:az;} r-Abbreviatur {offset:36; length:2;Aufloesung:der;} Versbeginn {offset:36; length:0;}">
+                <Coords points="258,648 683,648 683,675 258,675"/>
+                <TextEquiv>
+                    <Unicode>ben · we dc ıch ıe den mvͦt gewan · d̾ wıder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075853420_564" custom="readingOrder {index:25;} Versbeginn {offset:21; length:0;} az-Abbreviatur {offset:22; length:1;Aufloesung:az;} iu-Monophthongierung {offset:25; length:1;Aufloesung:iu;} und-Abbreviatur {offset:36; length:3;Aufloesung:und;}">
+                <Coords points="245,676 673,676 674,703 246,703"/>
+                <TextEquiv>
+                    <Unicode>dıch ıht hat getan · dc ruwet mıch vn̄ ıſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075858621_567" custom="readingOrder {index:26;} Versbeginn {offset:37; length:0;}">
+                <Coords points="249,705 683,705 683,733 249,733"/>
+                <TextEquiv>
+                    <Unicode>mır leıt nv la mıch dıne hulde han · nah</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075864192_570" custom="readingOrder {index:27;} Versbeginn {offset:23; length:0;} textStyle {offset:36; length:5;strikethrough:true;} Korrektur {offset:36; length:4;Art:durchgestrichen;} r-Abbreviatur {offset:36; length:2;Aufloesung:her;} Korrektur {offset:40; length:1;Art:Schreibunterbrechung;}">
+                <Coords points="246,734 685,734 685,759 246,759"/>
+                <TextEquiv>
+                    <Unicode>beſſervnge herre got · genedeklıche h̾rvb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075869944_573" custom="readingOrder {index:28;} und-Abbreviatur {offset:25; length:3;Aufloesung:unde;}">
+                <Coords points="242,761 681,761 681,788 242,788"/>
+                <TextEquiv>
+                    <Unicode>vber mıch erge dín wılle vn̄ dın gebot ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075951362_594" custom="readingOrder {index:29;} structure {type:Strophenzahl;} Strophennummerierung {offset:0; length:2;}">
+                <Coords points="669,783 708,783 708,811 669,811"/>
+                <TextEquiv>
+                    <Unicode>75</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075956188_597" custom="readingOrder {index:30;} Lombarde {offset:0; length:1;Hoehe:2; Illuminator:J2; Farbe:blau; Schreiber:As;} Strophenbeginn {offset:0; length:0;} Versbeginn {offset:0; length:0;}">
+                <Coords points="221,781 288,781 288,844 221,844"/>
+                <TextEquiv>
+                    <Unicode>U¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075961279_600" custom="readingOrder {index:31;} r-Abbreviatur {offset:3; length:2;Aufloesung:her;} r-Abbreviatur {offset:12; length:2;Aufloesung:ver;} Nasalstrich {offset:17; length:2;Aufloesung:en;} Versbeginn {offset:25; length:0;}">
+                <Coords points="294,788 669,788 669,812 294,812"/>
+                <TextEquiv>
+                    <Unicode>on h̾zen ín v̾gebē ſı · dıe mır ıe har</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075967534_603" custom="readingOrder {index:32;} Versbeginn {offset:15; length:0;} Nasalstrich {offset:22; length:2;Aufloesung:en;} iu-Monophthongierung {offset:26; length:1;Aufloesung:iu;}">
+                <Coords points="295,811 670,811 670,839 295,839"/>
+                <TextEquiv>
+                    <Unicode>getaten leıt · mın eıgē lute laſſe ıch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075972530_606" custom="readingOrder {index:33;} Versbeginn {offset:6; length:0;} und-Abbreviatur {offset:26; length:3;Aufloesung:unde;} Versbeginn {offset:37; length:0;} az-Abbreviatur {offset:38; length:1;Aufloesung:az;}">
+                <Coords points="249,843 675,843 675,870 249,870"/>
+                <TextEquiv>
+                    <Unicode>frı · mın hvͦbe gelt ſmal vn̄ bꝛeı · dc man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075976906_609" custom="readingOrder {index:34;} und-Abbreviatur {offset:9; length:3;Aufloesung:unde;} Versbeginn {offset:21; length:0;} iu-Monophthongierung {offset:22; length:1;Aufloesung:ü;} Nasalstrich {offset:29; length:2;Aufloesung:en;}">
+                <Coords points="250,867 675,867 675,899 250,899"/>
+                <TextEquiv>
+                    <Unicode>mır bûte vn̄ ſneıt · fur eıgē des enzıen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075981385_612" custom="readingOrder {index:35;} Versbeginn {offset:41; length:0;}">
+                <Coords points="247,897 674,897 674,923 247,923"/>
+                <TextEquiv>
+                    <Unicode>ıch mıch ıch hans vf eín ſpıtal geleıt · es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075986160_615" custom="readingOrder {index:36;} Versbeginn {offset:23; length:0;} und-Abbreviatur {offset:27; length:3;Aufloesung:unde;} Worttrennung {offset:41; length:1;}">
+                <Coords points="247,924 686,924 686,951 247,951"/>
+                <TextEquiv>
+                    <Unicode>fuͤget der armen ſín · ıch vn̄ mín eín ge=¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688075994914_618" custom="readingOrder {index:37;} Nasalstrich {offset:26; length:2;Aufloesung:en;} Nasalstrich {offset:33; length:2;Aufloesung:en;}">
+                <Coords points="250,954 677,954 677,981 250,981"/>
+                <TextEquiv>
+                    <Unicode>boꝛner ſvn zvͦ ín vns wellē zıehē dꝛín ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076035413_636" custom="readingOrder {index:38;} structure {type:Leerzeile;}">
+                <Coords points="256,987 680,987 680,1010 256,1010"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076000525_621" custom="readingOrder {index:39;} r-Abbreviatur {offset:6; length:2;Aufloesung:ter;}">
+                <Coords points="234,1010 557,1010 557,1043 234,1043"/>
+                <TextEquiv>
+                    <Unicode>Des vat̾ lere eín ende hat ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076004372_624" custom="readingOrder {index:40;}">
+                <Coords points="240,1040 576,1040 576,1072 240,1072"/>
+                <TextEquiv>
+                    <Unicode>Der mvͦter lerê dar nach gat ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076040532_639" custom="readingOrder {index:41;} structure {type:Leerzeile;}">
+                <Coords points="250,1078 666,1078 666,1095 250,1095"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076045596_642" custom="readingOrder {index:42;} structure {type:Leerzeile;}">
+                <Coords points="250,1097 667,1097 667,1120 250,1120"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076050031_645" custom="readingOrder {index:43;} structure {type:Leerzeile;}">
+                <Coords points="250,1126 666,1126 666,1153 250,1153"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076054764_648" custom="readingOrder {index:44;} structure {type:Leerzeile;}">
+                <Coords points="250,1150 669,1150 669,1178 250,1178"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076059567_651" custom="readingOrder {index:45;} structure {type:Leerzeile;}">
+                <Coords points="251,1178 669,1178 669,1208 251,1208"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076069201_654" custom="readingOrder {index:46;} structure {type:Leerzeile;}">
+                <Coords points="250,1213 664,1213 664,1234 250,1234"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076074389_657" custom="readingOrder {index:47;} structure {type:Leerzeile;}">
+                <Coords points="248,1236 664,1236 664,1261 248,1261"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076079758_660" custom="readingOrder {index:48;} structure {type:Leerzeile;}">
+                <Coords points="244,1268 666,1268 666,1293 244,1293"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076084379_663" custom="readingOrder {index:49;} structure {type:Leerzeile;}">
+                <Coords points="244,1295 667,1295 667,1320 244,1320"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076089201_666" custom="readingOrder {index:50;} structure {type:Leerzeile;}">
+                <Coords points="246,1321 667,1321 667,1348 246,1348"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076093699_669" custom="readingOrder {index:51;} structure {type:Leerzeile;}">
+                <Coords points="247,1349 668,1349 668,1372 247,1372"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076098461_672" custom="readingOrder {index:52;} structure {type:Leerzeile;}">
+                <Coords points="246,1373 667,1373 667,1404 246,1404"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076103353_675" custom="readingOrder {index:53;} structure {type:Leerzeile;}">
+                <Coords points="247,1406 663,1406 663,1432 247,1432"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076107852_678" custom="readingOrder {index:54;} structure {type:Leerzeile;}">
+                <Coords points="245,1437 666,1437 666,1457 245,1457"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>72&#13;
+D¬&#13;
+ın kraft ıſt allen kreſtē voꝛ · dv hoͤheſt&#13;
+nıderſt ſwen du wılt · was half daſ&#13;
+nabucho donoſoꝛ gewalteſ hat vn̄ rícheıt&#13;
+vıl · vō hohuart ſıch v̾uıel ſın ſpıl · dc es&#13;
+zewalde wıldes gıe d̾ tage eín lanc ge=¬&#13;
+meſſen zıl · an allen vıeren leıd̾ bar · voꝛ&#13;
+dínē zoꝛne dē ıch han v̾dıenet h̾re mıch&#13;
+⁋ bewar ·&#13;
+73&#13;
+I¬&#13;
+ch tuͦn hıe míne bıhte dır · als&#13;
+eın ſvnder ſol vn̄ mvͦs · erzeıge dıne hel=¬&#13;
+fe mır · ſo dc mır w̾de ſvndē bvͦs · dıe wıle&#13;
+ıch hant mac oder ſuͦs ·´ geruͤrē deſ wıl ıch&#13;
+dıch bıttē maget vn̄ mvͦter dvr den gruͦs ·&#13;
+dē dır vō gotte d̾ engel ſpꝛach · ze dınē kín=¬&#13;
+de ſpꝛıch mín woꝛt dín helfe ıe ſtarken&#13;
+kvmber bꝛach ·&#13;
+74&#13;
+I¬&#13;
+Ch han d̾ w̾lte mıch begebē · vn̄ ſol nv als&#13;
+eín ſvndıc man · ın ruwē vn̄ ín bvͦſſe le=¬&#13;
+ben · we dc ıch ıe den mvͦt gewan · d̾ wıder&#13;
+dıch ıht hat getan · dc ruwet mıch vn̄ ıſt&#13;
+mır leıt nv la mıch dıne hulde han · nah&#13;
+beſſervnge herre got · genedeklıche h̾rvb&#13;
+vber mıch erge dín wılle vn̄ dın gebot ·&#13;
+75&#13;
+U¬&#13;
+on h̾zen ín v̾gebē ſı · dıe mır ıe har&#13;
+getaten leıt · mın eıgē lute laſſe ıch&#13;
+frı · mın hvͦbe gelt ſmal vn̄ bꝛeı · dc man&#13;
+mır bûte vn̄ ſneıt · fur eıgē des enzıen&#13;
+ıch mıch ıch hans vf eín ſpıtal geleıt · es&#13;
+fuͤget der armen ſín · ıch vn̄ mín eín ge=¬&#13;
+boꝛner ſvn zvͦ ín vns wellē zıehē dꝛín ·&#13;
+&#13;
+Des vat̾ lere eín ende hat ·&#13;
+Der mvͦter lerê dar nach gat ·&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1688075610867_475" custom="readingOrder {index:1;} structure {type:Spalte;}">
+            <Coords points="714,139 1199,139 1199,1484 714,1484"/>
+            <TextLine id="line_1688076123492_681" custom="readingOrder {index:0;} structure {type:Leerzeile;}">
+                <Coords points="735,181 1143,181 1143,204 735,204"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076128046_684" custom="readingOrder {index:1;} structure {type:Leerzeile;}">
+                <Coords points="736,204 1144,204 1144,230 736,230"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076132114_687" custom="readingOrder {index:2;} structure {type:Leerzeile;}">
+                <Coords points="737,233 1144,233 1144,264 737,264"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076136361_690" custom="readingOrder {index:3;} structure {type:Leerzeile;}">
+                <Coords points="736,265 1143,265 1143,290 736,290"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076140382_693" custom="readingOrder {index:4;} structure {type:Leerzeile;}">
+                <Coords points="732,289 1143,289 1143,318 732,318"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076145061_696" custom="readingOrder {index:5;} structure {type:Leerzeile;}">
+                <Coords points="735,322 1139,322 1139,341 735,341"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076149504_699" custom="readingOrder {index:6;} structure {type:Leerzeile;}">
+                <Coords points="737,342 1145,342 1145,366 737,366"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076153449_702" custom="readingOrder {index:7;} structure {type:Leerzeile;}">
+                <Coords points="736,373 1137,373 1137,401 736,401"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076158224_705" custom="readingOrder {index:8;} structure {type:Leerzeile;}">
+                <Coords points="735,400 1141,400 1141,426 735,426"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076162302_708" custom="readingOrder {index:9;} structure {type:Leerzeile;}">
+                <Coords points="735,429 1141,429 1141,453 735,453"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076166647_711" custom="readingOrder {index:10;} structure {type:Leerzeile;}">
+                <Coords points="736,453 1143,453 1143,480 736,480"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076176503_714" custom="readingOrder {index:11;} structure {type:Leerzeile;}">
+                <Coords points="736,484 1141,484 1141,503 736,503"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076179654_717" custom="readingOrder {index:12;} structure {type:Leerzeile;}">
+                <Coords points="736,509 1144,509 1144,536 736,536"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076183119_720" custom="readingOrder {index:13;} structure {type:Leerzeile;}">
+                <Coords points="737,537 1144,537 1144,562 737,562"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076186768_723" custom="readingOrder {index:14;} structure {type:Leerzeile;}">
+                <Coords points="737,563 1141,563 1141,588 737,588"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076190575_726" custom="readingOrder {index:15;} structure {type:Leerzeile;}">
+                <Coords points="737,591 1141,591 1141,609 737,609"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076195376_729" custom="readingOrder {index:16;} structure {type:Leerzeile;}">
+                <Coords points="737,616 1140,616 1140,640 737,640"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076199261_732" custom="readingOrder {index:17;} structure {type:Leerzeile;}">
+                <Coords points="738,646 1141,646 1141,668 738,668"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076203063_735" custom="readingOrder {index:18;} structure {type:Leerzeile;}">
+                <Coords points="737,671 1140,671 1140,703 737,703"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076207259_738" custom="readingOrder {index:19;} structure {type:Leerzeile;}">
+                <Coords points="735,706 1140,706 1140,730 735,730"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076211700_741" custom="readingOrder {index:20;} structure {type:Leerzeile;}">
+                <Coords points="734,733 1143,733 1143,754 734,754"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076215436_744" custom="readingOrder {index:21;} structure {type:Leerzeile;}">
+                <Coords points="736,757 1137,757 1137,780 736,780"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076229304_747" custom="readingOrder {index:22;} structure {type:Leerzeile;}">
+                <Coords points="736,788 1142,788 1142,807 736,807"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076233081_750" custom="readingOrder {index:23;} structure {type:Leerzeile;}">
+                <Coords points="736,812 1144,812 1144,835 736,835"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076236227_753" custom="readingOrder {index:24;} structure {type:Leerzeile;}">
+                <Coords points="734,839 1142,839 1142,863 734,863"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076240350_756" custom="readingOrder {index:25;} structure {type:Leerzeile;}">
+                <Coords points="738,867 1140,867 1140,892 738,892"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076245015_759" custom="readingOrder {index:26;} structure {type:Leerzeile;}">
+                <Coords points="736,894 1142,894 1142,919 736,919"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076250160_762" custom="readingOrder {index:27;} structure {type:Leerzeile;}">
+                <Coords points="735,920 1141,920 1141,948 735,948"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076271782_765" custom="readingOrder {index:28;} structure {type:Leerzeile;}">
+                <Coords points="734,955 1141,955 1141,978 734,978"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076277488_768" custom="readingOrder {index:29;} structure {type:Leerzeile;}">
+                <Coords points="738,983 1137,983 1137,1010 738,1010"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076281195_771" custom="readingOrder {index:30;} structure {type:Leerzeile;}">
+                <Coords points="736,1013 1137,1013 1137,1037 736,1037"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076284541_774" custom="readingOrder {index:31;} structure {type:Leerzeile;}">
+                <Coords points="736,1039 1134,1039 1134,1067 736,1067"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076288118_777" custom="readingOrder {index:32;} structure {type:Leerzeile;}">
+                <Coords points="734,1069 1134,1069 1134,1094 734,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076292470_780" custom="readingOrder {index:33;} structure {type:Leerzeile;}">
+                <Coords points="733,1097 1129,1097 1129,1118 733,1118"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076295981_783" custom="readingOrder {index:34;} structure {type:Leerzeile;}">
+                <Coords points="731,1123 1134,1123 1134,1150 731,1150"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076299459_786" custom="readingOrder {index:35;} structure {type:Leerzeile;}">
+                <Coords points="736,1154 1131,1154 1131,1177 736,1177"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076310031_789" custom="readingOrder {index:36;} structure {type:Leerzeile;}">
+                <Coords points="734,1178 1134,1178 1134,1206 734,1206"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076314431_792" custom="readingOrder {index:37;} structure {type:Leerzeile;}">
+                <Coords points="734,1207 1136,1207 1136,1228 734,1228"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076319043_795" custom="readingOrder {index:38;} structure {type:Leerzeile;}">
+                <Coords points="737,1236 1126,1236 1126,1260 737,1260"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076322487_798" custom="readingOrder {index:39;} structure {type:Leerzeile;}">
+                <Coords points="735,1267 1137,1267 1137,1291 735,1291"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076326514_801" custom="readingOrder {index:40;} structure {type:Leerzeile;}">
+                <Coords points="732,1293 1137,1293 1137,1317 732,1317"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076330814_804" custom="readingOrder {index:41;} structure {type:Leerzeile;}">
+                <Coords points="735,1323 1147,1323 1147,1347 735,1347"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076335229_807" custom="readingOrder {index:42;} structure {type:Leerzeile;}">
+                <Coords points="732,1348 1144,1348 1144,1377 732,1377"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076339318_810" custom="readingOrder {index:43;} structure {type:Leerzeile;}">
+                <Coords points="734,1378 1149,1378 1149,1402 734,1402"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076344206_813" custom="readingOrder {index:44;} structure {type:Leerzeile;}">
+                <Coords points="734,1402 1152,1402 1152,1428 734,1428"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688076350850_816" custom="readingOrder {index:45;} structure {type:Leerzeile;}">
+                <Coords points="735,1431 1148,1431 1148,1462 735,1462"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

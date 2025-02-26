@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-12-01T13:40:41.541+01:00</Created>
+        <LastChange>2023-01-15T17:41:00.890+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Breslau00.jpg" imageWidth="1227" imageHeight="1885">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580012102" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1669898548692_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1669898551316_6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1669898548692_3" custom="readingOrder {index:0;} structure {type:Metatext;}">
+            <Coords points="189,41 607,41 607,134 189,134"/>
+            <TextLine id="line_1669898557273_9" custom="readingOrder {index:0;} Autornennung {offset:1; length:28;} Nasalstrich {offset:18; length:2;}">
+                <Coords points="213,51 578,51 578,116 213,116"/>
+                <TextEquiv>
+                    <Unicode>Herzoge heınrıch vō pꝛeſſela ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Herzoge heınrıch vō pꝛeſſela ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1669898551316_6" custom="readingOrder {index:1;} structure {type:Metatext;}">
+            <Coords points="702,43 783,43 783,131 702,131"/>
+            <TextLine id="line_1669898560491_12" custom="readingOrder {index:0;}">
+                <Coords points="718,53 765,53 765,100 718,100"/>
+                <TextEquiv>
+                    <Unicode>· v ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· v ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

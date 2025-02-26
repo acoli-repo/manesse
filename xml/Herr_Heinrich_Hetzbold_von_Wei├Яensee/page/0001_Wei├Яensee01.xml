@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-01-08T19:22:51.393+01:00</Created>
+        <LastChange>2023-01-10T16:37:05.466+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0001_Weißensee01.jpg" imageWidth="1281" imageHeight="1908">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1740580003049" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1673204407614_16"/>
+                <RegionRefIndexed index="1" regionRef="region_1673204412694_19"/>
+                <RegionRefIndexed index="2" regionRef="region_1673204423046_22"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1673204407614_16" custom="readingOrder {index:0;}">
+            <Coords points="304,30 748,30 748,103 304,103"/>
+            <TextLine id="line_1673204435162_25" custom="readingOrder {index:0;} structure {type:Metatext;} Autornennung {offset:0; length:36;}">
+                <Coords points="311,35 740,35 740,91 311,91"/>
+                <TextEquiv>
+                    <Unicode>Her · Heınrıch Hetzbolt von Wıſſenſe ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Her · Heınrıch Hetzbolt von Wıſſenſe ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1673204412694_19" custom="readingOrder {index:1;}">
+            <Coords points="760,33 858,33 858,103 760,103"/>
+            <TextLine id="line_1673204442902_28" custom="readingOrder {index:0;} structure {type:Metatext;}">
+                <Coords points="767,37 849,37 849,83 767,83"/>
+                <TextEquiv>
+                    <Unicode>· Lxv ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>· Lxv ·</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1673204423046_22" custom="readingOrder {index:2;}">
+            <Coords points="1167,52 1228,52 1228,104 1167,104"/>
+            <TextLine id="line_1673204451486_31" custom="readingOrder {index:0;} structure {type:Metatext;} Seitennummerierung {offset:0; length:3;}">
+                <Coords points="1171,59 1220,59 1220,91 1171,91"/>
+                <TextEquiv>
+                    <Unicode>228</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>228</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
