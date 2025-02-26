@@ -15,6 +15,8 @@ The content will be released under an open (Creative Commons) license, but this 
 
 ## Content
 
+- **MANUSCRIPT AND TRANSCRIPTION**
+	- The data transcribed and annotated can be accessed via a designated [table of contents file](overview.md). Note that this is for illustration, only, in particular, it does not meet the quality standards required from a proper digital publication.
 - **FOR PHILOLOGICAL PURPOSES**
 	- [`html/`](html) **partial** transcription data, HTML export, for human consultation
 		- each page provides a scan of the page, followed by the transcription
@@ -26,10 +28,6 @@ The content will be released under an open (Creative Commons) license, but this 
 		- **warning**: The Transkribus TEI export contains XML-valid image information, bounding boxes, transliteration and annotations -- but it does not provide TEI compliant data structures for project-specific annotations. The post-processing of these annotations is addressed in the next project phase.
 		- **note**: Transkribus TEI provides visual information first (under `/TEI/facsimile`), then followed by text and annotations (under `/TEI/text`), connected by XPointers. For manually inspecting the validity of annotations and transliteration, please **scroll down** to the first `<text>` element.
 	- [`xml/`](xml) **full** transcription data, Transkribus Page XML format ("Page XML"), also includes source images. (This is for subsequent processing/technically interested colleagues.)
-
-## Overview
-
-<!--@include:./overview.md-->
 
 ## How to (re)build from scratch (for developers)
 
